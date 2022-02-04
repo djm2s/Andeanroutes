@@ -39,7 +39,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -188,7 +188,7 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3">
-                                            @include('layouts.booking-español')
+                                            @include('layouts.booking-castellano')
                                             <div id="anuncioright">
                                                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Largo derecha -->
                                                 <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6570209707738783" data-ad-slot="7960359151"></ins>
@@ -287,7 +287,7 @@
             </div>
         </section>
         <div id="separador"></div>
-        @include('layouts.foot-español')
+        @include('layouts.foot-castellano')
         <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
         <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
         <script type='text/javascript' src='js/scripts.js'></script>

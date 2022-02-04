@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="Tour de 7 días, Luxury Cusco, Peru tours, Machu Picchu luxury" />
     <meta property="og:description" content="Disfruta de Perú en 7 dias alrededor del país." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights.php">
+    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights">
     <meta property="og:title" content="Perú 7 dias y 6 noches">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
@@ -38,7 +38,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -257,14 +257,14 @@
                 <div class="sticky-top" style="padding-top: 75px; z-index: 40">
                     <div class="card">
                         <div class="card-body">
-                            @include('layouts.booking-español')
+                            @include('layouts.booking-castellano')
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    @include('layouts.foot-español')
+    @include('layouts.foot-castellano')
     <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
     <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
     <script type='text/javascript' src='js/scripts.js'></script>

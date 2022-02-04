@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="tour de 3 días, Puno d elujo, Puno tours, Puno" />
     <meta property="og:description" content="Disfrute de este tour en Puno. Conozca la capital folklorica de Perú." />
-    <meta property="og:url" content="https://andeanexclusive.com/puno-3-dias-tour.php">
+    <meta property="og:url" content="https://andeanexclusive.com/puno-3-dias-tour">
     <meta property="og:title" content="Puno - Lago Titikaka  - sierra de Perú">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://andeanexclusive.com/img/tours/puno-peru-islands.jpg" />
@@ -39,7 +39,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -51,8 +51,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#"><img src="img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="puno-3-days-tour"><img src="img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="#">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="puno-3-days-tour">En</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -186,7 +186,7 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3">
-                                            @include('layouts.booking-español')
+                                            @include('layouts.booking-castellano')
                                             <div id="anuncioright">
                                                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Largo derecha -->
                                                 <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6570209707738783" data-ad-slot="7960359151"></ins>
@@ -282,7 +282,7 @@
             </div>
         </section>
         <div id="separador"></div>
-        @include('layouts.foot-español')
+        @include('layouts.foot-castellano')
         <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
         <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
         <script type='text/javascript' src='js/scripts.js'></script>

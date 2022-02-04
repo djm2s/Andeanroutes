@@ -37,7 +37,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-blog-español')
+                                    @include('layouts.menu-blog-vastellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -240,7 +240,7 @@
             </div>
         </section>
         <div id="separador"></div>
-        @include('layouts.foot-blog-español')
+        @include('layouts.foot-blog-castellano')
         <script type='text/javascript' src="../js/jquery4a5f.js"></script>
         <script type='text/javascript' src="../js/mediaelement-and-player.min45a0.js"></script>
         <script type='text/javascript' src="../js/swiper.minbb49.js"></script>

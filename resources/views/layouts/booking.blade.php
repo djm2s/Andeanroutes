@@ -1,6 +1,6 @@
 <!-----Booking---------->
-<h4 style="padding-top: 13px" class="text-center">Book Now!</h4>
-<form action="{{ route('mensaje01') }}" method="post" role="form" class="book1">
+<h4 class="text-center">Book Now!</h4>
+<form action="{{ route('mensaje01') }}" method="post" role="form" class="book1 text-center">
 	@csrf
 	<div class="form-row">
 		<br>
@@ -15,12 +15,12 @@
 		</div>
 	</div>
 	<div class="form-row">
-		<div class="form-group col-lg-12">
+		<div class="form-group col-lg-6">
 			<span class="form-label">Adults:</span>
 			<input class="form-control" name="adultos" id="adultos" type="number" placeholder="0" data-error="Valid email is required.">
 			<div class="validation"></div>
 		</div>
-		<div class="form-group col-lg-12">
+		<div class="form-group col-lg-6">
 			<span class="form-label">Children:</span>
 			<input class="form-control" name="child" id="child" type="number" placeholder="0" data-error="Valid email is required.">
 			<div class="validation"></div>
@@ -40,7 +40,7 @@
 	</div>
 	<div class="form-group col-lg-12">
 		<span class="form-label">Send us a message:</span>
-		<textarea class="form-control" name="mensaje" id="mensaje" rows="5" data-rule="required" data-msg="Please write something for us" placeholder="Message"></textarea>
+		<textarea class="form-control" name="mensaje" id="mensaje" rows="5" data-rule="required" data-msg="Write here your message." placeholder="Message"></textarea>
 		<div class="validation"></div>
 	</div>
 	<center>

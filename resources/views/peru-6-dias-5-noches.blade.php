@@ -6,9 +6,9 @@
     <meta charset="UTF-8">
     <title>6 días en Perú - Peru por 6 días 5 noches - Machu Picchu - Valle Sagrado - City Tours</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="5 days tour, Luxury Cusco, Peru tours, Machu Picchu luxury" />
-    <meta property="og:description" content="We present you a detailed tour for 5 days during your stay in Cusco." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights.php">
+    <meta name="keywords" content="6 días en Perú, Peru por 6 días 5 noches, Machu Picchu, Valle Sagrado, City Tours" />
+    <meta property="og:description" content="atrévete a conocer Perú en 6 días." />
+    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights">
     <meta property="og:title" content="Cusco 5 days - Machu Picchu - Sacred Valley!">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
@@ -41,7 +41,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -261,14 +261,14 @@
                 <div class="sticky-top" style="padding-top: 75px; z-index: 40">
                     <div class="card">
                         <div class="card-body">
-                            @include('layouts.booking-español')
+                            @include('layouts.booking-castellano')
                         </div>
                     </div>
                 </div>
             </div>
         </div>
     </div>
-    @include('layouts.foot-español')
+    @include('layouts.foot-castellano')
     <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
     <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
     <script type='text/javascript' src='js/scripts.js'></script>

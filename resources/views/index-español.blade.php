@@ -42,7 +42,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -264,7 +264,7 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='arequipa-3-days.php' class='entry-link'><img width="400" height="400" src="../img/thumbnail/arequipa-perú.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa agencia de viajes" srcset="../img/thumbnail/arequipa-perú.JPG 150w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                        <a href='arequipa-3-days.php' class='entry-link'><img width="400" height="400" src="../img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa agencia de viajes" srcset="../img/thumbnail/arequipa-peru.JPG 150w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Arequipa</h3>
@@ -498,7 +498,7 @@
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
                                                         <a href='#'>
-                                                            <img class="img-fluid" alt="Destino Perú" src="../img/thumbnail/Thumbnail-2/arequipa-perú.JPG">
+                                                            <img class="img-fluid" alt="Destino Perú" src="../img/thumbnail/Thumbnail-2/arequipa-peru.JPG">
                                                         </a>
                                                         <div class="card-body">
                                                             <div class='entry-info'>
@@ -741,7 +741,7 @@
         <div class="col-lg-2"></div>
     </div>
     </section>
-    @extends('layouts.foot')
+    @extends('layouts.foot-castellano')
     <script type='text/javascript' src='../js/swiper.minbb49.js?ver=5.2.2'></script>
     <script type='text/javascript' src='../js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
     <script type='text/javascript' src='../js/scripts.js'></script>

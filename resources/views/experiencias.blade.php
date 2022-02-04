@@ -41,7 +41,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -307,7 +307,7 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href="peru-7-dias-6-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-perú.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
+                                                                    <a href="peru-7-dias-6-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>Perú 7 días</h3>
@@ -347,7 +347,7 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='#' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
+                                                                    <a href='puerto-maldonado-castellano' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>Perú 15 días</h3>
@@ -355,7 +355,7 @@
                                                                         Lima, Cusco, Machu Picchu, Puno, Arequipa
                                                                     </div>
                                                                     <div class='readmore'>
-                                                                        <a href='#' class='button'>Leer más</a>
+                                                                        <a href='puerto-maldonado-castellano' class='button'>Leer más</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -375,7 +375,7 @@
             </div>
     </div>
     </section>
-    @include('layouts.foot-español')
+    @include('layouts.foot-castellano')
     <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
     <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
     <script type='text/javascript' src='js/scripts.js'></script>

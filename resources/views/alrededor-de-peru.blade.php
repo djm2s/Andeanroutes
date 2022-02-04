@@ -38,20 +38,20 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
                                         </a>
                                         <ul>
                                             <li><a>Español</a></li>
-                                            <li><a href="around-peru">Ingles</a></li>
+                                            <li><a href="around">Ingles</a></li>
                                         </ul>
                                     </li>
-									<li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
+                                    <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
                                         <a href="#"><img src="../img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="around-peru"><img src="../img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="around"><img src="../img/ingles.png" alt="english Travel Agency"></a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -88,263 +88,248 @@
                                     </div>
                                 </div>
                                 <div class="vc_row-full-width vc_clearfix"></div>
-								 <div data-onepage-title="Services" data-onepage-slug="services" class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+                                <div data-onepage-title="Services" data-onepage-slug="services" class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
                                     <div class="wpb_column vc_column_container vc_col-sm-12">
                                         <div class="vc_column-inner vc_custom_1461227943574">
                                             <div class="wpb_wrapper">
                                                 <div class='heading  text-center '>
-													<div id="separador"></div>
+                                                    <div id="separador"></div>
                                                     <h3>Más solicitados</h3>
-													<div id="separadordjm"></div>
-												</div>
-											</div>
-											<div id="separador"></div>
-											<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228417147">
-                                                            <div class="wpb_wrapper">
-                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href='cusco-4-dias-3-noches' class='entry-link'><img  srcset="img/thumbnail/vacaciones-familiares-peru.jpg 1000w, img/thumbnail/vacaciones-familiares-peru.jpg 500w" alt="Cusco tour"/></a>	
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>PERÚ POR 4 DÍAS </h3>
-                                                                        <div class='readmore'>
-                                                                            <a href='cusco-4-dias-3-noches' class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-													<div class="wpb_column vc_column_container vc_col-sm-3">
-														<div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-																		<a href="peru-5-dias-4-noches" class='entry-link'><img src="img/thumbnail/llama-peru.JPG" alt="llamas Peru"/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 5 días</h3>
-                                                                        <div class='readmore'>
-                                                                            <a class='button' href="peru-5-dias-4-noches">más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228417147">
-                                                            <div class="wpb_wrapper">
-                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="peru-6-dias-5-noches" class='entry-link'><img alt="Machu Picchu - Cusco - Perú" src="img/thumbnail/Machupicchu_AET.jpg"/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 6 días</h3>
-                                                                        <div class='readmore'>
-                                                                            <a href="peru-6-dias-5-noches" class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>                                                    
-													<div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="peru-7-dias-6-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/cusco-01.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Tour in Cusco" srcset="img/thumbnail/cusco-01.JPG 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Aroun Peru for 7 days</h3>
-                                                                        <div class='readmore'>
-                                                                            <a href="peru-7-dias-6-noches" class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
+                                                    <div id="separadordjm"></div>
                                                 </div>
-											<div id="separador"></div>
-											<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
-												<div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228442150">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="peru-8-dias-7-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/Machupicchu.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tren de ida a Machu Picchu" srcset="img/thumbnail/Machupicchu.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 8 días</h3>
-                                                                        <div class='readmore'>
-                                                                            <a href="peru-8-dias-7-noches" class='button'>Más info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228442150">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="peru-9-dias-8-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/urubamba-market.png" class="attachment-post-grid-s size-post-grid-s" alt="urubamba market - cusco" sizes="(max-width: 400px) 100vw, 400px" /></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 9 días</h3>
-                                                                        <div class='readmore'>
-                                                                            <a href="peru-9-dias-8-noches" class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="peru-10-dias-9-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/biking-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="biking cusco sacred valley"/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 10 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $5647
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a class='button' href="peru-10-dias-9-noches">Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-													<div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="Sacred_Valley" class='entry-link'><img width="400" height="400" src="img/thumbnail/chincheros.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Sacred Valley Cusco" srcset="img/thumbnail/chincheros.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 12 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $65333
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a class='button' href="Sacred_Valley">Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-											<div id="separador"></div>
-											<div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228417147">
-                                                            <div class="wpb_wrapper">
-                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="puno-3-days-tour" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno"/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 15 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $5632
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a href='puno-3-days-tour' class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228442150">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href='arequipa-3-days' class='entry-link'><img width="400" height="400"  src="img/thumbnail/arequipa-perú.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú"/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 18 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $274
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a href="arequipa-3-days" class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                    <div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href='lima-3-days-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt=""/></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 20 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $2233
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a href='lima-3-days-tour' class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-													<div class="wpb_column vc_column_container vc_col-sm-3">
-                                                        <div class="vc_column-inner vc_custom_1461228449756">
-                                                            <div class="wpb_wrapper">
-                                                                <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href='puerto-maldonado' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
-                                                                    </div>
-                                                                    <div class='entry-info'>
-                                                                        <h3>Perú por 22 días</h3>
-                                                                        <div class='info'>
-                                                                            Desde $89079
-                                                                        </div>
-                                                                        <div class='readmore'>
-                                                                            <a href='puerto-maldonado' class='button'>Más Info</a>
-                                                                        </div>
-                                                                    </div>
-                                                                </div>
-                                                            </div>
-                                                        </div>
-                                                    </div>
-                                                </div>
-											<div id="separador"></div>
                                             </div>
+                                            <div id="separador"></div>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228417147">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href='cusco-4-dias-3-noches' class='entry-link'><img srcset="img/thumbnail/vacaciones-familiares-peru.jpg 1000w, img/thumbnail/vacaciones-familiares-peru.jpg 500w" alt="Cusco tour" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>PERÚ POR 4 DÍAS </h3>
+                                                                    <div class='readmore'>
+                                                                        <a href='cusco-4-dias-3-noches' class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-5-dias-4-noches" class='entry-link'><img src="img/thumbnail/llama-peru.JPG" alt="llamas Peru" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 5 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a class='button' href="peru-5-dias-4-noches">más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228417147">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-6-dias-5-noches" class='entry-link'><img alt="Machu Picchu - Cusco - Perú" src="img/thumbnail/Machupicchu_AET.jpg" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 6 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href="peru-6-dias-5-noches" class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-7-dias-6-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/cusco-01.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Tour in Cusco" srcset="img/thumbnail/cusco-01.JPG 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Peru por 7 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href="peru-7-dias-6-noches" class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="separador"></div>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228442150">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-8-dias-7-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/Machupicchu.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tren de ida a Machu Picchu" srcset="img/thumbnail/Machupicchu.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 8 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href="peru-8-dias-7-noches" class='button'>Más info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228442150">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-9-dias-8-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/urubamba-market.png" class="attachment-post-grid-s size-post-grid-s" alt="urubamba market - cusco" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 9 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href="peru-9-dias-8-noches" class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-10-dias-9-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/biking-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="biking cusco sacred valley" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 10 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a class='button' href="peru-10-dias-9-noches">Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-12-dias" class='entry-link'><img width="400" height="400" src="img/thumbnail/chincheros.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Sacred Valley Cusco" srcset="img/thumbnail/chincheros.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 12 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a class='button' href="peru-12-dias">Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="separador"></div>
+                                            <div class="vc_row wpb_row vc_inner vc_row-fluid vc_custom_1461228476759">
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228417147">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href="peru-15-dias" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 15 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href='peru-15-dias' class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228442150">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href='peru-18-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 18 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href="oeru-18-dias" class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href='peru-20-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 20 días</h3>
+                                                                    <div class='readmore'>
+                                                                        <a href='peru-20-dias' class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="wpb_column vc_column_container vc_col-sm-3">
+                                                    <div class="vc_column-inner vc_custom_1461228449756">
+                                                        <div class="wpb_wrapper">
+                                                            <div class='travel-item'>
+                                                                <div class='entry-img'>
+                                                                    <a href='peru-22-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
+                                                                </div>
+                                                                <div class='entry-info'>
+                                                                    <h3>Perú por 22 días</h3>
+                                                                    <div class='info'>
+                                                                        Desde $89079
+                                                                    </div>
+                                                                    <div class='readmore'>
+                                                                        <a href='peru-22-dias' class='button'>Más Info</a>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div id="separador"></div>
                                         </div>
                                     </div>
                                 </div>
-								<div class="vc_row-full-width vc_clearfix"></div>
                             </div>
-                        </article>
+                            <div class="vc_row-full-width vc_clearfix"></div>
                     </div>
+                    </article>
                 </div>
-            </div>            
-        </section>
-        @extends('layouts.foot')
-        <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
-        <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
-        <script type='text/javascript' src='js/scripts.js'></script>
+            </div>
+    </div>
+    </section>
+    @extends('layouts.foot-castellano')
+    <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
+    <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
+    <script type='text/javascript' src='js/scripts.js'></script>
 
 </body>
 

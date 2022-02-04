@@ -41,7 +41,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="btn botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -53,8 +53,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href=""><img src="../img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="blog"><img src="../img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="blog">En</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -290,7 +290,7 @@
             </div>
         </section>
     </div>
-    @extends('layouts.foot-español')
+    @extends('layouts.foot-castellano')
     <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
     <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
     <script type='text/javascript' src='js/scripts.js'></script>

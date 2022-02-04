@@ -1,4 +1,3 @@
-@section('contenido')
 <!DOCTYPE html>
 
 <html lang="en-US" class="no-js">
@@ -252,7 +251,7 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='arequipa-3-days' class='entry-link'><img src="img/thumbnail/arequipa-perú.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Luxury Travel Agency" srcset="img/thumbnail/arequipa-perú.JPG 150w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                        <a href='arequipa-3-days' class='entry-link'><img src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Luxury Travel Agency" srcset="img/thumbnail/arequipa-peru.JPG 150w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Arequipa</h3>
@@ -488,7 +487,7 @@
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
                                                         <a href='peru-8-days-7-nights'>
-                                                            <img class="img-fluid" alt="Destino Perú" src="img/thumbnail/Thumbnail-2/arequipa-perú.JPG">
+                                                            <img class="img-fluid" alt="Destino Perú" src="img/thumbnail/Thumbnail-2/arequipa-peru.JPG">
                                                         </a>
                                                         <div class="card-body">
                                                             <div class='entry-info'>
@@ -734,8 +733,7 @@
                 <div class="col-lg-2"></div>
             </div>
         </section>
-        @endsection
-        @extends('layouts.foot')
+        @include('layouts.foot')
 
 </body>
 

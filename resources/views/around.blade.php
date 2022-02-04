@@ -267,7 +267,7 @@
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='peru-18-days' class='entry-link'><img width="400" height="400"  src="img/thumbnail/arequipa-perú.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú"/></a>
+                                                                        <a href='peru-18-days' class='entry-link'><img width="400" height="400"  src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Perú for 18 days</h3><br>

@@ -39,7 +39,7 @@
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu-español')
+                                    @include('layouts.menu-castellano')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="botondjm">Idioma <i class="fa fa-chevron-down"></i></button>
@@ -170,7 +170,7 @@
                                             <p> Por la mañana comenzará la visita al Museo Larco Herrera, fundado en 1926, en una antigua mansión construida en 1707. Este museo alberga la mayor colección privada de arte precolombino que existe en el mundo. Exposición de piezas arqueológicas de cerámica, oro, piedra, madera y textiles de la cultura prehispánica, especialmente las culturas del norte peruano. Destaca la "Sala de arte Textil", la "gran sala de cultura". También exhibe la única colección del mundo de "Huacos eróticos"... Después del almuerzo, se dirige al Museo Enrico Poly, donde vemos una impresionante colección de artefactos coloniales precolombinos de plata y oro. <strong> Pernocte en Lima.</strong></p><br>
 
                                             <p><strong>Día 03: Pachacamac - Museo Amano - Regreso a casa. </strong> </p>
-                                                                                         <p> En la mañana conducimos para visitar Pachacamac, un importante complejo religioso inca dedicado a la adoración del dios del sol. Luego, en el camino de regreso a Lima, visitamos la incomparable colección de textiles antiguos de la costa central en el Museo Amano, con cita previa. Según su vuelo de regreso a casa, traslado al aeropuerto, se recomienda estar en el aeropuerto 03 horas antes del vuelo.</p>
+                                            <p> En la mañana conducimos para visitar Pachacamac, un importante complejo religioso inca dedicado a la adoración del dios del sol. Luego, en el camino de regreso a Lima, visitamos la incomparable colección de textiles antiguos de la costa central en el Museo Amano, con cita previa. Según su vuelo de regreso a casa, traslado al aeropuerto, se recomienda estar en el aeropuerto 03 horas antes del vuelo.</p>
                                             <div id="separador"></div>
 
                                             <!-----Booking---------->
@@ -192,7 +192,7 @@
                                             </div>
                                         </div>
                                         <div class="col-lg-3 col-md-3">
-                                            @include('layouts.booking-español')
+                                            @include('layouts.booking-castellano')
                                             <div id="anuncioright">
                                                 <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js"></script><!-- Largo derecha -->
                                                 <ins class="adsbygoogle" style="display:inline-block;width:300px;height:600px" data-ad-client="ca-pub-6570209707738783" data-ad-slot="7960359151"></ins>
@@ -288,7 +288,7 @@
             </div>
         </section>
         <div id="separador"></div>
-        @include('layouts.foot-español')
+        @include('layouts.foot-castellano')
         <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
         <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
         <script type='text/javascript' src='js/scripts.js'></script>

@@ -6,10 +6,10 @@
                             <h5 class="widget-title">Query</h5>
                             <div id="separadordjm2"></div>
                             <ul>
-								<li><a href="../about.html">About Us</a></li>
-								<li><a href="../testimonials.html">Testimonials</a></li>
-                                <li><a href="../terms-conditions-aet.html">Terms & Conditions</a></li>
-                                <li><a href="../faqs.html">FAQS</a></li>
+								<li><a href="../about">About Us</a></li>
+								<li><a href="../testimonials">Testimonials</a></li>
+                                <li><a href="../terms-conditions-aet">Terms & Conditions</a></li>
+                                <li><a href="../faqs">FAQS</a></li>
 								
                             </ul>
                         </div>

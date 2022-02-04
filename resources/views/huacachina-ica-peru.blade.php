@@ -33,7 +33,7 @@
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="index.html" rel="home" class="logo-text-link">
+                                <a href="index" rel="home" class="logo-text-link">
                                     <div class="logo2"></div>
                                 </a>
                             </div>
