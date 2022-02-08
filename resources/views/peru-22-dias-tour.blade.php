@@ -4,16 +4,16 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>15 días en Perú - Peru por 15 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa
+    <title>22 días en Perú - Peru por 22 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa - Trujillo
     </title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords"
-        content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 15 días en Perú" />
+        content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 22 días en Perú" />
     <meta property="og:description"
-        content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 15 días en Perú" />
+        content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 22 días en Perú" />
     <meta property="og:url" content="https://andeanexclusive.com/peru-15-dias">
     <meta property="og:title"
-        content="10 días en Perú - Peru por 15 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa">
+        content="22 días en Perú - Peru por 22 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa - Trujillo">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
     <meta name="author" content="Web Masters DJM2" />
@@ -55,14 +55,14 @@
                                         </a>
                                         <ul>
                                             <li><a>Español</a></li>
-                                            <li><a href="peru-15-days">Ingles</a></li>
+                                            <li><a href="peru-22-days-tour">Ingles</a></li>
                                         </ul>
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr'
                                             target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
                                         <a href="#">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="peru-15-days">En</a>
+                                        <a href="peru-22-days-tour">En</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -80,7 +80,7 @@
                         <div class="entry-excerpt">
                             <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home"
                                 data-onepage-slug="home"
-                                class="vc_row wpb_row hermoso vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
+                                class="vc_row wpb_row tours-varios-dias vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner vc_custom_1461317698190">
                                         <div class="wpb_wrapper">
@@ -99,7 +99,7 @@
                                                                         </div>
                                                                     </center>
                                                                 @endif
-                                                                <h1> PERÚ 12 DÍAS</h1>
+                                                                <h1> PERÚ 22 DÍAS</h1>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -126,7 +126,7 @@
                         <h1>Tours Similares</h1>
                         <div id="separador"></div>
                         <a href="peru-8-dias-7-noches"><img src="img/thumbnail/destino-per.JPG"
-                                alt="Cusco Tours magestic"></a><br><br>
+                                alt="Cusco Tours for 22 days"></a><br><br>
                         <h2>Perú por 8 días</h2>
                         <a href="peru-8-dias-7-noches" class="button">Más info</a>
                     </div>
@@ -149,10 +149,10 @@
                     </div>
                     <div id="similares">
                         <div id="separador"></div>
-                        <a href="peru-7-dias-6-noches"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
+                        <a href="peru-12-dias"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
                         <br><br>
-                        <h2>Perú 7 días</h2>
-                        <a href="peru-7-dias-6-noches" class="button">Más info</a>
+                        <h2>Perú 12 días</h2>
+                        <a href="peru-12-dias" class="button">Más info</a>
                     </div>
                     <div id="separador"></div>
                 </div>
@@ -161,9 +161,10 @@
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services"
                     class="vc_row-fluid vc_custom_1461248392126">
                     <center>
-                        <h1 id="titulo1">PERÚ POR 15 DÍAS </h1>
+                        <h1 id="titulo1">PERÚ POR 22 DÍAS </h1>
                         <div id="separadordjm2"></div>
-                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima - Cusco - Puno - Arequipa</i>
+                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima - Cusco - Puno - Arequipa - Nazca -
+                                Trujillo</i>
                         <div class='readmore'>
                             <a href="mailto:reservas@andeanexclusive.com" id="botondjm3" type="submit" name="submit"
                                 value="Send"><i class="fa fa-envelope-o"></i> Contáctenos</a>
@@ -172,20 +173,18 @@
                     </center>
                     <div id="separador"></div>
                     <h5 style="padding: 0px 1px 0px 20px;">Overview</h5>
-                    <p style="padding: 0px 1px 0px 20px;">Tour Perú Machupicchu 15 días: City tour en Lima, City tour en
-                        Cusco, tour al Valle Sagrado de los Inkas, Tour en Machupicchu con Huaynapicchu, Tour en el
-                        Cañón del Colca en 2 días y 1 noche, Tour en el Lago Titicaca, Isla de los Uros e Isla Taquile.
-                    </p>
+                    <p style="padding: 0px 1px 0px 20px;">Un espectacular tour de 22 díaasa alrededor de Perú, conocerás
+                        las ciudades mas hermosas que ofrece <strong> Perú</strong>. Lima, Cusco, Trujillo, Puno, Arequipa, Nazca.</p>
                     <br>
                     <table class="table">
                         <tbody>
                             <tr>
                                 <th>DÍA 01</th>
-                                <td>Bienvenida a Lima; City tour en Lima</td>
+                                <td>Bienvenida a Lima y vuelo a Trujillo</td>
                             </tr>
                             <tr>
                                 <th>DÍA 02</th>
-                                <td>Vuelo Lima - Arequipa: City tour en Arequipa</td>
+                                <td>Tucuman (Valle de las piramides)</td>
 
                             </tr>
                             <tr>
@@ -296,8 +295,7 @@
                         Juanita, un espectacular hallazgo de una niña perteneciente a la nobleza Inca que fue
                         descubierta en las frías faldas del nevado Ampato. Por la tarde tomaremos el bus de turismo que
                         nos llevara a la ciudad de Puno, donde pasaremos la noche en un Hotel.</p>
-                        <img src="img/tours/puno-peru-islands.jpg" class="img-fluid"
-                        alt="Responsive image"><br><br>
+                    <img src="img/tours/puno-peru-islands.jpg" class="img-fluid" alt="Responsive image"><br><br>
 
                     <p><strong>Día 07: Tour en el Lago Titicaca, Isla Flotante de los Uros y Taquile.</strong></p>
                     <p>Pasaremos a recogerle a su hotel a las 7:00 a.m; aproximadamente para trasladarle al Puerto e

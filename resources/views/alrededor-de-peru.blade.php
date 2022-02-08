@@ -281,12 +281,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='peru-20-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
+                                                                    <a href='peru-20-dias-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>Perú por 20 días</h3>
                                                                     <div class='readmore'>
-                                                                        <a href='peru-20-dias' class='button'>Más Info</a>
+                                                                        <a href='peru-20-dias-tour' class='button'>Más Info</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -298,15 +298,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='peru-22-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
+                                                                    <a href='peru-20-dias-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú por 22 días</h3>
-                                                                    <div class='info'>
-                                                                        Desde $89079
-                                                                    </div>
+                                                                    <h3>Perú por 20 días</h3>
                                                                     <div class='readmore'>
-                                                                        <a href='peru-22-dias' class='button'>Más Info</a>
+                                                                        <a href='peru-20-dias-tour' class='button'>Más Info</a>
                                                                     </div>
                                                                 </div>
                                                             </div>

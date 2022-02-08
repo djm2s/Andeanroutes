@@ -59,7 +59,7 @@ Route::get('peru-10-days-9-nights', function(){return view('peru-10-days-9-night
 Route::get('peru-12-days', function(){return view('peru-12-days');});
 Route::get('peru-15-days', function(){return view('peru-15-days');});
 Route::get('peru-18-days', function(){return view('peru-18-days');});
-Route::get('peru-20-days', function(){return view('peru-20-days');});
+Route::get('peru-20-days-tour', function(){return view('peru-20-days-tour');});
 Route::get('peru-22-days', function(){return view('peru-22-days');});
 
 //Rutas Español
@@ -95,8 +95,9 @@ Route::get('peru-10-dias-9-noches', function(){ return view('peru-10-dias-9-noch
 Route::get('peru-12-dias', function(){ return view('peru-12-dias');});
 Route::get('peru-15-dias', function(){ return view('peru-15-dias');});
 Route::get('peru-18-dias', function(){ return view('peru-18-dias');});
-Route::get('peru-20-dias', function(){ return view('peru-20-dias');});
-Route::get('peru-22-dias', function(){ return view('peru-22-dias');});
+Route::get('peru-20-dias-tour', function(){ return view('peru-20-dias-tour');});
+Route::get('peru-22-dias-tour', function(){ return view('peru-22-dias-tour');});
+
 
 
 //blog

@@ -1,114 +1,277 @@
 #logo {
     width: 290px;
-    padding-top: 30px}
-.logo2{
-	    width: 320px;
+    padding-top: 30px
+}
+
+.logo2 {
+    width: 320px;
     height: 100px;
     padding-top: 30px;
-	margin-left: -200px;
+    margin-left: -200px;
     background: url("../img/andean-exclusive-logo.png");
     background-size: cover;
     background-repeat: no-repeat;
-	margin-left: 0px;
+    margin-left: 0px;
 }
-body{background: #f2f2f2;}
-#botonindex2{ background: #0e95be; width: 100%; color:#fff; border-radius: 5px; border-color: #0e95be; 
-    text-transform: uppercase;}
-#botonindex2:hover{ background: #fff; color:#000; border-color: #000; font-weight: 800}
-#faceb{background: #3b5998; border-radius: 10px; border-color: #fff; height: 40px; width: 100px}
-#faceb:hover{ border-color: #3b5998; background:#fff}
-#fbfont{color:#fff}
-#fbfont:hover{color:#3b5998; font-weight: 600}
-#insb{background: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #E1306C, #F56040,#FCAF45, #FFDC80); border-radius: 10px; border-color: #fff; height: 40px; width: 100px}
-#insb:hover{background:#fff; border-color:#E1306C;  }
-#insfont{color:#fff}
-#insfont:hover{color:#E1306C; font-weight: 600}
-#twib{background: #00acee; border-radius: 10px; border-color: #fff; height: 40px; width: 100px}
-#twib:hover{border-color: #00acee; background:#fff}
-#twifont{color:#fff}
-#twifont:hover{color:#00acee; font-weight: 600}
-#pinb{background: #c8232c; border-radius: 10px; border-color: #fff; height: 40px; width: 100px}
-#pinb:hover{border-color: #c8232c; background:#fff}
-#pinfont{color:#fff}
-#pinfont:hover{color:#c8232c; font-weight: 600}
-#botonnuevo{background: #0c8178; font-size: 10px; color: #fff; padding: 10px 15px 10px 15px; text-transform: uppercase;
-border-radius: 3px}
-#botonnuevo:hover{background: #ffffff;color:#000; border-color: #000; border-style: inset; border-width: 1px;}
-.espacio{margin-bottom: 25px;}
-#drop{text-transform: uppercase; font-size: 12px}
-#modal-p{color:#148ebc}
-#separador{
-        width: 100%;
-        display: inline-block;
-        height: 50px;
-    }
-#img-blog{width: 80%}
-#logodjm{
-        width: 35px;
-    }
-#ulnone{
-	list-style: none;
+
+body {
+    background: #f2f2f2;
 }
-#bookindex{
-	padding-bottom: 100px;	
-	background-image: linear-gradient(
-      rgba(0, 0, 0, 0.5),
-      rgba(0, 0, 0, 0.5)
-    ), url("../img/tours/Hiram-bingham.JPG");
-	background-size: cover;
-	background-repeat: no-repeat;
+
+#botonindex2 {
+    background: #0e95be;
+    width: 100%;
+    color: #fff;
+    border-radius: 5px;
+    border-color: #0e95be;
+    text-transform: uppercase;
 }
-#bookindex h3{ color: white}
-#bookindex h4{ color: white; text-transform: uppercase; font-size: 24px}
+
+#botonindex2:hover {
+    background: #fff;
+    color: #000;
+    border-color: #000;
+    font-weight: 800
+}
+
+#faceb {
+    background: #3b5998;
+    border-radius: 10px;
+    border-color: #fff;
+    height: 40px;
+    width: 100px
+}
+
+#faceb:hover {
+    border-color: #3b5998;
+    background: #fff
+}
+
+#fbfont {
+    color: #fff
+}
+
+#fbfont:hover {
+    color: #3b5998;
+    font-weight: 600
+}
+
+#insb {
+    background: linear-gradient(to right, #405DE6, #5851DB, #833AB4, #E1306C, #F56040, #FCAF45, #FFDC80);
+    border-radius: 10px;
+    border-color: #fff;
+    height: 40px;
+    width: 100px
+}
+
+#insb:hover {
+    background: #fff;
+    border-color: #E1306C;
+}
+
+#insfont {
+    color: #fff
+}
+
+#insfont:hover {
+    color: #E1306C;
+    font-weight: 600
+}
+
+#twib {
+    background: #00acee;
+    border-radius: 10px;
+    border-color: #fff;
+    height: 40px;
+    width: 100px
+}
+
+#twib:hover {
+    border-color: #00acee;
+    background: #fff
+}
+
+#twifont {
+    color: #fff
+}
+
+#twifont:hover {
+    color: #00acee;
+    font-weight: 600
+}
+
+#pinb {
+    background: #c8232c;
+    border-radius: 10px;
+    border-color: #fff;
+    height: 40px;
+    width: 100px
+}
+
+#pinb:hover {
+    border-color: #c8232c;
+    background: #fff
+}
+
+#pinfont {
+    color: #fff
+}
+
+#pinfont:hover {
+    color: #c8232c;
+    font-weight: 600
+}
+
+#botonnuevo {
+    background: #0c8178;
+    font-size: 10px;
+    color: #fff;
+    padding: 10px 15px 10px 15px;
+    text-transform: uppercase;
+    border-radius: 3px
+}
+
+#botonnuevo:hover {
+    background: #ffffff;
+    color: #000;
+    border-color: #000;
+    border-style: inset;
+    border-width: 1px;
+}
+
+.espacio {
+    margin-bottom: 25px;
+}
+
+#drop {
+    text-transform: uppercase;
+    font-size: 12px
+}
+
+#modal-p {
+    color: #148ebc
+}
+
+#separador {
+    width: 100%;
+    display: inline-block;
+    height: 50px;
+}
+
+#img-blog {
+    width: 80%
+}
+
+#logodjm {
+    width: 35px;
+}
+
+#ulnone {
+    list-style: none;
+}
+
+#bookindex {
+    padding-bottom: 100px;
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url("../img/tours/Hiram-bingham.JPG");
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#bookindex h3 {
+    color: white
+}
+
+#bookindex h4 {
+    color: white;
+    text-transform: uppercase;
+    font-size: 24px
+}
+
 #bookindex .book1 span {
     color: #ffffff;
     float: left;
-	font-size: 15px;}
+    font-size: 15px;
+}
+
 #bookindex #botondjm2 {
     color: #fff;
     background: #c1c1c100;
     border-style: solid;
     border-color: #ffffff;
     text-transform: uppercase;
-	margin-top: 30px;}
+    margin-top: 30px;
+}
+
 #bookindex #botondjm2:hover {
-	color: #000;
+    color: #000;
     background: #ffffff;
     border-style: solid;
     border-color: #ffffff;
     text-transform: uppercase;
     margin-top: 30px;
 }
-#blogspace{ padding-bottom: 30px; padding-top: 20px}
-#blogspace h2{ padding-bottom: 15px; font-size: 15px; font-family: 'Source Sans Pro', sans-serif; font-weight: 500}
-	
-#bookindex .seperator{ background-color: white}
-#bookindex p{ color: white; font-size: 20px}
-#afoot{
-	color: white;
+
+#blogspace {
+    padding-bottom: 30px;
+    padding-top: 20px
 }
-    .justify{
-        text-align: justify;
-    }
-#footdjm{
-	color: grey;
+
+#blogspace h2 {
+    padding-bottom: 15px;
+    font-size: 15px;
+    font-family: 'Source Sans Pro', sans-serif;
+    font-weight: 500
 }
-#footdjm:hover{color:#fff}
-alto{
-	font-size: 17px;
-	font-weight: 400;
-	margin-left: 3.5%;
-	margin-bottom: 20px;
-	color:#000;
+
+#bookindex .seperator {
+    background-color: white
 }
-#titulo1{
+
+#bookindex p {
+    color: white;
+    font-size: 20px
+}
+
+#afoot {
+    color: white;
+}
+
+.justify {
+    text-align: justify;
+}
+
+#footdjm {
+    color: grey;
+}
+
+#footdjm:hover {
+    color: #fff
+}
+
+alto {
+    font-size: 17px;
+    font-weight: 400;
+    margin-left: 3.5%;
+    margin-bottom: 20px;
+    color: #000;
+}
+
+#titulo1 {
     text-transform: uppercase;
     color: #616161;
     font-size: 28px;
 }
-#blue{color:#0c8178;}
-#ablue:hover{color:#497cb1; text-decoration: none;}
-#lineadjm{
+
+#blue {
+    color: #0c8178;
+}
+
+#ablue:hover {
+    color: #497cb1;
+    text-decoration: none;
+}
+
+#lineadjm {
     width: 100%;
     height: 2px;
     background: #5a5a5a;
@@ -117,25 +280,30 @@ alto{
     margin-left: auto;
     margin-right: auto;
 }
-#staffimg{
+
+#staffimg {
     width: 300px;
     box-shadow: 5px 3px 8px 5px rgba(0, 0, 0, 0.19);
 }
-.botondjm{
-        color: #fff;
+
+.botondjm {
+    color: #fff;
     background-color: transparent;
     border-color: #fff;
-border-radius: 6px;
+    border-radius: 6px;
     font-size: 11px;
     font-weight: bold;
-    text-transform: uppercase;}
-.botondjm:hover{
+    text-transform: uppercase;
+}
+
+.botondjm:hover {
     color: #000;
-    background-color:#fff;
+    background-color: #fff;
     border-color: #fff;
 }
-#botondjm3{
-	color: #676565;
+
+#botondjm3 {
+    color: #676565;
     background: transparent;
     border-style: solid;
     border-color: #afafaf;
@@ -143,9 +311,16 @@ border-radius: 6px;
     padding: 7px 20px;
     border-radius: 4px;
 }
-#botondjm3:hover{background: #0c8178; color:white;border: 1px solid #095f58;font-size: 14px;}
-#botonblog{
-	color: #fff;
+
+#botondjm3:hover {
+    background: #0c8178;
+    color: white;
+    border: 1px solid #095f58;
+    font-size: 14px;
+}
+
+#botonblog {
+    color: #fff;
     background: transparent;
     border-style: solid;
     border-color: #afafaf;
@@ -153,19 +328,29 @@ border-radius: 6px;
     padding: 7px 20px;
     border-radius: 4px;
 }
-#botonblog:hover{background: #0c8178; color:white;border: 1px solid #095f58;font-size: 14px;}
-#botondjm2{
-	color: #fff;
-	background: #0c8178;
-	border-style: solid;
-	border-color: #afafaf;
+
+#botonblog:hover {
+    background: #0c8178;
+    color: white;
+    border: 1px solid #095f58;
+    font-size: 14px;
 }
-#botondjm2:hover{
-	background: transparent;
+
+#botondjm2 {
+    color: #fff;
+    background: #0c8178;
+    border-style: solid;
+    border-color: #afafaf;
+}
+
+#botondjm2:hover {
+    background: transparent;
     color: #000;
-	border-color: #000;
+    border-color: #000;
 }
-#botondjm4{color: #615c5c;
+
+#botondjm4 {
+    color: #615c5c;
     background: #0c817800;
     border-style: solid;
     border-color: #afafaf;
@@ -174,14 +359,21 @@ border-radius: 6px;
     font-size: 16px;
     text-transform: uppercase;
     font-weight: 600;
-	margin-bottom: 50px;
-	width: 100%}
-#botondjm4:hover{ background:#0c8178; color: #fff}
-#divdjm{
+    margin-bottom: 50px;
+    width: 100%
+}
+
+#botondjm4:hover {
+    background: #0c8178;
+    color: #fff
+}
+
+#divdjm {
     margin-top: 65px;
     padding-bottom: 180px;
 }
-#separadordjm{
+
+#separadordjm {
     width: 145px;
     background: #5a5a5a;
     height: 3px;
@@ -189,8 +381,9 @@ border-radius: 6px;
     margin-right: auto;
     margin-bottom: 25px;
 }
-#separadordjm2{
-	width: 40px;
+
+#separadordjm2 {
+    width: 40px;
     background: #676767;
     height: 3px;
     margin-left: auto;
@@ -198,31 +391,51 @@ border-radius: 6px;
     margin-bottom: 25px;
     margin-top: 14px;
 }
-#similares{text-align: center;}
-#similares h1{font-size: 20px;color:#616161; text-transform: uppercase}
-#similares h2{line-height: 1.2em;
+
+#similares {
+    text-align: center;
+}
+
+#similares h1 {
+    font-size: 20px;
+    color: #616161;
+    text-transform: uppercase
+}
+
+#similares h2 {
+    line-height: 1.2em;
     font-size: 14px;
     font-weight: normal;
     color: #0c8178;
-    text-transform: uppercase;}
-#similares img{ width: 80%;}
-#similares .button{
-	font-size: 12px;
+    text-transform: uppercase;
+}
+
+#similares img {
+    width: 80%;
+}
+
+#similares .button {
+    font-size: 14px;
     padding: 3px 20px;
     border: 1px solid #989898;
-    background: #0c8178;
-    color: #fff;
+    background: #fff;
+    color: #000;
+    width: 100%;
+    border-radius: 5px;
+    padding: 8px 0px 8px 0px;
 }
-#similares .button:hover{
-	background: #fff;
+
+#similares .button:hover {
+    background: #0c8178;
     border: 1px solid #000;
     text-decoration: none;
-    color: #000;
+    color: #fff;
     -webkit-transition: all 0.8s;
-	font-weight: 300;
+    font-weight: 800;
 }
-#separadordjm3{
-	    width: 402px;
+
+#separadordjm3 {
+    width: 402px;
     background: #5a5a5a;
     height: 3px;
     margin-left: auto;
@@ -230,29 +443,46 @@ border-radius: 6px;
     margin-bottom: 25px;
     margin-top: 35px;
 }
-#filtro{
-	-webkit-filter: grayscale(100%);
-    filter: grayscale(100%);
-    width: 70% }
-#filtro:hover{
-	-webkit-filter: grayscale(0%);
-    filter: grayscale(0%); }
 
-@media (min-width:1200px){
-    #display{display: none;}
+#filtro {
+    -webkit-filter: grayscale(100%);
+    filter: grayscale(100%);
+    width: 70%
 }
-@media (max-width: 1199px){
-	#display{ display: block}
-	#display2{display: none}
-	
+
+#filtro:hover {
+    -webkit-filter: grayscale(0%);
+    filter: grayscale(0%);
 }
-#bookFondo{
-	background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5) ), url(../img/tours/Hiram-bingham.JPG);
+
+@media (min-width:1200px) {
+    #display {
+        display: none;
+    }
+}
+
+@media (max-width: 1199px) {
+    #display {
+        display: block
+    }
+    #display2 {
+        display: none
+    }
+}
+
+#bookFondo {
+    background-image: linear-gradient( rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/tours/Hiram-bingham.JPG);
     background-size: cover;
-    background-repeat: no-repeat; min-height: 100vh;
+    background-repeat: no-repeat;
+    min-height: 100vh;
 }
-.book1{ margin-left: 10px; margin-right: 10px;}
-.book1 #botondjm2{
+
+.book1 {
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+.book1 #botondjm2 {
     color: #f5f5f5;
     background: #3e3e3e;
     border-style: solid;
@@ -260,26 +490,46 @@ border-radius: 6px;
     text-transform: uppercase;
     margin-top: 30px;
 }
+
 .book1 #botondjm2:hover {
     color: #000;
     background: #ffffff;
     border-style: solid;
     border-color: #212121;
     text-transform: uppercase;
-	margin-top: 30px;
+    margin-top: 30px;
 }
-.book2{
-color: #757272;
+
+.book2 {
+    color: #757272;
     float: left;
     font-weight: 700;
     font-size: 15px;
     padding-bottom: 3px;
     padding-top: 10px;
-	}
-.book2 span{color: #fff; float: left; font-weight: 500; font-size:15px; padding-bottom: 3px; padding-top: 10px}
-.book2 label{color: #fff; float: left; font-weight: 500; font-size: 15px}
-.book2 select{ font-size: 15px}
-.book2 #botondjm2{
+}
+
+.book2 span {
+    color: #fff;
+    float: left;
+    font-weight: 500;
+    font-size: 15px;
+    padding-bottom: 3px;
+    padding-top: 10px
+}
+
+.book2 label {
+    color: #fff;
+    float: left;
+    font-weight: 500;
+    font-size: 15px
+}
+
+.book2 select {
+    font-size: 15px
+}
+
+.book2 #botondjm2 {
     color: #ffffff;
     background: #9e979700;
     border-style: solid;
@@ -287,194 +537,236 @@ color: #757272;
     text-transform: uppercase;
     margin-top: 30px;
 }
+
 .book2 #botondjm2:hover {
     color: #000;
     background: #ffffff;
     border-style: solid;
     border-color: #212121;
     text-transform: uppercase;
-	margin-top: 30px;
+    margin-top: 30px;
 }
-.messagedjm{
-	width: 94%; 
-	margin-left: auto; 
-	margin-right: auto}
-#rowdjm{
-	text-align: justify; 
-	padding-right: 2em;
-	padding-left: 2em;}
-#rowdjm h5{color:#0c8178; font-size: 22px; padding-top: 13px}
-.accordion .text-uppercase{
-	background: #676767;
-	height: 40px;
-	text-align: center
+
+.messagedjm {
+    width: 94%;
+    margin-left: auto;
+    margin-right: auto
 }
-.accordion a{
-	color: #fff;
+
+#rowdjm {
+    text-align: justify;
+    padding-right: 2em;
+    padding-left: 2em;
 }
-#circulo{
-	width: 120px;
-	height: 120px;
-	border-radius: 50%;
-	background: url("../img/aracari.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	border-style: solid;
+
+#rowdjm h5 {
+    color: #0c8178;
+    font-size: 22px;
+    padding-top: 13px
+}
+
+.accordion .text-uppercase {
+    background: #676767;
+    height: 40px;
+    text-align: center
+}
+
+.accordion a {
+    color: #fff;
+}
+
+#circulo {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: url("../img/aracari.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-style: solid;
     border-color: grey;
-	    margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
 }
-#circulo2{
-	width: 120px;
-	height: 120px;
-	border-radius: 50%;
-	background: url("../img/testimonials/Ann-Alvarado-Miranda.png");
-	background-size: contain;
-	background-repeat: no-repeat;
-	background-position: center;
-	border-style: solid;
+
+#circulo2 {
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    background: url("../img/testimonials/Ann-Alvarado-Miranda.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    border-style: solid;
     border-color: grey;
-	    margin-left: auto;
+    margin-left: auto;
     margin-right: auto;
 }
-.fondoindex{
-	margin-bottom: 0px !important;
+
+.fondoindex {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/machupicchu.png");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.testimonials{
-	margin-bottom: 0px !important;
+
+.testimonials {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/testimonials.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.days01{
-	margin-bottom: 0px !important;
+
+.days01 {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/llama2.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.blog{
-	margin-bottom: 0px !important;
+
+.blog {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/blog-hiking-peru.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.blog2{
-	margin-bottom: 0px !important;
+
+.blog2 {
+    margin-bottom: 0px !important;
     background: #000;
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.puno{
-	margin-bottom: 0px !important;
+
+.puno {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/puno-peru-islands.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.biking{
-	margin-bottom: 0px !important;
+
+.biking {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/biking-cusco-tour.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.experiencias{
-	margin-bottom: 0px !important;
+
+.experiencias {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/Machu-Picchu-exclusive.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.around{
-	margin-bottom: 0px !important;
+
+.around {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/artesania-peru.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.adventure{
-	margin-bottom: 0px !important;
+
+.adventure {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/climbing-peru-adventures-andean.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.contact{
-	margin-bottom: 0px !important;
+
+.contact {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/contact-andean.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.book{
-	margin-bottom: 0px !important;
+
+.book {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/book-your-destination-to-peru.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.arequipa{
-	margin-bottom: 0px !important;
+
+.arequipa {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/arequipa-peru.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.lima{
-	margin-bottom: 0px !important;
+
+.lima {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/lima-peru-tour.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.huacachina{
-	margin-bottom: 0px !important;
+
+.huacachina {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/huacachina-tour-exclusive-peru.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.puerto{
-	margin-bottom: 0px !important;
+
+.puerto {
+    margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/Puerto-Maldonado-Perú.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.hiram{
+
+.hiram {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/Hiram-bingham.JPG");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.urubamba{
+
+.urubamba {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/urubamba-market.png");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.valle{
+
+.valle {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/valle-sagrado.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+
+.tours-varios-dias {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/cusco-maravilloso.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
 .accordion {
-	width: 85%;
-	margin-left: auto;
-	margin-right: auto;
+    width: 85%;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 .terms {
@@ -484,6 +776,7 @@ color: #757272;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+
 .pagos {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/payment.jpg")!important;
@@ -491,6 +784,7 @@ color: #757272;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
+
 .faqs {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/faqs.jpg");
@@ -499,14 +793,15 @@ color: #757272;
     background-size: cover !important;
 }
 
-.about{
+.about {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/cusco-de-noche.jpg");
     background-position: center !important;
     background-repeat: no-repeat !important;
     background-size: cover !important;
 }
-.hermoso{
+
+.hermoso {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/hermoso-peru.jpg");
     background-position: center !important;
@@ -1143,64 +1438,66 @@ header#header .header-wrapper nav.main-nav {
     font-size: 12px;
 }
 
-header#header .header-wrapper nav.main-nav > ul {
+header#header .header-wrapper nav.main-nav>ul {
     display: block;
     list-style-type: none;
     margin: 0px;
     padding: 5px;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li {
+header#header .header-wrapper nav.main-nav>ul>li {
     display: inline-block;
     line-height: 3em;
     position: relative;
 }
-@media(min-width: 991px){
-    header#header .header-wrapper nav.main-nav > ul > li#display2 {
-    display: none;
-}}
-@media(max-width: 990px){
-    header#header .header-wrapper nav.main-nav > ul > li#display2 {
-    display: inline-block;
-	}	
-	header#header .header-wrapper nav.main-nav > ul > li#wasanum {
-		display: none;
-	}
+
+@media(min-width: 991px) {
+    header#header .header-wrapper nav.main-nav>ul>li#display2 {
+        display: none;
+    }
 }
 
+@media(max-width: 990px) {
+    header#header .header-wrapper nav.main-nav>ul>li#display2 {
+        display: inline-block;
+    }
+    header#header .header-wrapper nav.main-nav>ul>li#wasanum {
+        display: none;
+    }
+}
 
-header#header .header-wrapper nav.main-nav > ul > li + li {
+header#header .header-wrapper nav.main-nav>ul>li+li {
     margin-left: 18px;
 }
 
-
-header#header .header-wrapper nav.main-nav > ul > li > a {
+header#header .header-wrapper nav.main-nav>ul>li>a {
     text-transform: uppercase;
     color: #ffffff;
-	font-weight: 700;
-	letter-spacing: 1pt;
+    font-weight: 700;
+    letter-spacing: 1pt;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li > a#active {
+header#header .header-wrapper nav.main-nav>ul>li>a#active {
     text-transform: uppercase;
     color: #09ccbd;
     font-weight: bold;
 }
-header#header .header-wrapper nav.main-nav > ul > li > a#active.current-menu-item::after,
-header#header .header-wrapper nav.main-nav > ul > li > a#active.current-menu-parent::after{
+
+header#header .header-wrapper nav.main-nav>ul>li>a#active.current-menu-item::after,
+header#header .header-wrapper nav.main-nav>ul>li>a#active.current-menu-parent::after {
     width: 20px;
     visibility: visible;
     opacity: 1;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li > a:hover,
-header#header .header-wrapper nav.main-nav > ul > li > a:focus,
-header#header .header-wrapper nav.main-nav > ul > li > a:active {
+header#header .header-wrapper nav.main-nav>ul>li>a:hover,
+header#header .header-wrapper nav.main-nav>ul>li>a:focus,
+header#header .header-wrapper nav.main-nav>ul>li>a:active {
     text-decoration: none;
     color: #09ccbd;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li ul {
+header#header .header-wrapper nav.main-nav>ul>li ul {
     position: absolute;
     visibility: hidden;
     opacity: 0;
@@ -1216,32 +1513,34 @@ header#header .header-wrapper nav.main-nav > ul > li ul {
     -webkit-transition: all 0.25s ease;
     -moz-transition: all 0.25s ease;
     transition: all 0.25s ease;
-	border-style: solid;
+    border-style: solid;
     border-color: black;
     border-width: 1px;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li ul li {
+header#header .header-wrapper nav.main-nav>ul>li ul li {
     line-height: 1.5em;
     padding: 10px 25px;
     position: relative;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li ul li a:hover {
-    text-decoration: none; color: #0c8178; font-weight: 900;
+header#header .header-wrapper nav.main-nav>ul>li ul li a:hover {
+    text-decoration: none;
+    color: #0c8178;
+    font-weight: 900;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li ul li ul {
+header#header .header-wrapper nav.main-nav>ul>li ul li ul {
     top: 0px;
     left: 180px;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li ul li:hover > ul {
+header#header .header-wrapper nav.main-nav>ul>li ul li:hover>ul {
     visibility: visible;
     opacity: 1;
 }
 
-header#header .header-wrapper nav.main-nav > ul > li:hover > ul {
+header#header .header-wrapper nav.main-nav>ul>li:hover>ul {
     visibility: visible;
     opacity: 1;
 }
@@ -1294,48 +1593,46 @@ header#header .header-wrapper nav.main-nav.show-mobile-menu a#close-menu::after 
     transform: rotate(-45deg);
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul {
     display: block;
     height: auto;
     width: 100%;
     text-align: center;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li {
     display: block;
     font-size: 2.4em;
     line-height: 2em;
 }
 
-@media(max-width: 991px){
-    header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li#display {
-    display: none;
-}
-	
-	
+@media(max-width: 991px) {
+    header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li#display {
+        display: none;
+    }
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li.current-menu-item::after,
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li.current-menu-parent::after {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li.current-menu-item::after,
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li.current-menu-parent::after {
     display: none;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li.current-menu-item > a,
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li.current-menu-parent > a {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li.current-menu-item>a,
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li.current-menu-parent>a {
     text-decoration: underline;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li > a {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li>a {
     color: #fff;
     font-size: 20px;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li > a:hover {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li>a:hover {
     color: #fff;
     text-decoration: underline;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul {
     position: relative;
     visibility: visible;
     opacity: 1;
@@ -1347,28 +1644,28 @@ header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul {
     font-family: 'Montserrat';
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li {
     font-size: 0.65em;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li > a::before {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li>a::before {
     content: '- ';
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li a {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li a {
     color: #fff;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li a:hover {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li a:hover {
     color: #fff;
     text-decoration: underline;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li ul {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li ul {
     left: 0px;
 }
 
-header#header .header-wrapper nav.main-nav.show-mobile-menu > ul > li ul li ul li > a::before {
+header#header .header-wrapper nav.main-nav.show-mobile-menu>ul>li ul li ul li>a::before {
     content: '-- ';
 }
 
@@ -1379,14 +1676,15 @@ header#header.sticky-menu {
     height: 90px;
     line-height: 80px;
 }
-.sticky-menu .logo2{
-	background: url("../img/andean-exclusive-logo.png");
+
+.sticky-menu .logo2 {
+    background: url("../img/andean-exclusive-logo.png");
     width: 293px;
     height: 80px;
     padding-top: 30px;
     background-repeat: no-repeat;
     background-size: cover;
-	margin-left: 0px;
+    margin-left: 0px;
 }
 
 header#header.sticky-menu .header-wrapper {
@@ -1573,10 +1871,11 @@ body.admin-bar header#header.sticky-menu {
     -moz-transition: all 0.45s ease;
     transition: all 0.45s ease;
 }
-@media( max-width: 500px){
-	.travel-item .entry-img .entry-link img{
+
+@media( max-width: 500px) {
+    .travel-item .entry-img .entry-link img {
         width: 60%;
-	}
+    }
 }
 
 .travel-item .entry-img .entry-link:hover img {
@@ -1587,7 +1886,7 @@ body.admin-bar header#header.sticky-menu {
 
 .travel-item .entry-info {
     padding: 35px;
-	text-align: center;
+    text-align: center;
 }
 
 .travel-item .entry-info h3 {
@@ -1601,13 +1900,13 @@ body.admin-bar header#header.sticky-menu {
     position: relative;
 }
 
- .price {
+.price {
     display: inline-block;
     color: #3db0b3;
     position: absolute;
     right: 0px;
     top: 0px;
-	font-weight: 600;
+    font-weight: 600;
 }
 
 .travel-item .entry-info .info {
@@ -1627,13 +1926,14 @@ body.admin-bar header#header.sticky-menu {
 .travel-item .entry-info .readmore a.button {
     font-size: 12px;
     padding: 3px 20px;
-	border: 1px solid #989898;
-	background: #0c8178;
-	color:#fff;
+    border: 1px solid #989898;
+    background: #0c8178;
+    color: #fff;
 }
+
 .travel-item .entry-info .readmore a.button:hover {
-	background: #fff;
-	color: #000;
+    background: #fff;
+    color: #000;
     font-weight: 100;
 }
 
@@ -1841,8 +2141,9 @@ body.admin-bar header#header.sticky-menu {
     -moz-transform: translateY(-30%);
     transform: translateY(-30%);
 }
-.entry-hover .info h2{
-	color: #ffffff;
+
+.entry-hover .info h2 {
+    color: #ffffff;
     font-weight: bold;
     font-size: 22px;
     text-transform: uppercase;
@@ -1856,8 +2157,9 @@ body.admin-bar header#header.sticky-menu {
     margin: 0px;
     position: relative;
 }
-.travel-grid-item .entry-hover .info h2{
-	font-family: 'Source Sans Pro', sans-serif;
+
+.travel-grid-item .entry-hover .info h2 {
+    font-family: 'Source Sans Pro', sans-serif;
     font-weight: bold;
     font-size: 22px;
     text-transform: uppercase;
@@ -2060,7 +2362,7 @@ body.admin-bar header#header.sticky-menu {
     display: inline-block;
 }
 
-.tt-el-stars i + i {
+.tt-el-stars i+i {
     margin-left: 5px;
 }
 
@@ -2137,14 +2439,16 @@ input[type=submit] {
 }
 
 .button:hover,
-input[type=submit]:hover {background: #fff;
-	border: 1px solid #000;
+input[type=submit]:hover {
+    background: #fff;
+    border: 1px solid #000;
     text-decoration: none;
     color: #000;
-	-webkit-transition: all 0.8s ; 
+    -webkit-transition: all 0.8s;
 }
-.button2{
-	background: none;
+
+.button2 {
+    background: none;
     display: inline-block;
     border: 1px solid #131313;
     font-size: 12px;
@@ -2291,7 +2595,7 @@ blockquote a {
 
 .blog-item .entry-meta {
     font-size: 14px;
-    font-family:'Source Sans Pro', 'sans-serif';
+    font-family: 'Source Sans Pro', 'sans-serif';
     color: rgba(103, 103, 103, 0.7);
     margin-top: 10px;
 }
@@ -2323,7 +2627,7 @@ blockquote a {
 }
 
 #comments .comments-wrapper .comments-title {
-    font-family:'Source Sans Pro', 'sans-serif';
+    font-family: 'Source Sans Pro', 'sans-serif';
     font-weight: normal;
     font-size: 30px;
     line-height: 1em;
@@ -2424,7 +2728,7 @@ blockquote a {
     margin-bottom: 40px;
 }
 
-#respond .form-submit > span {
+#respond .form-submit>span {
     display: block;
     font-size: 12px;
     margin-bottom: 20px;
@@ -2536,7 +2840,7 @@ section.page-cover .overlay {
 }
 
 .cover-text h1 {
-        font-size: 40px;
+    font-size: 40px;
     font-family: 'Montserrat';
     font-weight: bold;
     color: #333333;
@@ -2549,8 +2853,8 @@ section.page-cover .overlay {
     font-family: 'Open Sans';
     font-weight: 300;
     color: #fff;
-	letter-spacing: 8pt;
-	text-transform: uppercase;
+    letter-spacing: 8pt;
+    text-transform: uppercase;
 }
 
 .cover-text a {
@@ -2573,9 +2877,10 @@ section.page-cover .overlay {
 
 .cover-text.text-light h1 {
     color: #fff;
-	text-transform: uppercase;
-	font-size: 38px;
+    text-transform: uppercase;
+    font-size: 38px;
 }
+
 .cover-text.text-light a {
     border-color: #fff;
     color: #fff;
@@ -2585,56 +2890,58 @@ section.page-cover .overlay {
     display: block;
     position: relative;
 }
+
 @media only screen and (max-width: 750px) {
-	.fondoindex{
-    background: #0f0030 url("../img/responsive/machupicchu-tour.PNG");
+    .fondoindex {
+        background: #0f0030 url("../img/responsive/machupicchu-tour.PNG");
+    }
+    .testimonials {
+        background: #0f0030 url("../img/responsive/testimonials-testimonios.jpg");
+    }
+    .days01 {
+        background: #0f0030 url("../img/responsive/llama-from-cusco.jpg");
+    }
+    .blog {
+        background: #0f0030 url("../img/responsive/hiking-in-peru.jpg");
+    }
+    .puno {
+        background: #0f0030 url("../img/responsive/puno-peru-islands.jpg");
+    }
+    .experiencias {
+        background: #0f0030 url("../img/responsive/Tours-en-machu-picchu-exclusive.jpg");
+    }
+    .contact {
+        background: #0f0030 url("../img/responsive/contacte-andean-exclusive-tours.jpg");
+    }
+    .book {
+        background: #0f0030 url("../img/responsive/reserve-su-destino-peru.jpg");
+    }
+    .arequipa {
+        background: #0f0030 url("../img/responsive/arequipa-peru-tours-tour.jpg");
+    }
+    .lima {
+        background: #0f0030 url("../img/responsive/lima-peru-tour.jpg");
+    }
+    .puerto {
+        background: #0f0030 url("../img/responsive/Puerto-Maldonado-Peru.jpg");
+    }
+    .hiram {
+        background: #0f0030 url("../img/responsive/Tren-train-Hiram-bingham.jpg");
+    }
+    .urubamba {
+        background: #0f0030 url("../img/responsive/urubamba-market.jpg");
+    }
+    .valle {
+        background: #0f0030 url("../img/responsive/valle-sagrado-sacred-valley.jpg");
+    }
+    .cover-text.text-light h1 {
+        font-size: 20px;
+    }
+    .cover-text.text-light p {
+        font-size: 12px;
+    }
 }
-	.testimonials{
-    background: #0f0030 url("../img/responsive/testimonials-testimonios.jpg");
-	}
-	.days01{
-    background: #0f0030 url("../img/responsive/llama-from-cusco.jpg");
-}
-	.blog{
-    background: #0f0030 url("../img/responsive/hiking-in-peru.jpg");
-}
-	.puno{
-    background: #0f0030 url("../img/responsive/puno-peru-islands.jpg");
-}
-	.experiencias{
-    background: #0f0030 url("../img/responsive/Tours-en-machu-picchu-exclusive.jpg");
-}
-	.contact{
-    background: #0f0030 url("../img/responsive/contacte-andean-exclusive-tours.jpg");
-}
-	.book{
-    background: #0f0030 url("../img/responsive/reserve-su-destino-peru.jpg");
-}
-	.arequipa{
-    background: #0f0030 url("../img/responsive/arequipa-peru-tours-tour.jpg");
-}
-	.lima{
-    background: #0f0030 url("../img/responsive/lima-peru-tour.jpg");
-}
-.puerto{
-    background: #0f0030 url("../img/responsive/Puerto-Maldonado-Peru.jpg");
-}
-.hiram{
-    background: #0f0030 url("../img/responsive/Tren-train-Hiram-bingham.jpg");
-}
-.urubamba{
-    background: #0f0030 url("../img/responsive/urubamba-market.jpg");
-}
-.valle{
-    background: #0f0030 url("../img/responsive/valle-sagrado-sacred-valley.jpg");
-}
-  .cover-text.text-light h1 {
-	  font-size: 20px;
-  }
-	.cover-text.text-light p{
-		font-size: 12px;
-	}
-}
+
 .tt-seperator::before {
     content: '';
     width: 45px;
@@ -2644,7 +2951,10 @@ section.page-cover .overlay {
     margin-right: auto;
     display: block;
 }
-.wasa-num{display:none}
+
+.wasa-num {
+    display: none
+}
 
 .carousel-headings {
     position: relative;
@@ -2824,7 +3134,7 @@ footer#footer {
     background-color: #333333;
     padding-top: 90px;
     overflow: hidden;
-	    padding-bottom: 40px;
+    padding-bottom: 40px;
 }
 
 footer#footer .widget {
@@ -2897,7 +3207,7 @@ footer#footer .sub-footer ul li {
     display: inline-block;
 }
 
-footer#footer .sub-footer ul li + li::before {
+footer#footer .sub-footer ul li+li::before {
     content: '|';
     margin-left: 5px;
     margin-right: 5px;
@@ -3086,6 +3396,7 @@ footer#footer .sub-footer .widget {
     padding-top: 190px;
     padding-bottom: 80px;
 }
+
 .pvnew {
     padding-top: 150px;
     padding-bottom: 80px;
@@ -3393,38 +3704,39 @@ footer#footer .sub-footer .widget {
 .visible-hidden {
     visibility: hidden;
 }
+
 @media screen and (max-width:1500px) {
-	.logo2{
-		width: 208px;
-		height: 77px;    
-		padding-top: 30px;    
-		margin-left: -50px;
-}
+    .logo2 {
+        width: 208px;
+        height: 77px;
+        padding-top: 30px;
+        margin-left: -50px;
+    }
 }
 
 @media screen and (min-width:768px) and (max-width:991px) {
     .container {
         width: 100%;
     }
-	.logo2{
-		width: 208px;
-		height: 77px;    
-		padding-top: 30px;    
-		margin-left: 50px;
-}
+    .logo2 {
+        width: 208px;
+        height: 77px;
+        padding-top: 30px;
+        margin-left: 50px;
+    }
 }
 
 @media screen and (max-width:767px) {
     .col-sm-8.pull-right {
         float: none !important;
     }
-    .section-content > .container > .row > .col-sm-9 {
+    .section-content>.container>.row>.col-sm-9 {
         padding-right: 15px;
     }
 }
 
 @media screen and (min-width:768px) {
-    .section-content > .container > .row > .col-sm-9 {
+    .section-content>.container>.row>.col-sm-9 {
         padding-right: 60px;
     }
 }
@@ -3433,15 +3745,15 @@ footer#footer .sub-footer .widget {
     #mobile-menu {
         display: inline-block;
     }
-    header#header .header-wrapper nav.main-nav > ul {
+    header#header .header-wrapper nav.main-nav>ul {
         display: none;
     }
-	.logo2{
-		width: 208px;
-		height: 77px;    
-		padding-top: 30px;    
-		margin-left: 50px;
-	}
+    .logo2 {
+        width: 208px;
+        height: 77px;
+        padding-top: 30px;
+        margin-left: 50px;
+    }
 }
 
 .wpb-js-composer .vc_tta.vc_general .vc_tta-panel-title>a:focus,
@@ -6637,7 +6949,4 @@ footer#footer .sub-footer .widget {
     border-color: #f0f0f0
 }
 
-	
-.entry-cat2 {
-	
-}
+.entry-cat2 {}

@@ -301,12 +301,12 @@
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='peru-22-days' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
+                                                                        <a href='peru-20-days-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Perú for 22 days</h3><br>
+                                                                        <h3>Perú for 20 days</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href='peru-22-days' class='button'>Read more</a>
+                                                                            <a href='peru-20-days-tour' class='button'>Read more</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
