@@ -25,6 +25,17 @@ Route::post('mensaje01', function(){
     return back()->with('flash', 'Your message was sent successfully!');
 }) ->name('mensaje01');
 
+
+Route::post('bookindex', function(){ 
+    $datos=request()->all();
+    Mail::send("emails.bookindex", $datos, function($message) use($datos){
+        $message->from($datos['email'])
+        ->to('routes@andeanexclusive.com', 'DJM2')
+        ->subject('Envio de formulario desde la página web.');
+    });
+    return back()->with('flash', 'Your message was sent successfully!');
+}) ->name('bookindex');
+
 //Formularios en español
 Route::post('mensaje02', function(){ 
     $datos=request()->all();
@@ -35,6 +46,16 @@ Route::post('mensaje02', function(){
     });
     return back()->with('flash', '¡Su mensaje fué enviado con éxito! Le responderemos en la mayor brevedad posible.');
 }) ->name('mensaje02');
+
+Route::post('book-castellano', function(){ 
+    $datos=request()->all();
+    Mail::send("emails.bookindex", $datos, function($message) use($datos){
+        $message->from($datos['email'])
+        ->to('routes@andeanexclusive.com', 'DJM2')
+        ->subject('Envio de contacto desde página web.');
+    });
+    return back()->with('flash', '¡Su mensaje fué enviado con éxito! Le responderemos en la mayor brevedad posible.');
+}) ->name('book-castellano');
 //Tours ingles
 Route::get('cusco-4-days-3-nights', function(){return view('cusco-4-days-3-nights');});
 Route::get('cusco-5-days-4-nights', function(){return view('cusco-5-days-4-nights');});
@@ -57,8 +78,9 @@ Route::get('peru-8-days-7-nights', function(){return view('peru-8-days-7-nights'
 Route::get('peru-9-days-8-nights', function(){return view('peru-9-days-8-nights');});
 Route::get('peru-10-days-9-nights', function(){return view('peru-10-days-9-nights');});
 Route::get('peru-12-days', function(){return view('peru-12-days');});
-Route::get('peru-15-days', function(){return view('peru-15-days');});
-Route::get('peru-18-days', function(){return view('peru-18-days');});
+Route::get('peru-13-days', function(){return view('peru-13-days');});
+Route::get('peru-15-days-tour', function(){return view('peru-15-days-tour');});
+Route::get('peru-18-days-tour', function(){return view('peru-18-days-tour');});
 Route::get('peru-20-days-tour', function(){return view('peru-20-days-tour');});
 Route::get('peru-22-days', function(){return view('peru-22-days');});
 
@@ -93,8 +115,9 @@ Route::get('peru-8-dias-7-noches', function(){ return view('peru-8-dias-7-noches
 Route::get('peru-9-dias-8-noches', function(){ return view('peru-9-dias-8-noches');});
 Route::get('peru-10-dias-9-noches', function(){ return view('peru-10-dias-9-noches');});
 Route::get('peru-12-dias', function(){ return view('peru-12-dias');});
+Route::get('peru-13-dias', function(){ return view('peru-13-dias');});
 Route::get('peru-15-dias', function(){ return view('peru-15-dias');});
-Route::get('peru-18-dias', function(){ return view('peru-18-dias');});
+Route::get('peru-18-dias-tour', function(){ return view('peru-18-dias-tour');});
 Route::get('peru-20-dias-tour', function(){ return view('peru-20-dias-tour');});
 Route::get('peru-22-dias-tour', function(){ return view('peru-22-dias-tour');});
 

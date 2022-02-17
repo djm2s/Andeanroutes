@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en-US" class="no-js">
+<html lang="es" class="no-js">
 <meta http-equiv="content-type" content="text/html;charset=UTF-8" />
 
 <head>
@@ -13,7 +13,7 @@
         content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 15 días en Perú" />
     <meta property="og:url" content="https://andeanexclusive.com/peru-15-dias">
     <meta property="og:title"
-        content="10 días en Perú - Peru por 15 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa">
+        content="15 días en Perú - Peru por 15 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa - Trujillo">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
     <meta name="author" content="Web Masters DJM2" />
@@ -55,14 +55,14 @@
                                         </a>
                                         <ul>
                                             <li><a>Español</a></li>
-                                            <li><a href="peru-15-days">Ingles</a></li>
+                                            <li><a href="peru-15-days-tour">Ingles</a></li>
                                         </ul>
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr'
                                             target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
                                         <a href="#">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="peru-15-days">En</a>
+                                        <a href="peru-15-days-tour">En</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -80,7 +80,7 @@
                         <div class="entry-excerpt">
                             <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home"
                                 data-onepage-slug="home"
-                                class="vc_row wpb_row hermoso vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
+                                class="vc_row wpb_row tours-varios-dias vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner vc_custom_1461317698190">
                                         <div class="wpb_wrapper">
@@ -99,7 +99,7 @@
                                                                         </div>
                                                                     </center>
                                                                 @endif
-                                                                <h1> PERÚ 12 DÍAS</h1>
+                                                                <h1> TOUR A PERÚ POR 15 DÍAS</h1>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -120,50 +120,55 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3" id="display2">
-                <div data-onepage-title="Services" data-onepage-slug="services"
-                    class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
-                    <div id="similares">
-                        <h1>Tours Similares</h1>
-                        <div id="separador"></div>
-                        <a href="peru-8-dias-7-noches"><img src="img/thumbnail/destino-per.JPG"
-                                alt="Cusco Tours magestic"></a><br><br>
-                        <h2>Perú por 8 días</h2>
-                        <a href="peru-8-dias-7-noches" class="button">Más info</a>
+                <div class="sticky-top" style="padding-top: 75px; z-index: 40">
+                    <div>
+                        <div class="card-body">
+                            <div data-onepage-title="Services" data-onepage-slug="services"
+                                class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+                                <h1 class="text-center"
+                                    style="font-size:18px; text-transform:uppercase; font-weight:600; margin-top:30px">
+                                    Tours Similares
+                                </h1>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-5-dias-4-noches" class="button">Perú 5 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="cusco-5-dias-4-noches" class="button">Cusco por 5 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="cusco-6-dias-5-noches" class="button">Cusco por 6 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-8-dias-7-noches" class="button">Perú por 8 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-12-dias" class="button">Tour en Perú por 12 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-18-dias" class="button">Tour en Perú por 18 días</a>
+                                </div>
+                                <div id="separador"></div>
+                            </div>
+                        </div>
                     </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-5-dias-4-noches"><img src="img/thumbnail/Machupicchu_AET.jpg"
-                                alt="Machu Picchu - Cusco Tour"></a>
-                        <br><br>
-                        <h2>Perú 5 días</h2>
-                        <a href="peru-5-dias-4-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="cusco-6-dias-5-noches"><img src='img/thumbnail/cusco-01.JPG'
-                                alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Cusco Autentico</h2>
-                        <p>Duración: 6 Días</p>
-                        <a href="cusco-6-dias-5-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-7-dias-6-noches"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Perú 7 días</h2>
-                        <a href="peru-7-dias-6-noches" class="button">Más info</a>
-                    </div>
-                    <div id="separador"></div>
                 </div>
+
             </div>
+
             <div class="col-lg-6">
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services"
                     class="vc_row-fluid vc_custom_1461248392126">
                     <center>
                         <h1 id="titulo1">PERÚ POR 15 DÍAS </h1>
                         <div id="separadordjm2"></div>
-                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima - Cusco - Puno - Arequipa</i>
+                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima - Cusco - Puno - Arequipa -
+                                Nazca</i>
                         <div class='readmore'>
                             <a href="mailto:reservas@andeanexclusive.com" id="botondjm3" type="submit" name="submit"
                                 value="Send"><i class="fa fa-envelope-o"></i> Contáctenos</a>
@@ -172,81 +177,115 @@
                     </center>
                     <div id="separador"></div>
                     <h5 style="padding: 0px 1px 0px 20px;">Overview</h5>
-                    <p style="padding: 0px 1px 0px 20px;">Tour Perú Machupicchu 15 días: City tour en Lima, City tour en
-                        Cusco, tour al Valle Sagrado de los Inkas, Tour en Machupicchu con Huaynapicchu, Tour en el
-                        Cañón del Colca en 2 días y 1 noche, Tour en el Lago Titicaca, Isla de los Uros e Isla Taquile.
-                    </p>
+                    <p style="padding: 0px 1px 0px 20px;">Un espectacular tour de 15 días alrededor de Perú, conocerás
+                        las ciudades mas hermosas que ofrece <strong> Perú</strong>. Lima, Cusco, Trujillo, Puno,
+                        Arequipa, Nazca.</p>
                     <br>
                     <table class="table">
                         <tbody>
                             <tr>
                                 <th>DÍA 01</th>
-                                <td>Bienvenida a Lima; City tour en Lima</td>
+                                <td>Bienvenida en el aeropuerto de Lima, City tour en Lima con visita a la Huaca
+                                    Pucllana</td>
                             </tr>
                             <tr>
                                 <th>DÍA 02</th>
-                                <td>Vuelo Lima - Arequipa: City tour en Arequipa</td>
+                                <td>Viaje en Bus de Turismo de Lima a Paracas y Paracas a Nazca.</td>
 
                             </tr>
                             <tr>
                                 <th>DÍA 03</th>
-                                <td>Cañon del Colca & Chivay</td>
+                                <td>Sobrevuelo en la Líneas de Nazca y Viaje a Arequipa.</td>
                             </tr>
                             <tr>
                                 <th>DÍA 04</th>
-                                <td>Mirador Cruz del Condor & hacia Puno</td>
+                                <td>City tour en Arequipa.</td>
                             </tr>
                             <tr>
                                 <th>DÍA 05</th>
-                                <td>Lago Titicaca, Uros, taquile</td>
+                                <td>Tour en el Cañón del Colca.</td>
                             </tr>
                             <tr>
                                 <th>DÍA 06</th>
-                                <td>Tour guiado de Puno hacia Cusco</td>
-                            </tr>
-                            <tr>
-                                <th>DÍA 07</th>
-                                <td>Mañana libre y tarde city tour en Cusco</td>
-                            </tr>
-                            <tr>
-                                <th>DÍA 08</th>
-                                <td>Machu Picchu</td>
-                            </tr>
-                            <tr>
-                                <th>DÍA 09</th>
-                                <td>Segundo día a Machu Picchu. Por la tarde retorno a Cusco</td>
-                            </tr>
-                            <tr>
-                                <th>DÍA 10</th>
-                                <td>Tour en el Valle Sagrado de los Inkas</td>
-                            </tr>
-                            <tr>
-                                <th>DÍA 11</th>
-                                <td>Vista del amanecer y Tour guiado en Machupicchu y Opcional: Ascenso al Huaynapicchu.
+                                <td>Tour en el Cañón del Colca y Cruz del Cóndor, retorno a Arequipa y viaje a Puno.
                                 </td>
                             </tr>
                             <tr>
+                                <th>DÍA 07</th>
+                                <td>Tour en el Lago Titicaca, Isla Flotante de los Uros y Taquile.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 08</th>
+                                <td>Circuito Turístico de Puno a Cusco.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 09</th>
+                                <td>City tour en Cusco.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 10</th>
+                                <td>Machupicchu.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 11</th>
+                                <td>Machupicchu + Huaynapicchu. </td>
+                            </tr>
+                            <tr>
                                 <th>DÍA 12</th>
-                                <td>Viaje en avión de Cusco a Lima.</td>
+                                <td>Tour en el Valle Sagrado de los Inkas.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 13</th>
+                                <td>Día libre en Cusco.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 14</th>
+                                <td>Viaje de Cusco a Lima.</td>
+                            </tr>
+                            <tr>
+                                <th>DÍA 15</th>
+                                <td> Traslado al aeropuerto.</td>
                             </tr>
                         </tbody>
                     </table>
                     <div id="separador"></div>
                     <h5>ITINERARIO:</h5>
-                    <p><strong>Day 1. City tour en Cusco</strong></p>
-                    <p>Este día estaremos esperándole en el aeropuerto de la ciudad de Lima a la hora de llegada de su
+                    <p><strong>Día 1. Bienvenida en el aeropuerto de Lima, City tour en Lima con visita a la Huaca
+                            Pucllana</strong></p>
+                    <p>
+                        Este día estaremos esperándole en el aeropuerto de la ciudad de <strong> Lima</strong> a la hora
+                        de llegada de su
                         vuelo para darles una cálida bienvenida en el aeropuerto internacional "Jorge Chávez" y
                         trasladarle al Hotel.<br>
 
-                        Por la tarde realizaremos el City Tour en la “Ciudad de los Reyes” Lima: la Catedral, la Tumba
-                        de Pizarro, las Catacumbas de San Francisco, pasando por el Congreso de la República, el Palacio
-                        de Torre Tagle, Como también visitaremos el sitio arqueológico de La Huaca Pucllana . Barranco
-                        en donde disfrutará de una sorprendente vista al Océano Pacífico. Luego visitará el Museo Rafael
-                        Larco Herrera donde usted podrá apreciar una gran cantidad de cerámica pre incaica incluyendo la
-                        colección más grande del mundo de huacos eróticos.</p>
+                        Por la tarde le recogeremos de su hotel para dar inicio al City tour en <strong> "La Ciudad de
+                            Reyes"</strong>
+                        Lima, en el trayecto haremos una parada en el distrito más pequeño de Lima, Barranco donde
+                        destaca su famoso Puente de los Suspiros, la Ermita y el monumento a Isabel Granada Larco
+                        "Chabuca Granda". Continuamos nuestro recorrido en el transporte turístico con destino a
+                        Miraflores donde conoceremos el Parque del Amor ubicado en el malecón, desde donde podrán
+                        tomarse hermosas fotos con vista al<strong> Océano Pacífico,</strong> tendremos una vista
+                        panorámica de la Huaca
+                        Pucllana, templo Pre Inca centro religioso y administrativo habitada entre los siglos III Y VIII
+                        d.c., luego daremos un paseo por el parque de los olivos, que datan desde el Virreinato con un
+                        área de 23 hectáreas.<br>
 
-                    <p><strong>Day 2. Tour a Machupicchu "La ciudad perdida de los incas"</strong></p>
-                    <p>Luego de tomar nuestro desayuno, nos trasladaremos hasta el terminal de la Empresa de turismo
+                        Con 6 km de recorrido llegaremos a puertas de centro histórico de Lima donde apreciaran el
+                        Palacio de Justicia, el Paseo de los héroes Navales, el Palacio Francés y edificaciones
+                        coloniales tales como la Plaza Mayor, el Palacio de Gobierno, el Palacio Arzobispal, La Basílica
+                        Catedral, el Palacio Municipal, la Plaza San Martin, entre otros. Visitamos el Museo BCR,donde
+                        podrán apreciar una colección de oro del Perú y una selección de cerámicos, orfebrería y
+                        textiles de diversas culturas Precolombinas. (sujeto a horarios del museo y acceso al centro
+                        histórico).<br>
+
+                        Siguiendo nuestro recorrido por la Iglesia y Convento de <strong> San Francisco,</strong>}
+                        visitaremos sus
+                        impresionantes criptas subterráneas conocidas como Catacumbas.
+                    </p>
+                    <img src="img/tours/lima-peru-tour.jpg" class="img-fluid" alt="Tour en Lima Perú"><br><br>
+                    <p><strong>Día 2. Viaje en Bus de Turismo de Lima a Paracas y Paracas a Nazca.</strong></p>
+                    <p>
+                        Luego de tomar nuestro desayuno, nos trasladaremos hasta el terminal de la Empresa de turismo
                         Cruz del Sur donde abordaremos el bus en servicio Crucero VIP con destino a Paracas, donde
                         estará esperando nuestro personal para trasladarles al puerto de Paracas, donde iniciaremos el
                         tour a las Islas Ballestas pasando por "El Candelabro" una gigantesca imagen en la ladera de un
@@ -254,134 +293,159 @@
                         observando las diferentes especies de lobos marinos, focas, pingüinos y aves guaneras. Luego de
                         llegar al puerto realizaremos el tour a la reserva de lobos marinos "Paracas". Por la tarde nos
                         dirigiremos al terminal de Paracas, desde donde tomaremos el Bus con destino a la ciudad de
-                        Nazca.</p>
+                        Nazca.
+                    </p>
 
-                    <p><strong>Día 03: Sobrevuelo en la Líneas de Nazca y Viaje a Arequipa</strong></p>
-                    <p>Luego del desayuno, los trasladaremos al aeródromo de Nazca, para un sobrevuelo de 45 minutos
-                        sobre las Pampas de Nazca, en donde los antiguos preincas dibujaron gigantescas figuras de
+                    <p><strong>Sobrevuelo en la Líneas de Nazca y Viaje a Arequipa</strong></p>
+                    <p>
+                        Luego del desayuno, los trasladaremos al aeródromo de <strong> Nazca,</strong> para un
+                        sobrevuelo de 45 minutos
+                        sobre las Pampas de Nazca, en donde los antiguos pre-incas dibujaron gigantescas figuras de
                         animales y plantas con un fin aún no descubierto, muchos creen que estas figuras fueron echas
                         por extraterrestres, entre los que se encuentran el mono, la araña, el colibrí, etc. Luego se
                         hará una visita al "Cementerio de Chauchillas" después se trasladará a los pasajeros al terminal
                         de buses de Nazca para que realicen su viaje hasta la ciudad de "Arequipa" que por lo general
                         demora 9 horas, en donde nuestro personal los estarán esperando para darles la bienvenida y
-                        llevarlos hasta su hotel.</p>
+                        llevarlos hasta su hotel.
+                    </p>
                     <img src="img/blog/lineas-de-nasca-colibri.jpg" class="img-fluid"
-                        alt="Responsive image"><br><br>
-                    <p><strong>Día 04: Tour en el Cañón del Colca</strong></p>
-                    <p>Temprano en la mañana, se embarcará en un increíble viaje de 4 horas aproximadamente, con destino
-                        al Cañón del Colca, uno de los cañones más profundos del mundo ( 3,400 mts.), pasando por Pampa
-                        Cañahuas, ubicada en la Reserva Nacional de Aguada Blanca, hábitat de vicuñas y alpacas
-                        (camélidos de América del Sur). El punto más alto del trayecto está a 4,900 msnm. en la ruta
-                        apreciaremos terrazas pre colombinas que siguen siendo cultivadas por los nativos collaguas.
-                        Arribando al Valle del Colca, les trasladaremos a su respectivo hotel.<br>
+                        alt="Lineas de Nazca - Nazca lines"><br><br>
+                    <p><strong>Día 04: City tour en Arequipa.</strong></p>
+                    <p>
+                        Luego del desayuno pasaremos por usted para dirigirnos al centro de la ciudad en donde
+                        iniciaremos un interesante recorrido, nuestra primera parada tiene lugar en unos de los
+                        monumentos arquitectónicos más impresionantes de la ciudad, se trata del magnífico Monasterio de
+                        Santa Catalina, una ciudad en miniatura que albergo a las monjas Arequipeñas por más de 400
+                        años. Más tarde pasaremos por la bella Plaza de Armas, bellamente rodeada por hermosos arcos
+                        coloniales y visitaremos la hermosa Catedral de Arequipa, a la cual ingresaremos con nuestro
+                        guía local para apreciar sus impresionante obras de arte, tanto como su imponente estructura.
+                        Finalmente visitaremos el Museo de Santuarios Andinos en donde veremos los restos de la momia
+                        llamada Juanita, un espectacular hallazgo de una niña perteneciente a la nobleza Inca que fue
+                        descubierta en las frías faldas del nevado Ampato. Por la tarde tomaremos el bus de turismo que
+                        nos llevara a la ciudad de Puno, donde pasaremos la noche en un Hotel.
+                    </p>
+
+                    <p><strong>Día 05: Tour en el Cañón del Colca</strong></p>
+                    <p>
+                        Temprano en la mañana, se embarcará en un increíble viaje de 4 horas aproximadamente, con
+                        destino al <strong> Cañón del Colca,</strong> uno de los cañones más profundos del mundo ( 3,400
+                        mts.), pasando
+                        por Pampa Cañahuas, ubicada en la <strong> Reserva Nacional de Aguada Blanca,</strong> hábitat
+                        de vicuñas y
+                        alpacas (camélidos de América del Sur). El punto más alto del trayecto está a 4,900 msnm. en la
+                        ruta apreciaremos terrazas pre colombinas que siguen siendo cultivadas por los nativos
+                        collaguas. Arribando al Valle del Colca, les trasladaremos a su respectivo hotel.<br>
 
                         En la tarde, le recomendamos descansar y aclimatarse a la altura. Si se encuentra en buen estado
                         físico, tendrá tiempo libre para dar un paseo por los alrededores del hotel o tomar un reparador
-                        baño en las aguas termales cercanas.</p>
+                        baño en las aguas termales cercanas.
+                    </p>
 
-                    <p><strong>Día 05: Tour en el Cañón del Colca y Cruz del Cóndor, retorno a Arequipa</strong></p>
-                    <p>Muy temprano en la mañana partiremos con destino a La Cruz del Cóndor, donde usualmente se puede
+                    <p><strong>Día 06: Tour en el Cañón del Colca y Cruz del Cóndor, retorno a Arequipa y viaje a
+                            Puno.</strong></p>
+                    <p>
+                        Muy temprano en la mañana partiremos con destino a La Cruz del Cóndor, donde usualmente se puede
                         observar el ave más grande del mundo en pleno vuelo. Durante el regreso visitaremos los pueblos
                         de Yanque, Coporaque, Achoma y Maca. Buena ocasión para apreciar la vida de los habitantes de
-                        estos pueblos que no ha variado mucho desde tiempos incaicos. Finalmente, por la tarde, retorno
-                        a la ciudad Blanca de Arequipa.</p>
-
-                    <p><strong>Día 06: Viaje de Arequipa a Puno</strong></p>
-                    <p>Luego del desayuno le recogeremos de para dar inicio al City Tour, nuestra primera parada será el
-                        Monasterio de Santa Catalina, una ciudad en miniatura que albergo a las monjas Arequipeñas por
-                        más de 400 años. Más tarde pasaremos por la bella Plaza de Armas, bellamente rodeada por
-                        hermosos arcos coloniales y visitaremos la Catedral de Arequipa, a la cual ingresaremos para
-                        apreciar sus impresionantes obras de arte, tanto como su imponente estructura. Finalmente
-                        visitaremos el Museo de Santuarios Andinos en donde veremos los restos de la momia llamada
-                        Juanita, un espectacular hallazgo de una niña perteneciente a la nobleza Inca que fue
-                        descubierta en las frías faldas del nevado Ampato. Por la tarde tomaremos el bus de turismo que
-                        nos llevara a la ciudad de Puno, donde pasaremos la noche en un Hotel.</p>
-                        <img src="img/tours/puno-peru-islands.jpg" class="img-fluid"
-                        alt="Responsive image"><br><br>
+                        estos pueblos que no ha variado mucho desde tiempos incaicos. Por la tarde, luego del almuerzo,
+                        les conduciremos con destino a Puno, donde les estaremos esperando para hacerles su traslado a
+                        su hotel en Puno.
+                    </p>
 
                     <p><strong>Día 07: Tour en el Lago Titicaca, Isla Flotante de los Uros y Taquile.</strong></p>
-                    <p>Pasaremos a recogerle a su hotel a las 7:00 a.m; aproximadamente para trasladarle al Puerto e
+                    <p>
+                        Pasaremos a recogerle a su hotel a las 6:30 a.m; aproximadamente. para trasladarle al Puerto e
                         iniciar el tour en una lancha turística hacia las sorprendentes y majestuosas “Islas de los
-                        Uros”, llegando a las 07:20 de la mañana aproximadamente.<br>
+                        Uros”, llegando a las 07:20 de la mañana aproximadamente. Uros: Estas islas son pisos
+                        artificiales,fabricados con totora superpuesta y hábilmente entretejida. Durante el trayecto el
+                        guía proporciona amplia información sobre el Lago Titicaca, las leyendas de los Uros, sus usos,
+                        costumbre y el folklore;<br>
 
-                        <strong> Uros:</strong> Estas islas son pisos artificiales, fabricados con totora superpuesta y
-                        hábilmente
-                        entretejida. Durante el trayecto el guía proporciona amplia información sobre el Lago Titicaca,
-                        las leyendas de los Uros, sus usos, costumbre y el folklore.
-                        <strong> Taquile:</strong> Arribando a Taquile, nos
-                        dirigiremos a su Plaza de Armas, tiempo libre para hacer compras. La Isla Taquile nos presenta
-                        tejidos de una calidad impresionante comparable solamente con los telares de la cultura Paracas
-                        o Egipto, declarados Patrimonio Cultural de la Humanidad. A las 12:40 del medio día usted
-                        degustará un exquisito almuerzo, zarpando del Puerto de Taquile a las 2:30pm y llegando a Puno a
-                        las 5:30 pm aprox. para seguidamente trasladarles a su hotel.
+                        Taquile: Arribando a Taquile, nos dirigiremos a su Plaza de Armas, tiempo libre para hacer
+                        compras.<br>
+                        <strong>La Isla Taquile</strong> nos presenta tejidos de una calidad impresionante comparable
+                        solamente con los
+                        telares de la cultura Paracas o Egipto, declarados Patrimonio Cultural de la Humanidad. A las
+                        12:40 del medio día usted degustará un exquisito almuerzo, zarpando del Puerto de Taquile a las
+                        2:30 pm y llegando a Puno a las 5:30 pm aproximadamente para seguidamente trasladarles a su
+                        hotel.
                     </p>
+                    <img src="img/tours/puno-peru-islands.jpg" class="img-fluid" alt="Responsive image"><br><br>
 
                     <p><strong>Día 08: Circuito Turístico de Puno a Cusco.</strong></p>
-                    <p>Después del desayuno, los recogeremos del hotel y los llevaremos a la estación de buses de
-                        Turismo donde lo llevará por un recorrido que dura (8 horas aprox.).<br>
-                        Donde usted disfrutará de 4 excursiones y visitas guiadas, llegando al paso de la Raya a 4,335
-                        m.s.n.m y el Museo inca aymara de Pucará, llegando al medio día a la ciudad de Sicuani teniendo
-                        incluido un delicioso almuerzo Buffet.<br>
+                    <p>
+                        Después del desayuno, los recogeremos del hotel y los llevaremos a la estación de buses de
+                        Turismo donde lo llevará por un recorrido que dura (8 horas aproximadamente) Donde usted
+                        disfrutará de 4 excursiones y visitas guiadas, llegando al paso de la Raya a 4,335 m.s.n.m y el
+                        Museo inca aymara de Pucará, llegando al medio día a la ciudad de Sicuani teniendo incluido un
+                        delicioso almuerzo Buffet.<br>
+
                         Luego continuaremos con nuestro viaje; donde cada visita tiene una duración de ( 20 a 40 minutos
-                        promedio ), visitaremos el templo Inca de Raqchi, el templo de Andahuaylillas o Capilla Sixtina
+                        promedio ), visitaremos el templo <strong> Inca de Raqchi,</strong> el templo de Andahuaylillas
+                        o Capilla Sixtina
                         de América, haciendo su excursión muy placentera. Al llegar a la ciudad imperial del Cusco lo
-                        estaremos esperando para trasladarlo a su hotel, donde pasará la noche.</p>
-
-                    <p><strong>Día 09: City tour en Cusco.</strong></p>
-                    <p>Por la mañana usted dispondrá de una mañana libre para hacer lo que desee, compras, pasear por
-                        las pintorescas calles de la ciudad del Cusco, tomarse fotografías.<br>
-                        Luego de su almuerzo lo recogeremos de su hotel a las 1:10 de la tarde para dar inicio y
-                        disfrutar de un tour guiado a las 1:35 de la tarde donde usted podrá conocer : La antigua Plaza
-                        de Armas del Cusco, la Catedral, el Monasterio de Santo Domingo, Templo del Qoricancha y los
-                        sitios arqueológicos como: Kenko, Puka Pukará, Tambomachay y la Gran y maravillosa fortaleza de
-                        Sacsayhuaman. Retornando hacia la ciudad del Cusco a las 6:45 de la tarde. Finalmente noche de
-                        pernocte en el
-                        Hotel en Cusco.</p>
-                    <p><strong>Día 10: Tour en el Valle Sagrado de los Inkas y viaje en tren a Machupicchu (Aguas
-                            Calientes)</strong></p>
-                    <p>
-                        Pasaremos a recogerle de su hotel a la hora indicada por su agente de viajes, iniciando el
-                        recorrido a las 9:00 a.m dirigiéndonos por una carretera asfaltada al pueblo de Pisac, ubicado a
-                        32 Km de la ciudad de Cusco, siendo Pisac un pueblo típico andino artesanal y
-                        arqueológico donde se realizan las famosas Ferias Artesanales en sus mercados típicos donde
-                        usted podrá realizar compras y disfrutar de un tour guiado en los sitios arqueológicos del
-                        lugar; continuando con nuestro recorrido de aproximadamente una hora pasaremos por diferentes
-                        poblados como: Coya, Lamay, la provincia de Calca, Yucay apreciando la belleza paisajística del
-                        Valle Sagrado de los Incas. Pasaremos al poblado de Urubamba donde disfrutaremos de un delicioso
-                        almuerzo buffet en el acogedor restaurante "Tunupa" Posteriormente nos dirigiremos hacia el
-                        poblado de Ollantaytambo (Es la única ciudad del incanato en el Perú que aún es habitada) para
-                        visitar el complejo arqueológico del mismo nombre; habiendo sido un: Complejo agrícola,
-                        administrativo, social, religioso y militar en el Tahuantinsuyo, finalizando el tour a las 4:00
-                        pm aproximadamente, tendrán tiempo libre en el poblado de Ollantaytambo, donde podrán visitar su
-                        mercado artesanal con más tiempo, visitar sus callecitas que guarda todavía el trazado de las
-                        calles incas, viendo discurrir el agua por sus antiguos canales, es como retroceder en el tiempo
-                        ideales para tomarse fotografías o tomar un café en su Plaza de Armas. A la hora indicada,
-                        deberán tomar el tren de Ollantaytambo que sale a las 19:00 pm con destino al poblado de Aguas
-                        Calientes donde nuestro personal le estará esperando para trasladarlo al hotel seleccionado.
+                        estaremos esperando para trasladarlo a su hotel, donde pasará la noche.
                     </p>
-                    <img src="img/blog/machu-picchu-exclusive.jpg" class="img-fluid"
-                        alt="Responsive image"><br><br>
-                    <p><strong>Día 11: Vista del amanecer y Tour guiado en Machupicchu y Opcional: Ascenso al
-                            Huaynapicchu.</strong></p>
-                    <p>
-                        Luego de su desayuno, de acuerdo al horario de su boleto de ingreso a Machupicchu, En
-                        coordinación con el guía, quien le visitará un día antes en su hotel en Aguas Calientes deberá
-                        tomar el bus de subida de Aguas Calientes a Machupicchu (altitud 2450 m.s.n.m) que dura 30
-                        minutos de subida aproximadamente, a la hora programada con el guía un día antes, tendrá su tour
-                        guiado de aproximadamente 2 horas, pudiendo visitar: la Plaza Principal, la Torre Circular, el
-                        Sagrado Reloj Solar, Los Cuartos Reales, El Templo de las Tres Ventanas y los Cementerios.<br>
 
-                        Antes o después de su tour Guiado en Machupicchu, dependiendo del horario establecido en sus
-                        tickets tendrá un tiempo libre para explorar por si mismo Machupicchu o usar sus tickets para
-                        ascender a la Montaña de Huaynapicchu o Machupicchu Montaña <strong> (Note que en caso quiera
-                            ascender a
-                            la montaña Huaynapicchu tiene que reservar por lo menos con tres meses de anticipación ya
-                            que
-                            los espacios son limitados, consultar espacios y horarios).</strong> Usted podrá visitar
-                        Huaynapicchu
-                        Montaña (3 horas de visita) desde donde se aprecia una vista espectacular de todo el valle de
-                        Machupicchu; o podrá visitar Machupicchu Montaña (4 horas de visita) la cual le dio el nombre a
-                        Machupicchu con una belleza paisajista única y una vista espectacular.<br>
+                    <p><strong>Día 09: City tour en Cusco</strong></p>
+                    <p>
+                        Por la mañana usted dispondrá de una mañana libre para hacer lo que desee, compras, pasear por
+                        las pintorescas calles de la ciudad del Cusco, tomarse fotografías.<br>
+
+                        Luego de su almuerzo lo recogeremos de su hotel a la hora indicada por su agente de viajes para
+                        dar inicio y disfrutar de un tour guiado a las 1:35 de la tarde donde usted podrá conocer : La
+                        antigua Plaza de Armas del Cusco, la Catedral, el Monasterio de Santo Domingo, Templo del
+                        Qoricancha y los sitios arqueológicos como : Kenko, Puka Pukará, Tambomachay y la Gran y
+                        maravillosa fortaleza de Sacsayhuaman: Retornando hacia la ciudad del Cusco a las 6:45 pm.
+                        Finalmente noche de pernocte en el Hotel en Cusco.
+                    </p>
+
+                    <p><strong>Día 10: Viaje en Tren a Machupicchu, Tour a Machupicchu, noche en hotel en Aguas
+                            Calientes.</strong></p>
+                    <p>
+                        Muy temprano de acuerdo a la elección del servicio de tren elegido:<strong> Tren
+                            Expedition</strong> (incluido en
+                        el Paquete Turístico) o <strong> Vistadome</strong> (adicionando 45 dólares), pasaremos por su
+                        hotel en la
+                        ciudad de Cusco para trasladarles a la estación de trenes de Poroy (a 25 minutos de Cusco),
+                        donde usted abordará el tren con destino al poblado de Aguas Calientes (altitud 2350 m.s.n.m),
+                        el tiempo de viaje en ambos trenes es de 3 horas con 40 minutos aproximadamente.<br>
+
+                        En el poblado de Aguas Calientes estará esperándoles nuestro guía profesional en turismo quien
+                        les guiará para tomar el bus de subida a la majestuosa e impresionante ciudadela de <strong>
+                            Machupicchu</strong>
+                        (altitud 2450 m.s.n.m);el viaje en bus dura 25 min aproximadamente, junto con el guía harán el
+                        ingreso a Machupicchu donde tendrán un tour guiado de 2 horas con 30 minutos aproximadamente
+                        pudiendo visitarla Plaza Principal, la Torre Circular, el Sagrado Reloj Solar, Los Cuartos
+                        Reales, El Templo de las Tres Ventanas y los Cementerios, finalmente tendrán el tiempo libre
+                        para seguir explorando la mágica Ciudadela Inca de Machupicchu y retornar por su cuenta al
+                        poblado de Aguas Calientes donde podrán almorzar y dar un paseo en el poblado de Aguas Calientes
+                        puede elegir entre caminar alrededor de Aguas calientes, visitar el museo de Machupichu o
+                        visitar los baños termales.
+
+                        Finalmente pernocte en el hotel seleccionado de Aguas Calientes - Machupicchu.
+                    </p>
+                    <img src="img/tours/machupicchu.png" class="img-fluid" alt="Responsive image"><br><br>
+
+                    <p><strong>Día 11: Vista del amanecer en Machupicchu, Opcional: Ascenso a Huaynapicchu y tren de
+                            retorno a Cusco.</strong></p>
+                    <p>
+                        Luego de su desayuno, de acuerdo al horario de su boleto de ingreso a Machupicchu, podrá volver
+                        a hacer le ingreso y visita a la ciudadela inca por su cuenta.
+
+                        Antes o después de su horario de ingreso a <strong> Machupicchu,</strong> dependiendo del
+                        horario establecido en
+                        sus tickets tendrá un tiempo libre para explorar por si mismo Machupicchu o usar sus tickets
+                        para ascender a la Montaña de Huaynapicchu o Machupicchu Montaña (Note que en caso quiera
+                        ascender a la montaña <strong> Huaynapicchu</strong> tiene que reservar por lo menos con tres
+                        meses de
+                        anticipación ya que los espacios son limitados, de no haber espacios en la Montaña Huaynapicchu
+                        su reserva será en la Montaña Machupicchu, así mismo el horario de ingreso a cualquiera de las
+                        montañas puede variar de acuerdo a disponibilidad de espacios, el horario se le confirmará en su
+                        reserva o puede solicitar al momento del contacto). Usted podrá visitar Huaynapicchu Montaña (3
+                        horas de visita) desde donde se aprecia una vista espectacular de todo el valle de Machupicchu;
+                        o podrá visitar Machupicchu Montaña (4 horas de visita) la cual le dio el nombre a Machupicchu
+                        con una belleza paisajista única y una vista espectacular.<br>
 
                         Este programa de viaje es ideal para recorrer Machupicchu en su totalidad y tomarse fotografías
                         con tiempo suficiente hasta la hora que usted tome por conveniente retornar en bus a Aguas
@@ -391,18 +455,54 @@
                         destino a Poroy u Ollantaytambo donde nuestro personal estará esperando por usted en la estación
                         de trenes para trasladarle a su hotel en Cusco.<br>
 
-                        <em>La ventaja de este tour es que usted podrá conocer Machupicchu sin mucha gente y con mucha
-                            más
-                            disposición de tiempo.</em>
+                        La ventaja de este tour es que usted podrá conocer Machupicchu sin mucha gente y con mucha más
+                        disposición de tiempo.
                     </p>
-                    <p><strong>Día 12: Viaje en avión de Cusco a Lima</strong></p>
-                    <p>
-                        Este día de acuerdo al horario de vuelo de la ciudad de Cusco con destino a Lima se le hará el
-                        traslado del Hotel en Cusco al aeropuerto con 2 horas de anticipación al horario de su vuelo
-                        para llegar a tiempo y realizar los respectivos trámites de embarque al avión.<br>
 
-                        <strong> Fin de los servicios.</strong>
+                    <p><strong>Día 12: Tour en el Valle Sagrado de los Inkas.</strong></p>
+                    <p>
+                        Pasaremos a recogerle de su hotel a la hora indicada por su agente de viajes, iniciando el
+                        recorrido a las 9:00 a.m dirigiéndonos por una carretera asfaltada al pueblo de <strong>
+                            Pisac,</strong> ubicado a
+                        32 Km de la ciudad de <strong> Cusco,</strong> siendo Pisac un pueblo típico andino artesanal y
+                        arqueológico donde
+                        se realizan las famosas Ferias Artesanales en sus mercados típicos donde usted podrá realizar
+                        compras y disfrutar de un tour guiado en los sitios arqueológicos del lugar; continuando con
+                        nuestro recorrido de aproximadamente una hora pasaremos por diferentes poblados como: Coya,
+                        Lamay, la provincia de Calca, Yucay apreciando la belleza paisajista del <strong> Valle
+                            Sagrado</strong> de los
+                        Incas. Pasaremos al poblado de Urubamba donde disfrutaremos de un delicioso almuerzo buffet en
+                        el acogedor restaurante "Tunupa".<br>
+
+                        Posteriormente nos dirigiremos hacia el poblado de Ollantaytambo (Es la única ciudad del
+                        incanato en el Perú que aún es habitada) para visitar el complejo arqueológico del mismo nombre;
+                        retornando a la ciudad de Cusco, visitaremos el sitio arqueológico de Chinchero y su capilla.
+                        Retornaremos a la ciudad del Cusco a las 7:00 pm.
                     </p>
+                    <p><strong>Día 13: Día libre en Cusco.</strong></p>
+                    <p>
+                        Desayuno en el Hotel.<br>
+                        Opcional: Tour en el corredor del Sur US$ 25 dólares.<br>
+                        Opcional: Tour en las salineras de Maras y Andenes de Moray US$ 25 dólares.<br>
+                        Opcional: Tour en la Laguna de Huamantay ruta Salkantay. USD 45 Dólares.<br>
+                        Opcional: Tour en la Montaña de 7 colores Vinincunca. USD 45 dólares.<br>
+                        Noche de Hotel en Cusco.
+                    </p>
+                    <p><strong>Día 14: Viaje de Cusco a Lima.</strong></p>
+                    <p>
+                        Desayuno en el Hotel.<br>
+                        Traslado del hotel en Cusco al aeropuerto.<br>
+                        Viaje en avión de Cusco a Lima.<br>
+                        Traslado del aeropuerto de Lima al Hotel.<br>
+                        Día Libre en Lima.<br>
+                        Noche de Hotel en Lima.
+                    </p>
+                    <p><strong>Día 15: Traslado al aeropuerto.</strong></p>
+                    <p>
+                        Desayuno en el Hotel.<br>
+                        Traslado del Hotel al aeropuerto Internacional de Lima.
+                    </p>
+
                     <div id="separador"></div>
                     <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist"
                         style="text-transform: uppercase; font-size: 12px; font-weight: 700">
@@ -422,33 +522,50 @@
                     <div class="tab-content pb-5" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
                             aria-labelledby="pills-home-tab">
-                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los traslados al hotel, aeropuerto,
-                            terminal, estaciones y atractivos.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tours a Machu Picchu, Valle Sagrado de los
-                            Incas, ciudad del Cusco y city tour en la
-                            “Ciudad de los Reyes”.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los transportes para los tours.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Pasajes en Tren ida y vuelta Ollantaytambo
-                            – Aguas Calientes – Ollantaytambo.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Pasajes de bus subida y bajada Aguas
-                            Calientes – Machu Picchu – Aguas Calientes.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Guía profesional de turismo en idioma
-                            inglés o español.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Viaje en bus de Ollantaytambo a Cusco.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Ingresos a los atractivos turísticos a
-                            visitar: Machu Picchu, Huaynapicchu, Valle Sagrado
-                            de los Incas, ciudad del Cusco y ciudad de los reyes.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Transfer en todos los despachos.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 05 noches en hotel.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 05 desayunos.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 02 almuerzos (01 en el tour al Valle
-                            Sagrado y 01 en Aguas Calientes).
+                            <i class="fa fa-check" aria-hidden="true"></i> Todos los traslados: Hoteles -
+                            aeropuertos-Hoteles, Hoteles - terminal de buses - hoteles, Hoteles-estaciones de trenes -
+                            Hoteles.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Todos los ingresos a los atractivos
+                            turísticos a visitar: 2 boletos de ingreso para la ciudadela inca de Machupichu mas dos
+                            boletos de bus de ida y vuelta para el primer y segundo día.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Boleto de avión: Cusco - Lima<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Viaje en bus de Lima a Paracas<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour a las Islas Ballestas.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour a la reserva de Paracas.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Viaje en bus de Pisco a Nazca.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour a las Enigmáticas líneas de Nazca 40
+                            minutos (según tiempo).<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Viaje en bus de Nazca a Arequipa.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> City tour en Arequipa.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour al Cañón del Colca (el Cañón más
+                            Profundo del Mundo), reserva de Vicuñas y Chivay.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour al Cañón del Colca, Cruz del Cóndor
+                            Vista de Cóndores y Retorno a Arequipa.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Viaje en bus de Arequipa a Puno.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour al lago Titicaca el Lago Sagrado de
+                            los Incas, Isla de Los Uros, Taquile.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour guiado de Puno a Cusco (Todo el día
+                            de 7am a 5pm aproximadamente).<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> City Tour en Ciudad del Cusco y
+                            Alrededores (Por la tarde de 2:00pm – 6:30pm).<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour a Machu Picchu tren Expedition<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Tour al Valle Sagrado de los Incas (Todo
+                            el día de 8:30 am – 7:00 pm).<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> 01 Almuerzo Buffet en el Valle Sagrado de
+                            los Incas Restaurant Tunupa Urubamba.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Boletos de tren ida y vuelta de
+                            Ollantaytambo - Machupicchu (Aguas Calientes) - Cusco.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> City tour a la “ Ciudad de los Reyes ”
+                            Lima.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> 14 noches en hoteles de acuerdo a su
+                            acomodación.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> 14 Desayunos en los Hoteles.
                         </div>
                         <div class="tab-pane fade" id="pills-profile" role="tabpanel"
                             aria-labelledby="pills-profile-tab">
                             <i class="fa fa-minus" aria-hidden="true"></i> Vuelos Lima/Cusco/Lima.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Alimentación completa (almuerzos y cenas
-                            no especificadas en el programa)
+                            no especificadas en el programa).
                         </div>
                         <div class="tab-pane fade" id="pills-contact" role="tabpanel"
                             aria-labelledby="pills-contact-tab">
@@ -485,7 +602,7 @@
             </div>
             <div class="col-lg-3">
                 <div class="sticky-top" style="padding-top: 75px; z-index: 40">
-                    <div class="card">
+                    <div>
                         <div class="card-body">
                             @include('layouts.booking-castellano')
                         </div>
@@ -495,7 +612,7 @@
         </div>
     </div>
     <div data-onepage-title="Services" data-onepage-slug="services" id="display"
-        class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+        class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126 text-center">
         <div class="wpb_column vc_column_container vc_col-sm-12">
             <div class="vc_column-inner vc_custom_1461227943574">
                 <div class="wpb_wrapper">

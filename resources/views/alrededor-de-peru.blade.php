@@ -247,12 +247,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href="peru-15-dias" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno" /></a>
+                                                                    <a href="peru-13-dias" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú por 15 días</h3>
+                                                                    <h3>Perú por 13 días</h3>
                                                                     <div class='readmore'>
-                                                                        <a href='peru-15-dias' class='button'>Más Info</a>
+                                                                        <a href='peru-13-dias' class='button'>Más Info</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -264,12 +264,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='peru-18-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
+                                                                    <a href='peru-15-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú por 18 días</h3>
+                                                                    <h3>Perú por 15 días</h3>
                                                                     <div class='readmore'>
-                                                                        <a href="oeru-18-dias" class='button'>Más Info</a>
+                                                                        <a href="oeru-15-dias" class='button'>Más Info</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -281,12 +281,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='peru-20-dias-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
+                                                                    <a href='peru-18-dias-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú por 20 días</h3>
+                                                                    <h3>Perú por 18 días</h3>
                                                                     <div class='readmore'>
-                                                                        <a href='peru-20-dias-tour' class='button'>Más Info</a>
+                                                                        <a href='peru-18-dias-tour' class='button'>Más Info</a>
                                                                     </div>
                                                                 </div>
                                                             </div>

@@ -250,12 +250,12 @@
                                                             <div class="wpb_wrapper">
                                                                  <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href="peru-15-days" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno"/></a>
+                                                                        <a href="peru-13-days" class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours in Puno"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Perú for 15 days</h3><br>
+                                                                        <h3>Perú for 13 days</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href='peru-15-days' class='button'>Read more</a>
+                                                                            <a href='peru-13-days' class='button'>Read more</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -267,12 +267,12 @@
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='peru-18-days' class='entry-link'><img width="400" height="400"  src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú"/></a>
+                                                                        <a href='peru-15-days-tour' class='entry-link'><img width="400" height="400"  src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Perú for 18 days</h3><br>
+                                                                        <h3>Perú for 15 days</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href="peru-18-days" class='button'>Read more</a>
+                                                                            <a href="peru-15-days-tour" class='button'>Read more</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -284,12 +284,12 @@
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='peru-20-days' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt=""/></a>
+                                                                        <a href='peru-18-days-tour' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt=""/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Perú for 20 days</h3><br>
+                                                                        <h3>Perú for 18 days</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href='peru-20-days' class='button'>Read more</a>
+                                                                            <a href='peru-18-days-tour' class='button'>Read more</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>

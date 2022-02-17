@@ -11,7 +11,7 @@
         content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 20 días en Perú" />
     <meta property="og:description"
         content="Ven a disfrutar de lo que Perú tiene para ofrecr a sus visitantes. Tour de 20 días en Perú" />
-    <meta property="og:url" content="https://andeanexclusive.com/peru-20-dias">
+    <meta property="og:url" content="https://andeanexclusive.com/peru-20-dias-tour">
     <meta property="og:title"
         content="20 días en Perú - Peru por 20 días - Machu Picchu - Valle Sagrado - City Tours - Puno - Arequipa - Trujillo">
     <meta property="og:type" content="article">
@@ -177,7 +177,7 @@
                     </center>
                     <div id="separador"></div>
                     <h5 style="padding: 0px 1px 0px 20px;">Overview</h5>
-                    <p style="padding: 0px 1px 0px 20px;">Un espectacular tour de 22 díaasa alrededor de Perú, conocerás
+                    <p style="padding: 0px 1px 0px 20px;">Un espectacular tour de 22 días alrededor de Perú, conocerás
                         las ciudades mas hermosas que ofrece <strong> Perú</strong>. Lima, Cusco, Trujillo, Puno,
                         Arequipa, Nazca.</p>
                     <br>
