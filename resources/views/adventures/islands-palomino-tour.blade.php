@@ -4,16 +4,14 @@
 
 <head>
     <meta charset="UTF-8">
-    <title>18 days in Perú- Peru for 18 díays - Machu Picchu - Sacred Valley - City Tours - Puno - Arequipa - Trujillo -
-        Puerto Maldonado
-    </title>
+    <title>Palomino Islands Tour</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="Perú for 18 days, 18 days in Perú, Tour in Peru 18 days, Peru 18 days tour" />
+    <meta name="keywords"
+        content="Enjoy a 4 hour tour by boat in Lima, You will be able to witness the marine life that inhabits the islands of Lima, including birds and sea lions. This tour is a great addition to your trip to Lima." />
     <meta property="og:description"
-        content="Come and enjoy what Peru has to offer its visitors. 20 days tour in Peru. amazing Tour in Perú!" />
-    <meta property="og:url" content="https://andeanexclusive.com/peru-18-days-tour">
-    <meta property="og:title"
-        content="18 days in Perú- Peru for 18 díays - Machu Picchu - Sacred Valley - City Tours - Puno - Arequipa - Trujillo - Puerto Maldonado">
+        content="Enjoy a 4 hour tour by boat in Lima. You will be able to witness the marine life that inhabits the islands of Lima, including birds and sea lions. This tour is a great addition to your trip to Lima." />
+    <meta property="og:url" content="https://andeanexclusive.com/adventures/palomino-islands-tour">
+    <meta property="og:title" content="Palomino Islands Tour">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
     <meta name="author" content="Web Masters DJM2" />
@@ -21,19 +19,19 @@
     <link href="https://fonts.googleapis.com/css?family=Montserrat|Open+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css"
         integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
-    <link rel='stylesheet' href='styles/js_composer.min5243.css' type='text/css' media='all' />
-    <link rel="icon" type="image/png" href="img/logoico.png">
-    <link rel="stylesheet" type="text/css" href="styles/estilo.css">
-    <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
+    <link rel='stylesheet' href="{{ asset('styles/js_composer.min5243.css') }}" type='text/css' media='all' />
+    <link rel="icon" type="image/png" href="{{ asset('img/logoico.png') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('styles/estilo.css') }}">
+    <link rel="stylesheet" type="text/css" href="{{ asset('font-awesome/css/font-awesome.css') }}">
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
         integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-    <script type='text/javascript' src='js/jquery4a5f.js'></script>
-    <script type='text/javascript' src='js/mediaelement-and-player.min45a0.js'></script>
+    <script type='text/javascript' src="{{ asset('js/jquery4a5f.js') }}"></script>
+    <script type='text/javascript' src="{{ asset('js/mediaelement-and-player.min45a0.js') }}"></script>
 </head>
 
 <body class="home page-template-default page page-id-44 wpb-js-composer js-comp-ver-5.4.5 vc_responsive"
     style="font-size: 14px; font-weight: 400; color:#131313">
-    @include('layouts.wasa')
+    @include('layouts.wasa-blog')
     <div class="wrapper">
         <header id="header">
             <div class="container">
@@ -41,12 +39,12 @@
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="/" rel="home" class="logo-text-link"><img src="img/andean-exclusive-logo.png"
-                                        id="logo"></a>
+                                <a href="/" rel="home" class="logo-text-link"><img
+                                        src="{{ asset('img/andean-exclusive-logo.png') }}" id="logo"></a>
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
-                                    @include('layouts.menu')
+                                    @include('layouts.menu-blog')
                                     <li id="display" class="menu-has-children">
                                         <a>
                                             <button type="button" class="botondjm">Language
@@ -54,15 +52,15 @@
                                             </button>
                                         </a>
                                         <ul>
-                                            <li><a href="peru-18-dias-tour">Español</a></li>
-                                            <li><a>Ingles</a></li>
+                                            <li><a href="tour-islas-palomino">ES</a></li>
+                                            <li><a>EN</a></li>
                                         </ul>
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr'
                                             target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="peru-18-dias-tour">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a>En</a>
+                                        <a href="tour-islas-palomino">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a>EN</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -80,7 +78,7 @@
                         <div class="entry-excerpt">
                             <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home"
                                 data-onepage-slug="home"
-                                class="vc_row wpb_row tours-varios-dias vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
+                                class="vc_row wpb_row palomino-islands vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner vc_custom_1461317698190">
                                         <div class="wpb_wrapper">
@@ -99,7 +97,7 @@
                                                                         </div>
                                                                     </center>
                                                                 @endif
-                                                                <h1> TOUR IN PERÚ FOR 18 DAYS</h1>
+                                                                <h1>Palomino Islands Tour</h1>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -115,6 +113,7 @@
                 </div>
             </div>
         </div>
+
     </div>
     <div id="separador"></div>
     <div class="container">
@@ -130,7 +129,7 @@
                                 </h1>
                                 <div id="similares">
                                     <div id="separador"></div>
-                                    <a href="biking" class="button">Biking in the mountains</a>
+                                    <a href="../biking" class="button">Biking in the mountains</a>
                                 </div>
                                 <div id="similares">
                                     <div id="separador"></div>
@@ -138,11 +137,11 @@
                                 </div>
                                 <div id="similares">
                                     <div id="separador"></div>
-                                    <a href="swim-with-sea-lions" class="button">Swim with sea lions</a>
+                                    <a href="atv-tour" class="button">ATV</a>
                                 </div>
                                 <div id="similares">
                                     <div id="separador"></div>
-                                    <a href="peru-8-days-7-nights" class="button">Perú for 8 days</a>
+                                    <a href="../huacachina-ica-peru" class="button">Sandboarding Perú</a>
                                 </div>
                                 <div id="similares">
                                     <div id="separador"></div>
@@ -164,9 +163,9 @@
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services"
                     class="vc_row-fluid vc_custom_1461248392126">
                     <center>
-                        <h1 id="titulo1">CHOQUEQUIRAO TREK 4 DAYS. ADVENTURE TOURS AND HIKING</h1>
+                        <h1 id="titulo1">Palomino Islands Tour</h1>
                         <div id="separadordjm2"></div>
-                        <p style="color: #0c8178"><i class="fa fa-map-marker">Cusco - Choquequirao</i>
+                        <p style="color: #0c8178"><i class="fa fa-map-marker">Lima - Callao</i>
                         <div class='readmore'>
                             <a href="mailto:reservas@andeanexclusive.com" id="botondjm3" type="submit" name="submit"
                                 value="Send"><i class="fa fa-envelope-o"></i> Contact Us</a>
@@ -176,73 +175,53 @@
                     <div id="separador"></div>
                     <h5 style="padding: 0px 1px 0px 20px;">Overview</h5>
                     <p style="padding: 0px 1px 0px 20px;">
-                        This tour to Choquequirao of 4 days is one of the most beautiful ones. Most of the people who
-                        already made this tour say that it is tiring, but the effort is always worth it. The landscapes
-                        that are appreciated are unique and the ancestral energy is felt from the first step. It is not
-                        said in vain that Choquequirao is the only attraction in Cusco at the height of competing with
-                        Machu Picchu.
+                        Enjoy a 4 hour tour by boat in Lima. You will be able to witness the marine life that inhabits
+                        the islands of Lima, including birds and sea lions. This tour is a great addition to your trip
+                        to Lima.
                     </p>
-                    <br>
-                    <table class="table">
-                        <tbody>
-                            <tr>
-                                <th>DAY 01</th>
-                                <td>CUSCO - CHIQUISCA</td>
-                            </tr>
-                            <tr>
-                                <th>DAY 02</th>
-                                <td>CHIQUISCA - CHOQUEQUIRAO</td>
-
-                            </tr>
-                            <tr>
-                                <th>DAY 03</th>
-                                <td>CHOQUEQUIRAO - ROSALINA BEACH</td>
-                            </tr>
-                            <tr>
-                                <th>DAY 04</th>
-                                <td>ROSALINA BEACH - CACHORA</td>
-                            </tr>
-                        </tbody>
-                    </table>
                     <div id="separador"></div>
-                    <h5>ITINERARIO:</h5>
-                    <p><strong>DAY 1. CUSCO - CHIQUISCA</strong></p>
+                    <h5>ITINERARY:</h5>
                     <p>
-                        We leave<strong> Cusco</strong> at 6:00 a.m. in our private transport and we will go to Cachora,
-                        an Andean
-                        community located 4-5h from Cusco at 2800m / 9184 feet, the starting point of the walk where we
-                        meet our muleteers and horses.
+                        Our staff will pick you up at the meeting point (Miguel Grau Square – Callao). We will do the
+                        check in and provide you with lifejackets to then go to the dock to board the ship. Our Palomino
+                        Islands tour will start once the address Captaincy and Coastguard give us the signal. During the
+                        tour we will see the following attractions:<br>
+
+                        <strong>The Camotal:</strong> Part of Callao that was submerged underwater following the
+                        earthquake in 1746. In
+                        low-tide days you can see some remnants of this place.<br>
+
+                        <strong>San Lorenzo Island:</strong> Located about 4 km across the bay of Callao; the island has
+                        an area of 8 km
+                        long by 2.5 km wide. It was a religious center in pre-Columbian times, a cemetery for sailors
+                        and pirates in colonial times, and later became the site of important studies, having been
+                        visited by many scientists including Charles Darwin. Today, San Lorenzo Island is a military
+                        zone. During our tour we will have a great panoramic view of this historic island of San
+                        Lorenzo.<br>
+
+                        <strong>El Fronton Island: </strong> km out from the coast, El Fronton Island emerges as a huge
+                        rock in the sea.
+                        The island houses the remains of a prison of the same name.<br>
+
+                        <strong>Cavinzas Islands: </strong> are a group of islands and rocky islets, caves and caverns
+                        which were
+                        formed naturally. The islands are home to seabirds such as pelicans, guanay, chuitas, gulls of
+                        several varieties, etc. The Cavinzas islands are also inhabited by the Humboldt penguins, which
+                        can occasionally be seen during the tour.<br>
+
+                        <strong>Palomino Islands:</strong> This important group of islands has become a habitat and
+                        refuge for sea lions;
+                        these huge, playful and friendly mammals live on these rocky islands which are full of beautiful
+                        natural caves and caverns. If you are prepared, feel free to have a swim with the sea lions and
+                        take a picture postcard with them.<br>
+
+                        The tour lasts about 4 hours and ends at Miguel Grau Square in Callao. If you ask in advance, we
+                        can provide you with transfer back to your hotel in Lima.
+
+
                     </p>
 
-                    <p><strong>DAY 2. CHIQUISCA - CHOQUEQUIRAO</strong></p>
-                    <p>
-                        We leave Chiquisca at 6:00 a.m. in the direction of Playa Rosalina, a journey which will last
-                        approximately one hour. Next, we will cross the Apurimac River and begin the ascent to Santa
-                        Rosa, zigzagging along a steep slope. This climb takes about 2 hours, and it is important to
-                        leave early so that the heat does not make the walk more difficult than it needs to be.
-                    </p>
 
-                    <p><strong>DAY 03: CHOQUEQUIRAO - ROSALINA BEACH</strong></p>
-                    <p>
-                        This morning we will enjoy a complete guided tour of the Choquequirao complex: we will visit the
-                        upper part (Hanan), and the lower parts (Urin), and some areas still covered with wild foliage
-                        and ready to be restored in the way it was during the Inca times.
-                    </p>
-                    <img src="img/tours/arequipa-peru.jpg" class="img-fluid" alt="Tour Nazca lines"><br><br>
-                    <p><strong>DAY 04: ROSALINA BEACH - CACHORA</strong></p>
-                    <p>
-                        We leave the camp after breakfast to start the climb two to three hours to Chiquisca, then make
-                        our way back to the Abra Capuliyoca, near which we have our lunch. In the afternoon, we continue
-                        on our way back two hours to Cachora, where a private transport will be waiting for us to take
-                        us back to Cusco.
-                    </p>
-
-
-                    <img src="img/tours/puno-peru-islands.jpg" class="img-fluid" alt="Tour En Puno"><br><br>
-
-
-                    <img src="img/tours/camino-inca-inca-trail.jpg" class="img-fluid"
-                        alt="Tour En Cusco - Machu Picchu"><br><br>
 
                     <div id="separador"></div>
                     <ul class="nav nav-pills mb-3 justify-content-center" id="pills-tab" role="tablist"
@@ -255,38 +234,24 @@
                             <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile"
                                 role="tab" aria-controls="pills-profile" aria-selected="false">No Include</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact"
-                                role="tab" aria-controls="pills-contact" aria-selected="false">Importante</a>
-                        </li>
+
                     </ul>
                     <div class="tab-content pb-5" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
                             aria-labelledby="pills-home-tab">
-                            <i class="fa fa-check" aria-hidden="true"></i> Information session prior to
-                            departure.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Pick up from your hotel in the morning and
-                            transfer by private transport to Cachora- starting point of the walk.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Entrance ticket to Choquequirao, for
-                            visitors and staff of the agency.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Tents.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Professional guide (Spanish and
-                            English).<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Cook and kitchen equipment.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Pack of animals (to carry the equipment
-                            tents, food and kitchen).<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> 1 emergency horse.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Meals (03B, 04L, 03D). Vegetarian or
-                            special menus are available at no additional cost.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> First aid kit.<br>
-                            <i class="fa fa-check" aria-hidden="true"></i> Private transportation from Cusco to
-                            Cachora.
+                            <i class="fa fa-check" aria-hidden="true"></i> Professional English speaking Tour Guide.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Entrance tickets and yacht transport to all islands of visit.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Life jacket and first aid kit.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Hot and cold nonalcoholic drinks.<br>
+                            <i class="fa fa-check" aria-hidden="true"></i> Light snacks (chips, banana chips, cookies, etc).
                         </div>
-                        <div class="tab-pane fade" id="pills-contact" role="tabpanel"
-                            aria-labelledby="pills-contact-tab">
-                            Hotel reservation is subject to space availability – Prices do not include VAT
-                            for Peruvian passengers and foreign residents in Peru.
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
+                            aria-labelledby="pills-profile-tab">
+                            <i class="fa fa-minus" aria-hidden="true"></i> Meals.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tips or extra expenses. <br> 
+                            <i class="fa fa-minus" aria-hidden="true"></i> Hotel-Dock-Hotel Transfers.
                         </div>
+
                     </div>
                     @include('layouts.payments')
                     <!-----Booking---------->
@@ -343,14 +308,15 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="cusco-5-dias-4-noches">
-                                            <img src='img/thumbnail/llama-peru.JPG' alt=" cusco en los andes" />
+                                        <a class='entry-link text-center' href="atv-tour">
+                                            <img src="../img/thumbnail/rafting-cusco-Peru.jpg"
+                                                alt="Rafting tour Cusco Peru" />
                                         </a>
                                     </div>
                                     <div class='entry-info'>
-                                        <h3>CUSCO FOR 5 DAYS</h3>
+                                        <h3>ATV Cusco</h3>
                                         <div class='readmore'>
-                                            <a href='cusco-5-days-4-nights' class='button'>More info</a>
+                                            <a href='atv-tour' class='button'>More info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -362,16 +328,16 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="cusco-6-dias-5-noches">
-                                            <img width="400" height="400" src='img/thumbnail/cusco-01.JPG'
+                                        <a class='entry-link text-center' href="../biking">
+                                            <img width="400" height="400" src='../img/thumbnail/biking-cusco.jpg'
                                                 class="attachment-post-grid-s size-post-grid-s"
                                                 alt="Cusco tours de 6 días" />
                                         </a>
                                     </div>
                                     <div class='entry-info'>
-                                        <h3>CUSCO FOR 6 DAYS</h3>
+                                        <h3>Biking in the Andes</h3>
                                         <div class='readmore'>
-                                            <a href="cusco-6-days-5-nights" class='button'>More Info</a>
+                                            <a href="../biking" class='button'>More Info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -383,18 +349,18 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="peru-9-dias-8-noches">
-                                            <img width="400" height="400" src="img/thumbnail/chincheros.jpg"
+                                        <a class='entry-link text-center' href="sandboarding-tour">
+                                            <img width="400" height="400" src="../img/thumbnail/sandboarding-ica-peru.jpg"
                                                 class="attachment-post-grid-s size-post-grid-s"
-                                                alt="Tour en el Valle sagrado de los incas"
-                                                srcset="img/thumbnail/chincheros.jpg 400w"
+                                                alt="Tour for Choquequirao"
+                                                srcset="../img/thumbnail/sandboarding-ica-peru.jpg 400w"
                                                 sizes="(max-width: 400px) 100vw, 400px" />
                                         </a>
                                     </div>
                                     <div class='entry-info'>
-                                        <h3>Perú por 9 días</h3>
+                                        <h3>Sandboarding</h3>
                                         <div class='readmore'>
-                                            <a class='button' href="peru-9-dias-8-noches">Leer más</a>
+                                            <a class='button' href="sandboarding-tour">More Info</a>
                                         </div>
                                     </div>
                                 </div>
@@ -406,9 +372,9 @@
         </div>
     </div>
     @include('layouts.foot')
-    <script type='text/javascript' src='js/swiper.minbb49.js?ver=5.2.2'></script>
-    <script type='text/javascript' src='js/isotope.pkgd.min5243.js?ver=5.4.5'></script>
-    <script type='text/javascript' src='js/scripts.js'></script>
+    <script type='text/javascript' src="{{ asset('js/swiper.minbb49.js?ver=5.2.2') }}"></script>
+    <script type='text/javascript' src="{{ asset('js/isotope.pkgd.min5243.js?ver=5.4.5') }}"></script>
+    <script type='text/javascript' src="{{ asset('js/scripts.js') }}"></script>
     <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js"
         integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous">
     </script>

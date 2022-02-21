@@ -276,7 +276,7 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='../cusco-6-days-5-nights.php'
+                                                                        <a href='cusco-6-dias-5-noches'
                                                                             class='entry-link'><img width="400"
                                                                                 height="400"
                                                                                 src="../img/thumbnail/cusco-01.JPG"
@@ -286,10 +286,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Cusco</h3>
-                                                                        <p>Ombligo del mundo</p>
+                                                                        <h3>Cusco por 6 días</h3>
                                                                         <div class='readmore'>
-                                                                            <a href="../cusco-6-days-5-nights.php"
+                                                                            <a href="cusco-6-dias-5-noches"
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
@@ -298,7 +297,7 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='machupicchu-accelerate.php'
+                                                                        <a href='machupicchu-acelerado'
                                                                             class='entry-link'><img width="400"
                                                                                 height="400"
                                                                                 src="../img/thumbnail/Machupicchu_AET.jpg"
@@ -308,10 +307,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Machu Picchu</h3>
-                                                                        <p>La 7ma maravillas</p>
+                                                                        <h3>Machu Picchu Todo el día</h3>
                                                                         <div class='readmore'>
-                                                                            <a href='../machupicchu-accelerate.php'
+                                                                            <a href='machupicchu-acelerado'
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
@@ -320,7 +318,7 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='../huacachina-ica-peru-castellano.php'
+                                                                        <a href='huacachina-ica-peru-castellano'
                                                                             class='entry-link'><img width="400"
                                                                                 height="400"
                                                                                 src="../img/thumbnail/Peru-Arenero-y-Sandboarding-en-Huacachina.JPG"
@@ -333,7 +331,7 @@
                                                                         <h3>Huacachina</h3>
                                                                         <p>Un Oasis en el desierto</p>
                                                                         <div class='readmore'>
-                                                                            <a href='../huacachina-ica-peru-castellano.php'
+                                                                            <a href='huacachina-ica-peru-castellano'
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
@@ -342,46 +340,42 @@
                                                             <div class='swiper-slide'>
                                                                 <div class='travel-item'>
                                                                     <div class='entry-img'>
-                                                                        <a href='arequipa-3-days.php'
+                                                                        <a href='arequipa-3-dias'
                                                                             class='entry-link'><img width="400"
                                                                                 height="400"
-                                                                                src="../img/thumbnail/arequipa-peru.JPG"
+                                                                                src="img/thumbnail/arequipa-peru.JPG"
                                                                                 class="attachment-post-grid-s size-post-grid-s"
                                                                                 alt="Arequipa agencia de viajes"
-                                                                                srcset="../img/thumbnail/arequipa-peru.JPG 150w"
+                                                                                srcset="img/thumbnail/arequipa-peru.JPG 150w"
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Arequipa</h3>
                                                                         <p>La ciudad Blanca</p>
                                                                         <div class='readmore'>
-                                                                            <a href='../arequipa-3-days.php'
+                                                                            <a href='arequipa-3-dias'
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
                                                             </div>
                                                             <div class='swiper-slide'>
-
                                                                 <div class='travel-item'>
-
                                                                     <div class='entry-img'>
-
-                                                                        <a href='Sacred_Valley.html'
+                                                                        <a href='peru-5-dias-4-noches'
                                                                             class='entry-link'><img
-                                                                                src="../img/thumbnail/llamas.jpg"
+                                                                                src=".img/thumbnail/llamas.jpg"
                                                                                 class="attachment-post-grid-s size-post-grid-s"
                                                                                 alt="Cusco Tours Exclusive"
-                                                                                srcset="../img/thumbnail/llamas.jpg 150w"
+                                                                                srcset="img/thumbnail/llamas.jpg 150w"
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
 
                                                                     </div>
-
                                                                     <div class='entry-info'>
 
                                                                         <h3>Perú por 5 Días</h3>
                                                                         <div class='readmore'>
-                                                                            <a href='../Sacred_Valley.html'
+                                                                            <a href='peru-5-dias-4-noches
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
@@ -394,25 +388,22 @@
 
                                                                     <div class='entry-img'>
 
-                                                                        <a href='Sacred_Valley.html'
+                                                                        <a href='valle-sagrado'
                                                                             class='entry-link'><img
                                                                                 src="img/thumbnail/chincheros.jpg"
                                                                                 class="attachment-post-grid-s size-post-grid-s"
                                                                                 alt="Cusco Tours Exclusive"
-                                                                                srcset="../img/thumbnail/chincheros.jpg 150w"
+                                                                                srcset="img/thumbnail/chincheros.jpg 150w"
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
 
                                                                     </div>
 
                                                                     <div class='entry-info'>
 
-                                                                        <h3>Valle Sagrado de los Incas</h3>
-
-                                                                        <p>Duracion: 1 día</p>
-
+                                                                        <h3>Valle Sagrado de los Incas (Todo el día)</h3>
                                                                         <div class='readmore'>
 
-                                                                            <a href='../Sacred_Valley.html'
+                                                                            <a href='valle-sagrado'
                                                                                 class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
@@ -604,15 +595,15 @@
                                             <div class="row espacio">
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href='../peru-5-dias-4-noches.php'>
+                                                        <a href='peru-5-dias-4-noches'>
                                                             <img class="img-fluid" alt="Destino Perú"
-                                                                src="../img/thumbnail/Thumbnail-2/vacaciones-familiares-peru.jpg">
+                                                                src="img/thumbnail/Thumbnail-2/vacaciones-familiares-peru.jpg">
                                                         </a>
                                                         <div class="card-body">
                                                             <div class='entry-info'>
                                                                 <h4>Perú por 5 días</h4>
                                                                 <p>Cusco, Machu Picchu, Valle Sagrado, Maras Moray</p>
-                                                                <a href='../peru-5-dias-4-noches.php'
+                                                                <a href='peru-5-dias-4-noches'
                                                                     id='botonnuevo'>Leer más</a>
                                                             </div>
                                                         </div>
@@ -620,30 +611,30 @@
                                                 </div>
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="../ciclismo.php">
+                                                        <a href="ciclismo">
                                                             <img class="img-fluid"
-                                                                src="../img/thumbnail/Thumbnail-2/biking-cusco.jpg"
+                                                                src="img/thumbnail/Thumbnail-2/biking-cusco.jpg"
                                                                 alt="Card image cap">
                                                         </a>
                                                         <div class="card-body">
                                                             <h4>Turismo de aventura</h4>
                                                             <p class="card-text">Biking, parapente, motocross,
                                                                 caminatas</p>
-                                                            <a href="../caminatas-peru.php" id="botonnuevo">Leer más</a>
+                                                            <a href="caminatas-peru" id="botonnuevo">Leer más</a>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="#"><img class="img-fluid"
-                                                                src="../img/thumbnail/Thumbnail-2/chincheros.jpg"
+                                                        <a href="valle-sagrado"><img class="img-fluid"
+                                                                src="img/thumbnail/Thumbnail-2/chincheros.jpg"
                                                                 alt="Card image cap">
                                                         </a>
                                                         <div class="card-body">
                                                             <h4>Valle Sagrado de los incas</h4>
                                                             <p class="card-text">Disfruta de la experiencia que
                                                                 tra conocer el valle Sagrado de los Inkas</p>
-                                                            <a href="../valle-sagrado.html" id="botonnuevo">Leer más</a>
+                                                            <a href="valle-sagrado" id="botonnuevo">Leer más</a>
                                                         </div>
                                                     </div>
                                                 </div>
@@ -651,16 +642,16 @@
                                             <div class="row espacio">
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href='#'>
+                                                        <a href='peru-8-dias-7-noches'>
                                                             <img class="img-fluid" alt="Destino Perú"
-                                                                src="../img/thumbnail/Thumbnail-2/arequipa-peru.JPG">
+                                                                src="img/thumbnail/Thumbnail-2/arequipa-peru.JPG">
                                                         </a>
                                                         <div class="card-body">
                                                             <div class='entry-info'>
                                                                 <h4>Perú por 8 días</h4>
                                                                 <p>Lima, Cusco, Machu Picchu, Valle Sagrado, Maras
                                                                     Moray, Puno</p>
-                                                                <a href='../peru-8-dias-7-noches.php'
+                                                                <a href='peru-8-dias-7-noches'
                                                                     id='botonnuevo'>Leer más</a>
                                                             </div>
                                                         </div>
@@ -668,31 +659,31 @@
                                                 </div>
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="../puerto-maldonado-español.php">
+                                                        <a href="puerto-maldonado-español">
                                                             <img class="img-fluid"
-                                                                src="../img/thumbnail/Thumbnail-2/mono-amazonas.jpg"
+                                                                src="img/thumbnail/Thumbnail-2/mono-amazonas.jpg"
                                                                 alt="Card image cap">
                                                         </a>
                                                         <div class="card-body">
                                                             <h4>Puerto maldonado</h4>
                                                             <p class="card-text">Aventura en la selva peruana.</p>
-                                                            <a href="../puerto-maldonado-español.php"
+                                                            <a href="puerto-maldonado-español"
                                                                 id="botonnuevo">Leer más</a>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="../huacachina-ica-peru-castellano.php"><img
+                                                        <a href="huacachina-ica-peru-castellano"><img
                                                                 class="img-fluid"
-                                                                src="../img/thumbnail/Thumbnail-2/Peru-Arenero-y-Sandboarding-en-Huacachina.JPG"
+                                                                src="img/thumbnail/Thumbnail-2/Peru-Arenero-y-Sandboarding-en-Huacachina.JPG"
                                                                 alt="Card image cap">
                                                         </a>
                                                         <div class="card-body">
                                                             <h4>Huacachina</h4>
                                                             <p class="card-text">Nuestro Oasis en Perú, un lugar
                                                                 sacado de otro mundo</p>
-                                                            <a href="../huacachina-ica-peru-castellano.php"
+                                                            <a href="huacachina-ica-peru-castellano"
                                                                 id="botonnuevo">Más info</a>
                                                         </div>
                                                     </div>
@@ -700,55 +691,42 @@
                                             </div>
 
                                             <div class="row espacio">
-
                                                 <div class="col-md-4 mb-3">
-
                                                     <div class="card" style="padding-bottom: 35px">
-
-                                                        <a href='../peru-7-dias-6-noches.php'>
-
+                                                        <a href='peru-7-dias-6-noches'>
                                                             <img class="img-fluid" alt="Destino Perú"
-                                                                src="../img/thumbnail/Thumbnail-2/llamas.jpg">
+                                                                src="img/thumbnail/Thumbnail-2/llamas.jpg">
 
                                                         </a>
-
                                                         <div class="card-body">
-
                                                             <div class='entry-info'>
-
                                                                 <h4>Peru por 7 días</h4>
-
                                                                 <p>Lima, Arequipa, Cusco, Puno</p>
-
-                                                                <a href='../peru-7-dias-6-noches.php'
+                                                                <a href='peru-7-dias-6-noches'
                                                                     id='botonnuevo'>Leer más</a>
-
                                                             </div>
-
                                                         </div>
-
                                                     </div>
-
                                                 </div>
 
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="../puno-3-dias-tour.php">
+                                                        <a href="puno-3-dias-tour">
                                                             <img class="img-fluid"
-                                                                src="../img/thumbnail/Thumbnail-2/puno-peru.JPG"
+                                                                src="img/thumbnail/Thumbnail-2/puno-peru.JPG"
                                                                 alt="Card image cap">
                                                         </a>
                                                         <div class="card-body">
                                                             <h4>Puno</h4>
                                                             <p class="card-text">Duración: 3 días</p>
-                                                            <a href="../puno-3-dias-tour.php" id="botonnuevo">Más
+                                                            <a href="puno-3-dias-tour" id="botonnuevo">Más
                                                                 info</a>
                                                         </div>
                                                     </div>
                                                 </div>
                                                 <div class="col-md-4 mb-3">
                                                     <div class="card" style="padding-bottom: 35px">
-                                                        <a href="../hiram-bingham.html"><img class="img-fluid"
+                                                        <a href="hiram-bingham"><img class="img-fluid"
                                                                 src="../img/thumbnail/Thumbnail-2/Machupicchu.jpg"
                                                                 alt="Card image cap">
                                                         </a>
@@ -756,7 +734,7 @@
                                                             <h4>Hiram Bingham</h4>
                                                             <p class="card-text">El exclusivo tren de lujo hacia
                                                                 Machu Picchu</p>
-                                                            <a href="../hiram-bingham.html" id="botonnuevo">Más Info</a>
+                                                            <a href="hiram-bingham" id="botonnuevo">Más Info</a>
                                                         </div>
                                                     </div>
 
@@ -782,16 +760,16 @@
                                 </div <div id="separadordjm">
                             </div>
                             <div id="divdjm">
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 text-center">
                                     <img src="../img/logos/aatc.png" id="filtro" alt="aatc cusco">
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 text-center">
                                     <img src="../img/logos/marca_peru.PNG" id="filtro" alt="Marca Perú ">
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 text-center">
                                     <img src="../img/logos/regenera2.png" id="filtro" alt="Regenera Cusco Perú">
                                 </div>
-                                <div class="col-lg-3">
+                                <div class="col-lg-3 text-center">
                                     <img src="../img/logos/tripadvisor.png" id="filtro" alt="Trip Advisor">
                                 </div>
                             </div>

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="5 days tour, Luxury Cusco, Peru tours, Machu Picchu luxury" />
     <meta property="og:description" content="We present you a detailed tour for 5 days during your stay in Cusco." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights.php">
+    <meta property="og:url" content="https://andeanexclusive.com/peru-9-days-8-nights">
     <meta property="og:title" content="Cusco 5 days - Machu Picchu - Sacred Valley!">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
@@ -20,24 +20,21 @@
     <link rel="icon" type="image/png" href="img/logoico.png">
     <link rel="stylesheet" type="text/css" href="styles/estilo.css">
     <link rel="stylesheet" type="text/css" href="font-awesome/css/font-awesome.css">
-
     <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css" integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2" crossorigin="anonymous">
-
-
     <script type='text/javascript' src='js/jquery4a5f.js'></script>
     <script type='text/javascript' src='js/mediaelement-and-player.min45a0.js'></script>
 </head>
 
 <body class="home page-template-default page page-id-44 wpb-js-composer js-comp-ver-5.4.5 vc_responsive" style="font-size: 14px; font-weight: 400; color:#494949; font-family: open sans;">
-    @include('layouts.wasa')
     <div class="wrapper">
+        @include('layouts.wasa')
         <header id="header">
             <div class="container">
                 <div class="row">
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="/" rel="home" class="logo-text-link"><img src="img/andean-exclusive-logo.png" id="logo"></a>
+                                <a href="index.html" rel="home" class="logo-text-link"><img src="img/andean-exclusive-logo.png" id="logo"></a>
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">
@@ -47,13 +44,13 @@
                                             <button type="button" class="botondjm">Language <i class="fa fa-chevron-down"></i></button>
                                         </a>
                                         <ul>
-                                            <li><a href="peru-9-dias-8-noches">Español</a></li>
+                                            <li><a href="peru-8-dias-7-noches">Español</a></li>
                                             <li><a>Ingles</a></li>
                                         </ul>
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="peru-9-dias-8-noches"><img src="img/españa.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="peru-8-dias-7-noches"><img src="img/españa.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
                                         <a><img src="img/ingles.png"></a>
                                     </li>
                                 </ul>
@@ -70,7 +67,7 @@
                 <div class="col-sm-12">
                     <article class="blog-item blog-single">
                         <div class="entry-excerpt">
-                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home" data-onepage-slug="home" class="vc_row wpb_row hermoso vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
+                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home" data-onepage-slug="home" class="vc_row wpb_row days01 vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner vc_custom_1461317698190">
                                         <div class="wpb_wrapper">
@@ -86,7 +83,7 @@
                                                                     </div>
                                                                 </center>
                                                                 @endif
-                                                                <h1> PERÚ 9 DAYS 8 NIGHTS</h1>
+                                                                <h1> PERÚ 8 DAYS 7 NIGHTS</h1>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -144,9 +141,9 @@
             <div class="col-lg-6">
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services" class="vc_row-fluid vc_custom_1461248392126">
                     <center>
-                        <h1 id="titulo1">PERÚ 9 DAYS </h1>
+                        <h1 id="titulo1">PERÚ 8 DAYS </h1>
                         <div id="separadordjm2"></div>
-                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima - Cusco - Perú</i>
+                        <p style="color: #0c8178"><i class="fa fa-map-marker"> Lima- Cusco - Perú</i>
                         <div class='readmore'>
                             <a href="contact.html" id="botondjm3" type="submit" name="submit" value="Send"><i class="fa fa-envelope-o"></i> Contact Us</a>
                         </div>

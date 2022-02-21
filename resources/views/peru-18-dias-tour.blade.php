@@ -120,42 +120,38 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3" id="display2">
-                <div data-onepage-title="Services" data-onepage-slug="services"
-                    class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
-                    <div id="similares">
-                        <h1>Tours Similares en Perú</h1>
-                        <div id="separador"></div>
-                        <a href="peru-8-dias-7-noches"><img src="img/thumbnail/destino-per.JPG"
-                                alt="Cusco Tours for 22 days"></a><br><br>
-                        <h2>Perú por 8 días</h2>
-                        <a href="peru-8-dias-7-noches" class="button">Más info</a>
+                <div class="sticky-top" style="padding-top: 75px; z-index: 40">
+                    <div class="card">
+                        <div class="card-body">
+                            <div data-onepage-title="Services" data-onepage-slug="services"
+                                class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+                                <h4 class="text-center">Tours Similares en Perú</h4>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-5-dias-4-noches" class="button">Perú por 5 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="cusco-6-dias-5-noches" class="button">Cusco por 6 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-8-dias-7-noches" class="button">Perú por 8 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-12-dias" class="button">Perú por 12 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-20-dias-tour" class="button">Perú por 20 días</a>
+                                </div>
+                                <div id="separador"></div>
+                            </div>
+                        </div>
                     </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-5-dias-4-noches"><img src="img/thumbnail/Machupicchu_AET.jpg"
-                                alt="Machu Picchu - Cusco Tour"></a>
-                        <br><br>
-                        <h2>Perú 5 días</h2>
-                        <a href="peru-5-dias-4-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="cusco-6-dias-5-noches"><img src='img/thumbnail/cusco-01.JPG'
-                                alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Cusco Autentico</h2>
-                        <p>Duración: 6 Días</p>
-                        <a href="cusco-6-dias-5-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-12-dias"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Perú 12 días</h2>
-                        <a href="peru-12-dias" class="button">Más info</a>
-                    </div>
-                    <div id="separador"></div>
                 </div>
+
             </div>
             <div class="col-lg-6">
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services"
@@ -350,7 +346,8 @@
                         Tarde Libre.<br>
                         Noche de Hotel en Lima.
                     </p>
-                    <img src="img/tours/islas-ballestas-lobos-marinos.jpg" class="img-fluid" alt="Islas ballestas, Ballestas Islands"><br><br>
+                    <img src="img/tours/islas-ballestas-lobos-marinos.jpg" class="img-fluid"
+                        alt="Islas ballestas, Ballestas Islands"><br><br>
 
                     <p><strong>Día 07: Viaje en Bus de Turismo de Lima a Paracas, tour Islas Ballestas y Paracas a
                             Nazca.</strong></p>
@@ -408,7 +405,7 @@
                         físico, tendrá tiempo libre para dar un paseo por los alrededores del hotel o tomar un reparador
                         baño en las aguas termales cercanas.
                     </p>
-                    
+
                     <p><strong>Día 11: Cruz del Cóndor y Viaje en Bus de Chivay a Puno.</strong></p>
                     <p>
                         A las 06.00 am, desayuno en el hotel y salida rumbo a la cruz del Cóndor donde permaneceremos
@@ -496,7 +493,7 @@
                         Machupicchu; o podrá visitar Machupicchu Montaña (4 horas de visita) la cual le dio el nombre a
                         Machupicchu con una belleza paisajista única y una vista espectacular.<br>
                         <img src="img/blog/machu-picchu-exclusive.jpg" class="img-fluid"
-                        alt="Machu Picchu tour Peru"><br><br>
+                            alt="Machu Picchu tour Peru"><br><br>
 
                         Este programa de viaje es ideal para recorrer Machupicchu en su totalidad y tomarse fotografías
                         con tiempo suficiente hasta la hora que usted tome por conveniente retornar en bus a Aguas
@@ -540,49 +537,69 @@
                             <a class="nav-link" id="pills-profile-tab" data-toggle="pill" href="#pills-profile"
                                 role="tab" aria-controls="pills-profile" aria-selected="false">No Incluye</a>
                         </li>
-                        <li class="nav-item">
-                            <a class="nav-link" id="pills-contact-tab" data-toggle="pill" href="#pills-contact"
-                                role="tab" aria-controls="pills-contact" aria-selected="false">Importante</a>
-                        </li>
                     </ul>
                     <div class="tab-content pb-5" id="pills-tabContent">
                         <div class="tab-pane fade show active" id="pills-home" role="tabpanel"
                             aria-labelledby="pills-home-tab">
                             <i class="fa fa-minus" aria-hidden="true"></i> Boletos de avión de Cusco a Lima.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Boletos de avión de Lima a Chiclayo.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Boletos de avión de de Trujillo a Lima.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los ingresos a todos los atractivos turísticos a visitar dentro del Paquete Turístico.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los traslados al hotel, aeropuerto, estaciones de tren y atractivos turísticos.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Guía profesional de turismo en idioma que usted prefiera: inglés o español.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Boletos de avión de de Trujillo a
+                            Lima.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los ingresos a todos los atractivos
+                            turísticos a visitar dentro del Paquete Turístico.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los traslados al hotel, aeropuerto,
+                            estaciones de tren y atractivos turísticos.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Guía profesional de turismo en idioma que
+                            usted prefiera: inglés o español.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> City Tour en Lima.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Boleto de bus Chiclayo a Trujillo.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Visita a las Tumbas Reales del Señor de Sipán.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Visita al Complejo Arqueológico de Huaca Rajada.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Visita a las Tumbas Reales del Señor de
+                            Sipán.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Visita al Complejo Arqueológico de Huaca
+                            Rajada.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> City Tour en Trujillo<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tour a las Pirámides del Sol y la Luna.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tour a la Ciudad de Barro más Grande del Mundo; Chan-Chan.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tour a las Pirámides del Sol y la
+                            Luna.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tour a la Ciudad de Barro más Grande del
+                            Mundo; Chan-Chan.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Viaje en bus de Lima a Paracas<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Tour a las Islas Ballestas.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Tour a la reserva de Paracas.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Viaje en bus de Paracas a Nazca.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Sobrevuelo a las Enigmáticas líneas de Nazca<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Sobrevuelo a las Enigmáticas líneas de
+                            Nazca<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Viaje en bus de Nazca a Arequipa.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> City tour en Arequipa.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tour al Cañón del Colca, Cruz del Cóndor Vista de Cóndores y chivay 2 días y 1 noche.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tour al Cañón del Colca, Cruz del Cóndor
+                            Vista de Cóndores y chivay 2 días y 1 noche.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Viaje en bus Arequipa a Puno.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tour al Lago Titicaca, Isla de Los Uros y Taquile.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Tour guiado de Puno a Cusco (Todo el día de 8am - 5pm aproximadamente).<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> City Tour en Ciudad del Cusco y Alrededores.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tour al Lago Titicaca, Isla de Los Uros y
+                            Taquile.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Tour guiado de Puno a Cusco (Todo el día
+                            de 8am - 5pm aproximadamente).<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> City Tour en Ciudad del Cusco y
+                            Alrededores.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Tour al Valle Sagrado de los Incas.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> Tour a Machu Picchu , tren Expedition<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 01 Almuerzo Buffet en el Valle Sagrado de los Incas.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 01 Almuerzo Buffet en el viaje en bus turístico de Puno a Cusco.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> 01 Almuerzo Buffet en el Valle Sagrado de
+                            los Incas.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> 01 Almuerzo Buffet en el viaje en bus
+                            turístico de Puno a Cusco.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> 01 Almuerzo en el Lago Titicaca.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Boletos de tren ida y vuelta de Cusco/Machupicchu (Aguas Calientes)/Cusco.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los Tickets de ingreso a los atractivos turísticos a visitar.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> 17 noches de Hotel con desayunos buffets incluidos.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Boletos de tren ida y vuelta de
+                            Cusco/Machupicchu (Aguas Calientes)/Cusco.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Todos los Tickets de ingreso a los
+                            atractivos turísticos a visitar.<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> 17 noches de Hotel con desayunos buffets
+                            incluidos.<br>
                             <i class="fa fa-minus" aria-hidden="true"></i> 17 desayunos buffets en los hoteles.<br>
-                            <i class="fa fa-minus" aria-hidden="true"></i> Asistencia y Orientación diaria por parte de nuestro personal profesional en Turismo.
+                            <i class="fa fa-minus" aria-hidden="true"></i> Asistencia y Orientación diaria por parte
+                            de nuestro personal profesional en Turismo.
+                        </div>
+                        <div class="tab-pane fade" id="pills-profile" role="tabpanel"
+                            aria-labelledby="pills-profile-tab">
+                            <i class="fa fa-minus" aria-hidden="true"></i> Propinas<br>
+                            <i class="fa fa-minus" aria-hidden="true"></i> Vuelos extranjeros
                         </div>
                     </div>
                     @include('layouts.payments')

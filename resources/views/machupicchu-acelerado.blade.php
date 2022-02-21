@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="Tours en Cusco, Cusco de lujo, tours en Perú, lujo en Machu Picchu" />
     <meta property="og:description" content="Le presentamos un recorrido detallado durante 3 días durante su estadía en Cusco." />
-    <meta property="og:url" content="https://andeanexclusive.com/machupicchu-acelerado.php">
+    <meta property="og:url" content="https://andeanexclusive.com/machupicchu-acelerado">
     <meta property="og:image" content="https://andeanexclusive.com/img/Machu-Picchu-exclusive.jpg" />}
     <meta property="og:title" content="Cusco 3 días - Machu Picchu Acelerado">
     <meta property="og:type" content="article">
@@ -104,29 +104,26 @@
                                     <div class="row" id="rowdjm">
                                         <div id="separador"></div>
                                         <div class="col-lg-3" id="display2">
+                                            <h1>Tours Similares</h1>
                                             <div id="similares">
-                                                <h1>Tours Similares</h1>
                                                 <div id="separador"></div>
-                                                <a href="cusco-4-dias-3-noches">
-                                                    <img src="img/thumbnail/destino-per.JPG" alt="Destino Perú - Tour en Cusco de lujo">
-                                                </a>
-                                                <h2>Cusco Sensacionall</h2>
-                                                <p>Duración: 4 Días</p>
-                                                <a href="cusco-4-dias-3-noches" class="button">Leer más</a>
+                                                <a href="cusco-4-dias-3-noches" class="button">Cusco por 4 días</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="valle-sagrado"><img src="img/thumbnail/chincheros.jpg" alt="Sacred valley of the Incas Inkas - Luxury tour Cusco"></a>
-                                                <h2>Sacred Valley</h2>
-                                                <p>Duración: 1 díay</p>
-                                                <a href="valle-sagrado" class="button">Leer más</a>
+                                                <a href="valle-sagrado" class="button">Valle Sagrado de los Incas</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="cusco-6-days-5-nights"><img src="img/thumbnail/llama-peru.JPG" alt="Luxury Cusco Tours"></a>
-                                                <h2>Authentic Cusco</h2>
-                                                <p>Duración: 6 Días</p>
-                                                <a href="cusco-6-days-5-nights" class="button">Leer más</a>
+                                                <a href="cusco-6-days-5-nights" class="button">Cusco por 6 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-8-dias-7-noches" class="button">Peru por 8 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-15-dias" class="button">Perú por 15 días</a>
                                             </div>
                                             <div id="separador"></div>
                                         </div>

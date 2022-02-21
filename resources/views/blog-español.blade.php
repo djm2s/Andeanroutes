@@ -35,7 +35,7 @@
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="index.html" rel="home" class="logo-text-link">
+                                <a href="index-español" rel="home" class="logo-text-link">
                                     <img src="img/andean-exclusive-logo.png" id="logo">
                                 </a>
                             </div>

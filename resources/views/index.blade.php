@@ -264,11 +264,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Cusco</h3>
-                                                                        <p>The center of the word</p>
                                                                         <div class='readmore'>
                                                                             <a href="cusco-6-days-5-nights"
-                                                                                class='button'>Read more</a>
+                                                                                class='button'>Cusco 6 days</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -285,11 +283,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Machu Picchu</h3>
-                                                                        <p>The 7th wonder!</p>
                                                                         <div class='readmore'>
                                                                             <a href='machupicchu-accelerate'
-                                                                                class='button'>Read more</a>
+                                                                                class='button'>Machu Picchu Full Day</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -306,11 +302,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Huacachina</h3>
-                                                                        <p>An oasis in the desert</p>
                                                                         <div class='readmore'>
                                                                             <a href="huacachina-ica-peru"
-                                                                                class='button'>Read more</a>
+                                                                                class='button'>Huacachina Tour</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -327,11 +321,9 @@
                                                                                 sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Arequipa</h3>
-                                                                        <p>The white city</p>
                                                                         <div class='readmore'>
                                                                             <a href='arequipa-3-days'
-                                                                                class='button'>Read more</a>
+                                                                                class='button'>Arequipa 3 days tour</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -348,11 +340,8 @@
 
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Perú for 5 days</h3>
-                                                                        <p>From: $345.00</p>
                                                                         <div class='readmore'>
-                                                                            <a href='Sacred_Valley' class='button'>Read
-                                                                                more</a>
+                                                                            <a href='Sacred_Valley' class='button'>Perú for 5 days</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -370,11 +359,8 @@
 
                                                                     </div>
                                                                     <div class='entry-info'>
-                                                                        <h3>Sacred Valey</h3>
-                                                                        <p>Duration: 1 day</p>
                                                                         <div class='readmore'>
-                                                                            <a href='Sacred_Valley' class='button'>Read
-                                                                                more</a>
+                                                                            <a href='Sacred_Valley' class='button'>Sacred Valley</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -587,8 +573,7 @@
                                                             <div class='entry-info'>
                                                                 <h4>Perú for 5 days</h4>
                                                                 <p>Cusco, Machu Picchu, Valle Sagrado, Maras Moray</p>
-                                                                <a href='peru-5-days-4-nights' id='botonnuevo'>Read
-                                                                    more</a>
+                                                                <a href='peru-5-days-4-nights' id='botonnuevo'>Read more</a>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -618,7 +603,7 @@
                                                             <h4>Sacred Valley</h4>
                                                             <p class="card-text">Enjoy of a unique experience in
                                                                 the Inca Heartland with the Rajchi Community</p>
-                                                            <a href="Sacred_Valley" id="botonnuevo">Go somewhere</a>
+                                                            <a href="Sacred_Valley" id="botonnuevo">More Info</a>
                                                         </div>
                                                     </div>
                                                 </div>

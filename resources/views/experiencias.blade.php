@@ -53,8 +53,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href=""><img src="../img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="experiences"><img src="../img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="experiences">EN</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -112,10 +112,7 @@
                                                                     <a href='cusco-4-dias-3-noches' class='entry-link'><img srcset="img/thumbnail/destino-per.JPG 1000w, img/thumbnail/destino-per.JPG 500w" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>CUSCO SENSASIONAL</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 4 días
-                                                                    </div>
+                                                                    <h3>CUSCO SENSASIONAL</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href='cusco-4-dias-3-noches' class='button'>Más Info</a>
                                                                     </div>
@@ -132,10 +129,7 @@
                                                                     <a href="peru-8-dias-7-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/llama-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="llamas peru cusco" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú 8 días</h3>
-                                                                    <div class='info'>
-                                                                        Lima, Cusco, Machu Picchu, Puno
-                                                                    </div>
+                                                                    <h3>Perú 8 días</h3><br>
                                                                     <div class='readmore'>
                                                                         <a class='button' href="peru-8-dias-7-noches">Leer más</a>
                                                                     </div>
@@ -152,10 +146,7 @@
                                                                     <a href="machupicchu-acelerado" class='entry-link'><img src="img/thumbnail/Machupicchu_AET.jpg" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Machu Picchu Acelerado</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 3 días
-                                                                    </div>
+                                                                    <h3>Machu Picchu Acelerado</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href="machupicchu-acelerado" class='button'>Leer más</a>
                                                                     </div>
@@ -172,10 +163,7 @@
                                                                     <a href="peru-6-dias-5-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/cusco-01.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Tour in Cusco" srcset="img/thumbnail/cusco-01.JPG 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Peru 6 días</h3>
-                                                                    <div class='info'>
-                                                                        Lima, Cusco, Machu Picchu
-                                                                    </div>
+                                                                    <h3>Peru 6 días</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href="peru-6-dias-5-noches" class='button'>Leer más</a>
                                                                     </div>
@@ -201,10 +189,7 @@
                                                                     <a href="hiram-bingham" class='entry-link'><img width="400" height="400" src="img/thumbnail/Machupicchu.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Hiram Bingham Cusco Perú" srcset="img/thumbnail/Machupicchu.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Machu Picchu por Hiram Bingham</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 1 día
-                                                                    </div>
+                                                                    <h3>Machu Picchu por Hiram Bingham</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href="hiram-bingham" class='button'>Leer más</a>
                                                                     </div>
@@ -221,10 +206,7 @@
                                                                     <a href="mercado-urubamba" class='entry-link'><img width="400" height="400" src="img/thumbnail/urubamba-market.png" class="attachment-post-grid-s size-post-grid-s" alt="mercado Urubamba - cusco" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Mercado Urubamba</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 1 día
-                                                                    </div>
+                                                                    <h3>Mercado Urubamba</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href="mercado-urubamba" class='button'>Leer más</a>
                                                                     </div>
@@ -241,10 +223,7 @@
                                                                     <a href="ciclismo" class='entry-link'><img width="400" height="400" src="img/thumbnail/biking-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="ciclismo en el valle sagrado" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Ciclismo en el cielo</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 1 día
-                                                                    </div>
+                                                                    <h3>Ciclismo en el cielo</h3><br>
                                                                     <div class='readmore'>
                                                                         <a class='button' href="ciclismo">Leer más</a>
                                                                     </div>
@@ -261,10 +240,7 @@
                                                                     <a href="valle-sagrado" class='entry-link'><img width="400" height="400" src="img/thumbnail/chincheros.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Valle Sagrado Perú" srcset="img/thumbnail/chincheros.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Valle Sagrado</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 1 día
-                                                                    </div>
+                                                                    <h3>Valle Sagrado</h3><br>
                                                                     <div class='readmore'>
                                                                         <a class='button' href="valle-sagrado">Leer más</a>
                                                                     </div>
@@ -290,10 +266,7 @@
                                                                     <a href='puno-3-dias-tour' class='entry-link'><img src="img/thumbnail/puno-peru.JPG" alt="tours en Puno" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Puno</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 3 días
-                                                                    </div>
+                                                                    <h3>Puno</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href='puno-3-dias-tour' class='button'>Leer más</a>
                                                                     </div>
@@ -310,10 +283,7 @@
                                                                     <a href="peru-7-dias-6-noches" class='entry-link'><img width="400" height="400" src="img/thumbnail/arequipa-peru.JPG" class="attachment-post-grid-s size-post-grid-s" alt="Arequipa perú" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú 7 días</h3>
-                                                                    <div class='info'>
-                                                                        Lima, Cusco, Machu Picchu, Puno
-                                                                    </div>
+                                                                    <h3>Perú 7 días</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href="peru-7-dias-6-noches" class='button'>Leer más</a>
                                                                     </div>
@@ -327,15 +297,12 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a href='lima-tour-3-dias' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
+                                                                    <a href='peru-10-dias-9-noches' class='entry-link'><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Lima - Perú</h3>
-                                                                    <div class='info'>
-                                                                        Duración: 3 días
-                                                                    </div>
+                                                                    <h3>Perú por 10 dias</h3><br>
                                                                     <div class='readmore'>
-                                                                        <a href='lima-tour-3-dias' class='button'>Leer más</a>
+                                                                        <a href='peru-10-dias-9-noches' class='button'>Leer más</a>
                                                                     </div>
                                                                 </div>
                                                             </div>
@@ -350,10 +317,7 @@
                                                                     <a href='puerto-maldonado-castellano' class='entry-link'><img width="400" height="400" src="img/thumbnail/mono-amazonas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="mono amazonas" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
-                                                                    <h3>Perú 15 días</h3>
-                                                                    <div class='info'>
-                                                                        Lima, Cusco, Machu Picchu, Puno, Arequipa
-                                                                    </div>
+                                                                    <h3>Perú 15 días</h3><br>
                                                                     <div class='readmore'>
                                                                         <a href='puerto-maldonado-castellano' class='button'>Leer más</a>
                                                                     </div>

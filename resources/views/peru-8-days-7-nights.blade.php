@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="5 days tour, Luxury Cusco, Peru tours, Machu Picchu luxury" />
     <meta property="og:description" content="We present you a detailed tour for 5 days during your stay in Cusco." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-5-days-4-nights.php">
+    <meta property="og:url" content="https://andeanexclusive.com/peru-8-days-7-nights">
     <meta property="og:title" content="Cusco 5 days - Machu Picchu - Sacred Valley!">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="tour de 3 dias, Luxury lima, Lima tours, Lima, Perú" />
     <meta property="og:description" content="Disfruta de este tour en la capital del Perú. Conocida como la ciudad de los reyes." />
-    <meta property="og:url" content="https://andeanexclusive.com/lima-tour-3-dias.php">
+    <meta property="og:url" content="https://andeanexclusive.com/lima-tour-3-dias">
     <meta property="og:title" content="Lima -  Ciudad de los reyes - Capital de Perú">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/tours/lima-peru-tour.jpg" />
@@ -51,8 +51,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#"><img src="img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="lima-3-days-tour"><img src="img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="#">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="lima-3-days-tour">EN</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -101,32 +101,26 @@
                                     <div class="row" id="rowdjm">
                                         <div id="separador"></div>
                                         <div class="col-lg-3" id="display2">
+                                            <h1>Tours Similares</h1>
                                             <div id="similares">
-                                                <h1>Tours Similares</h1>
                                                 <div id="separador"></div>
-                                                <a href="arequipa-3-dias">
-                                                <img src="img/thumbnail/arequipa-perú.JPG" alt="Tour en Arequipa - Perú">
-                                                </a>
-                                                <h2>Arequipa</h2>
-                                                <p>Duración: 4 Días</p>
-                                                <a href="arequipa-3-days" class="button">Leer más</a>
+                                                <a href="arequipa-3-days" class="button">Arequipa 3 dias</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="puno-3-dias-tour"
-                                                <img src="img/thumbnail/puno-peru.JPG" alt="Puno de lujo - Tour en Puno">
-                                                <h2>Puno</h2>
-                                                <p>Duración: 2 Días</p>
-                                                <a href="puno-3-dias-tour" class="button">Leer más</a>
+                                                <a href="puno-3-dias-tour" class="button">Puno 3 dias</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="puerto-maldonado-español">
-                                                <img src="img/thumbnail/mono-amazonas.jpg" alt="Tours de lujo en Puerto Maldonadpo">
-                                                </a>
-                                                <h2>Puerto Maldonado</h2>
-                                                <p>Duración: 3 Días</p>
-                                                <a href="puerto-maldonado-español" class="button">Leer más</a>
+                                                <a href="puerto-maldonado-español" class="button">Puerto Maldonado</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-13-dias" class="button">Perú por 13 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-20-dias" class="button">Perú por 20 días</a>
                                             </div>
                                             <div id="separador"></div>
                                         </div>

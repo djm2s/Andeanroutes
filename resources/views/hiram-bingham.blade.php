@@ -10,7 +10,7 @@
     <meta name="keywords" content="Cusco tours, Tren de loju Cusco, Hiram Bingham, tren de lujo" />
     <meta property="og:description" content="Dirígete a Machu Picchu en primera clase mientras abordas el encantador tren Belmond Hiram Bingham." />
     <meta property="og:image" content="https://andeanexclusive.com/img/tours/Hiram-bingham.jpg" />
-    <meta property="og:url" content="https://andeanexclusive.com/hiram-bingham.html">
+    <meta property="og:url" content="https://andeanexclusive.com/hiram-bingham">
     <meta property="og:title" content="Disfruta del lujoso tren Hiram Bingham hacia Machu Picchu">
     <meta property="og:type" content="webside">
     <meta name="author" content="Web Masters DJM2" />
@@ -55,8 +55,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#"><img src="img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="Hiram_bingham"><img src="img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="#">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="Hiram_bingham">EN></a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>

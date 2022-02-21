@@ -5,10 +5,10 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <title>More about Andean Exclusive Tours. </title>
+    <title>More about Andean Exclusive Tours. Travel Agency </title>
     <meta property="og:description" content="Find a lot of experiences around Perú, luxury tours for enjoy each moment." />
-    <meta property="og:url" content="https://andeanexclusive.com/about.html">
-    <meta property="og:title" content="More about Andean Exclusive Tours.">
+    <meta property="og:url" content="https://andeanexclusive.com/about">
+    <meta property="og:title" content="More about travel agency: Andean Exclusive Tours.">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://andeanexclusive.com/img/cusco-de-noche.jpg" />
     <meta name="author" content="Web Masters DJM2" />
@@ -32,7 +32,7 @@
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="index.html" rel="home" class="logo-text-link"><img src="img/andean-exclusive-logo.png" id="logo"></a>
+                                <a href="/" rel="home" class="logo-text-link"><img src="img/andean-exclusive-logo.png" id="logo"></a>
                             </div>
                             <nav class="main-nav">
                                 <ul class="one-page-menu">

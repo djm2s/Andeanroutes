@@ -32,7 +32,7 @@
                     <div class="col-sm-12">
                         <div class="header-wrapper">
                             <div class="site-branding">
-                                <a href="index.html" rel="home" class="logo-text-link">
+                                <a href="index-español" rel="home" class="logo-text-link">
                                     <div class="logo2"></div>
                                 </a>
                             </div>
@@ -50,8 +50,8 @@
                                     </li>
 									<li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#"><img src="es/img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="adventures"><img src="es/img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="#">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="adventures">EN</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -97,13 +97,13 @@
                                                         <div class="vc_column-inner vc_custom_1461228417147">
                                                             <div class="wpb_wrapper">
                                                                  <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href='cusco-4-days-3-nights.php' class='entry-link'><img  srcset="img/thumbnail/choquequirao-treking.jpg 1000w, img/thumbnail/choquequirao-treking.jpg 500w" alt="Cusco tour"/></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href='adventures/tour-choquequirao' class='entry-link'><img  srcset="img/thumbnail/choquequirao-treking.jpg 1000w, img/thumbnail/choquequirao-treking.jpg 500w" alt="Cusco tour"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Caminata Choquequirao (4 días)</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href='cusco-4-days-3-nights.php' class='button'>Más Info</a>
+                                                                            <a href='adventures/tour-choquequirao' class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -114,13 +114,13 @@
 														<div class="vc_column-inner vc_custom_1461228449756">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-																		<a href="biking.php" class='entry-link'><img width="400" height="400" src="img/thumbnail/biking-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="biking cusco sacred valley"/></a>
+                                                                    <div class='entry-img text-center'>
+																		<a href="../ciclismo" class='entry-link'><img width="400" height="400" src="img/thumbnail/biking-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="biking cusco sacred valley"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Ciclismo</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a class='button' href="cusco-5-days-4-nights.php">Más info</a>
+                                                                            <a class='button' href="../ciclismo">Más info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -131,14 +131,14 @@
                                                         <div class="vc_column-inner vc_custom_1461228417147">
                                                             <div class="wpb_wrapper">
                                                                  <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="machupicchu-accelerate.php" class='entry-link'><img alt="Machu Picchu - Cusco - Perú" src="img/thumbnail/motocros-atv-peru.jpg"/></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href="adventures/tour-atv" class='entry-link'><img alt="Machu Picchu - Cusco - Perú" src="img/thumbnail/motocros-atv-peru.jpg"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Tour en Motocros</h3><br>
 																		
                                                                         <div class='readmore'>
-                                                                            <a href="machupicchu-accelerate.php" class='button'>Más Info</a>
+                                                                            <a href="adventures/tour-atv" class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -149,13 +149,13 @@
                                                         <div class="vc_column-inner vc_custom_1461228449756">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="cusco-6-days-5-nights.php" class='entry-link'><img width="400" height="400" src="img/thumbnail/rafting-cusco-Peru.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tour in Cusco" srcset="img/thumbnail/rafting-cusco-Peru.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href="adventures/tour-rafting" class='entry-link'><img width="400" height="400" src="img/thumbnail/rafting-cusco-Peru.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tour in Cusco" srcset="img/thumbnail/rafting-cusco-Peru.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Rafting</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href="cusco-6-days-5-nights.php" class='button'>Más Info</a>
+                                                                            <a href="adventures/tour-rafting" class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -170,13 +170,13 @@
                                                         <div class="vc_column-inner vc_custom_1461228442150">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="Hiram_bingham.html" class='entry-link'><img width="400" height="400" src="img/thumbnail/sandboarding-ica-peru.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tren de ida a Machu Picchu" srcset="img/thumbnail/sandboarding-ica-peru.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href="../huacachina-ica-peru-castellano" class='entry-link'><img width="400" height="400" src="img/thumbnail/sandboarding-ica-peru.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Tren de ida a Machu Picchu" srcset="img/thumbnail/sandboarding-ica-peru.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Sandboarding</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href="Hiram_bingham.html" class='button'>Más Info</a>
+                                                                            <a href="../huacachina-ica-peru-castellano" class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -187,13 +187,13 @@
                                                         <div class="vc_column-inner vc_custom_1461228442150">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="urubamba-market.php" class='entry-link'><img width="400" height="400" src="img/thumbnail/nadar-con-lobos-marinos.jpg" class="attachment-post-grid-s size-post-grid-s" alt="urubamba market - cusco" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href="tour-islas-palomino" class='entry-link'><img width="400" height="400" src="img/thumbnail/nadar-con-lobos-marinos.jpg" class="attachment-post-grid-s size-post-grid-s" alt="urubamba market - cusco" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Nadar con lobos maribos</h3><br>
                                                                         <div class='readmore'>
-                                                                            <a href="urubamba-market.php" class='button'>Más Info</a>
+                                                                            <a href="tour-islas-palomino" class='button'>Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>
@@ -204,7 +204,7 @@
                                                         <div class="vc_column-inner vc_custom_1461228449756">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
+                                                                    <div class='entry-img text-center'>
                                                                         <a href="biking.php" class='entry-link'><img width="400" height="400" src="img/thumbnail/parapente-lima.jpg" class="attachment-post-grid-s size-post-grid-s" alt="biking cusco sacred valley"/></a>
                                                                     </div>
                                                                     <div class='entry-info'>
@@ -221,13 +221,13 @@
                                                         <div class="vc_column-inner vc_custom_1461228449756">
                                                             <div class="wpb_wrapper">
                                                                 <div class='travel-item'>
-                                                                    <div class='entry-img'>
-                                                                        <a href="Sacred_Valley.html" class='entry-link'><img width="400" height="400" src="img/thumbnail/visit-humantay-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Sacred Valley Cusco" srcset="img/thumbnail/visit-humantay-cusco.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                    <div class='entry-img text-center'>
+                                                                        <a href="adventures/tour-laguna-humantay" class='entry-link'><img width="400" height="400" src="img/thumbnail/visit-humantay-cusco.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Sacred Valley Cusco" srcset="img/thumbnail/visit-humantay-cusco.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                     </div>
                                                                     <div class='entry-info'>
                                                                         <h3>Lago Humantay</h3> <br>
                                                                         <div class='readmore'>
-                                                                            <a class='button' href="Sacred_Valley.html">Más Info</a>
+                                                                            <a class='button' href="adventures/tour-laguna-humantay">Más Info</a>
                                                                         </div>
                                                                     </div>
                                                                 </div>

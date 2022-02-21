@@ -101,27 +101,26 @@
                                     <div class="row" id="rowdjm">
                                         <div id="separador"></div>
                                         <div class="col-lg-3" id="display2">
+                                            <h1>Tours Similares </h1>
                                             <div id="similares">
-                                                <h1>Tours Similares </h1>
                                                 <div id="separador"></div>
-                                                <a href="arequipa-3-days"><img src="img/thumbnail/arequipa-perú.JPG" alt="Arequipa Perú tour de lujo"></a>
-                                                <h2>Arequipa</h2>
-                                                <p>Duración: 4 Días</p>
-                                                <a href="arequipa-3-days" class="button">Leer más</a>
+                                                <a href="arequipa-3-days" class="button">Arequipa por 3 días</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="lima-3-days-tour"><img src="img/thumbnail/ceviche-gambas.jpg" alt="Lima pisco sour Tour"></a>
-                                                <h2>Lima</h2>
-                                                <p>Duración: 3 Días</p>
-                                                <a href="lima-3-days-tour" class="button">Leer más</a>
+                                                <a href="cusco-6-dias-5-noches" class="button">Cusco por 6 días</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="puerto-maldonado"><img src="img/thumbnail/chincheros.jpg" alt="Puerto Maldonado Tours"></a>
-                                                <h2>Puerto Maldonado</h2>
-                                                <p>Duración: 3 Días</p>
-                                                <a href="puerto-maldonado" class="button">Leer más</a>
+                                                <a href="peru-8-dias-7-noches" class="button">Perú por 8 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-10-dias" class="button">Perú por 10 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-18-dias" class="button">Perú por 18 días</a>
                                             </div>
                                             <div id="separador"></div>
                                         </div>
@@ -215,7 +214,7 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a class='entry-link' href="arequipa-3-dias"><img srcset="img/thumbnail/arequipa-perú.JPG 1000w, img/thumbnail/arequipa-perú.JPG 500w" alt="Tour en Arequipa de lujo" /></a>
+                                                                    <a class='entry-link text-center' href="arequipa-3-dias"><img srcset="img/thumbnail/arequipa-perú.JPG 1000w, img/thumbnail/arequipa-perú.JPG 500w" alt="Tour en Arequipa de lujo" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>Arequipa </h3>
@@ -235,7 +234,7 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a class='entry-link' href="hiram-bingham"><img width="400" height="400" src="img/thumbnail/Machupicchu.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Machu Picchu por Hiram Binhgam" srcset="img/thumbnail/Machupicchu.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
+                                                                    <a class='entry-link text-center' href="hiram-bingham"><img width="400" height="400" src="img/thumbnail/Machupicchu.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Machu Picchu por Hiram Binhgam" srcset="img/thumbnail/Machupicchu.jpg 400w" sizes="(max-width: 400px) 100vw, 400px" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>Machu Picchu By Hiram Bingham</h3>
@@ -255,7 +254,7 @@
                                                         <div class="wpb_wrapper">
                                                             <div class='travel-item'>
                                                                 <div class='entry-img'>
-                                                                    <a class='entry-link' href="lima-tours-3-dias"><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Lima tour exclusivo de lujo en Perú" /></a>
+                                                                    <a class='entry-link text-center' href="lima-tours-3-dias"><img width="400" height="400" src="img/thumbnail/ceviche-gambas.jpg" class="attachment-post-grid-s size-post-grid-s" alt="Lima tour exclusivo de lujo en Perú" /></a>
                                                                 </div>
                                                                 <div class='entry-info'>
                                                                     <h3>lima</h3>

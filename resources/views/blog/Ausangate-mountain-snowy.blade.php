@@ -52,8 +52,8 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="apu-ausangate-nevado"><img src="../img/españa.png"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a><img src="../img/ingles.png"></a>
+                                        <a href="apu-ausangate-nevado">ES</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a>EN</a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>

@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="Tour de 6 días, Cusco de lujo, tours en Perú, lujo en Machu Picchu" />
     <meta property="og:description" content="Le presentamos un recorrido detallado durante 6 días para disfrutar de su estadía en Cusco." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-6-dias-5-noches.php">
+    <meta property="og:url" content="https://andeanexclusive.com/cusco-6-dias-5-noches">
     <meta property="og:title" content="Cusco 6 días - Machu Picchu - Valle Sagrado!">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
@@ -101,27 +101,26 @@
                                     <div class="row" id="rowdjm">
                                         <div id="separador"></div>
                                         <div class="col-lg-3" id="display2">
+                                            <h1>Tours Similares</h1>
                                             <div id="similares">
-                                                <h1>Tours Similares</h1>
                                                 <div id="separador"></div>
-                                                <img src='img/thumbnail/Machupicchu_AET.jpg' alt="Machu Picchu - Exclusivo - de lujo">
-                                                <h2>Machu Picchu Acelerado</h2>
-                                                <p>Duration: 1 Día</p>
-                                                <a href="machupicchu-acelerado.php" class="button">Leer más</a>
+                                                <a href="machupicchu-acelerado.php" class="button">Machu Picchu full day</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <img src='img/thumbnail/llama-peru.JPG' alt="Machu Picchu - Cusco Tour">
-                                                <h2>Cusco Magestuoso</h2>
-                                                <p>Duración: 5 Días</p>
-                                                <a href="cusco-5-days-4-nights.php" class="button">Leer más</a>
+                                                <a href="cusco-5-days-4-nights.php" class="button">Cusco por 5 días</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <img src='img/thumbnail/biking-cusco.jpg' alt="Luxury Cusco Tours">
-                                                <h2>Ciclismo en los Andes</h2>
-                                                <p>Duración: 1 Days</p>
-                                                <a href="biking.php" class="button">Leer más</a>
+                                                <a href="biking.php" class="button">Ciclismo en los andes</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="adventures/montaña-de-colores" class="button">Montaña de colores</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-15-dias" class="button">Perú por 15 días</a>
                                             </div>
                                             <div id="separador"></div>
                                         </div>

@@ -6,10 +6,10 @@
     <meta charset="UTF-8">
     <title>9 días en Perú - Peru por 9 días, 8 noches - Machu Picchu - Valle Sagrado - City Tours</title>
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
-    <meta name="keywords" content="peru por 9 dias, 9 dias en peru" />
-    <meta property="og:description" content="perú por 9 dias, ven a conocer Perú en un tour de 9 días." />
+    <meta name="keywords" content=" tour de 9 días, Cusco lujoso, Peru tours, Machu Picchu de lujo" />
+    <meta property="og:description" content="8 días en Perú - Peru por 8 días, 7 noches - Machu Picchu - Valle Sagrado - City Tours" />
     <meta property="og:url" content="https://andeanexclusive.com/peru-9-dias-8-noches">
-    <meta property="og:title" content="Perú 9 dias 8 noches.">
+    <meta property="og:title" content="Perú 8 días - Machu Picchu - Sacred Valley - Lima - Puno">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
     <meta name="author" content="Web Masters DJM2" />
@@ -45,13 +45,17 @@
                                         </a>
                                         <ul>
                                             <li><a>Español</a></li>
-                                            <li><a href="peru-9-days-8-nights">Ingles</a></li>
+                                            <li><a href="peru-8-days-7-nights">Ingles</a></li>
                                         </ul>
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#"><img src="img/españa.png" alt="Idioma Tarvel Agency"></a>&nbsp;&nbsp;&nbsp;&nbsp;
-                                        <a href="peru-9-days-8-nights"><img src="img/ingles.png" alt="english Travel Agency"></a>
+                                        <a href="">
+                                            Es
+                                        </a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="peru-8-days-7-nights">
+                                            En
+                                        </a>
                                     </li>
                                 </ul>
                                 <a href="javascript:;" id="mobile-menu"><span></span></a>
@@ -67,7 +71,7 @@
                 <div class="col-sm-12">
                     <article class="blog-item blog-single">
                         <div class="entry-excerpt">
-                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home" data-onepage-slug="home" class="vc_row wpb_row hermoso vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
+                            <div data-vc-full-width="true" data-vc-full-width-init="false" data-onepage-title="Home" data-onepage-slug="home" class="vc_row wpb_row days01 vc_row-has-fill vc_row-o-full-height vc_row-o-content-middle vc_row-flex">
                                 <div class="wpb_column vc_column_container vc_col-sm-12">
                                     <div class="vc_column-inner vc_custom_1461317698190">
                                         <div class="wpb_wrapper">
@@ -83,7 +87,7 @@
                                                                     </div>
                                                                 </center>
                                                                 @endif
-                                                                <h1> PERÚ 9 DÍAS 7 NOCHES</h1>
+                                                                <h1> PERÚ 9 DÍAS 8 NOCHES</h1>
                                                             </div>
                                                         </div>
                                                     </div>
@@ -106,34 +110,26 @@
         <div class="row">
             <div class="col-lg-3">
                 <div data-onepage-title="Services" data-onepage-slug="services" class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+                    <h4 class="text-center">Tours Similares</h4>
                     <div id="similares">
-                        <h1>Tours Similares</h1>
                         <div id="separador"></div>
-                        <a href="peru-8-dias-7-noches"><img src="img/thumbnail/destino-per.JPG" alt="Cusco Tours magestic"></a><br><br>
-                        <h2>Perú por 8 días</h2>
-                        <a href="peru-8-dias-7-noches" class="button">Más info</a>
+                        <a href="cusco-4-dias-3-noches" class="button">Cusco por 4 días</a>
                     </div>
                     <div id="similares">
                         <div id="separador"></div>
-                        <a href="peru-5-dias-4-noches"><img src="img/thumbnail/Machupicchu_AET.jpg" alt="Machu Picchu - Cusco Tour"></a>
-                        <br><br>
-                        <h2>Perú 5 días</h2>
-                        <a href="peru-5-dias-4-noches" class="button">Más info</a>
+                        <a href="peru-5-dias-4-noches" class="button">Perú por 5 días</a>
                     </div>
                     <div id="similares">
                         <div id="separador"></div>
-                        <a href="cusco-6-dias-5-noches"><img src='img/thumbnail/cusco-01.JPG' alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Cusco Autentico</h2>
-                        <p>Duración: 6 Días</p>
-                        <a href="cusco-6-dias-5-noches" class="button">Más info</a>
+                        <a href="cusco-6-dias-5-noches" class="button">Cusco por 6 días</a>
                     </div>
                     <div id="similares">
                         <div id="separador"></div>
-                        <a href="peru-7-dias-6-noches"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Perú 7 días</h2>
-                        <a href="peru-7-dias-6-noches" class="button">Más info</a>
+                        <a href="peru-7-dias-6-noches" class="button">Perú por 7 días</a>
+                    </div>
+                    <div id="similares">
+                        <div id="separador"></div>
+                        <a href="peru-12-dias" class="button">Perú por 12 días</a>
                     </div>
                     <div id="separador"></div>
                 </div>
@@ -141,11 +137,11 @@
             <div class="col-lg-6">
                 <div data-onepage-title="Services" style="text-align:justify" data-onepage-slug="services" class="vc_row-fluid vc_custom_1461248392126">
                     <center>
-                        <h1 id="titulo1">PERÚ 8 DÍAS </h1>
+                        <h1 id="titulo1">PERÚ 9 DÍAS </h1>
                         <div id="separadordjm2"></div>
                         <p style="color: #0c8178"><i class="fa fa-map-marker"> Cusco - Perú</i>
                         <div class='readmore'>
-                            <a href="mailto:reservas@andeanexclusive.com" id="botondjm3" type="submit" name="submit" value="Send"><i class="fa fa-envelope-o"></i> Contáctenos</a>
+                            <a href="contact.html" id="botondjm3" type="submit" name="submit" value="Send"><i class="fa fa-envelope-o"></i> Contáctenos</a>
                         </div>
                         </p>
                     </center>

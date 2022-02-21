@@ -84,6 +84,21 @@ Route::get('peru-18-days-tour', function(){return view('peru-18-days-tour');});
 Route::get('peru-20-days-tour', function(){return view('peru-20-days-tour');});
 Route::get('peru-22-days', function(){return view('peru-22-days');});
 
+//Adventures English
+Route::get('adventures/choquequirao-tour', function(){return view('adventures/choquequirao-tour');});
+Route::get('adventures/atv-tour', function(){return view('adventures/atv-tour');});
+Route::get('adventures/rafting-tour', function(){return view('adventures/rafting-tour');});
+Route::get('adventures/sandboarding-peru', function(){return view('adventures/sandboarding-peru');});
+Route::get('adventures/islands-palomino-tour', function(){return view('adventures/islands-palomino-tour');});
+Route::get('adventures/humantay-lake', function(){return view('adventures/humantay-lake');});
+Route::get('adventures/rainbow-mountain', function(){return view('adventures/rainbow-mountain');});
+//Aventuras Español
+Route::get('adventures/tour-choquequirao', function(){return view('adventures/tour-choquequirao');});
+Route::get('adventures/tour-atv', function(){return view('adventures/tour-atv');});
+Route::get('adventures/tour-rafting', function(){return view('adventures/tour-rafting');});
+Route::get('adventures/tour-islas-palomino', function(){return view('adventures/tour-islas-palomino');});
+Route::get('adventures/tour-laguna-humantay', function(){return view('adventures/tour-laguna-humantay');});
+Route::get('adventures/montaña-de-colores', function(){return view('adventures/montaña-de-colores');});
 //Rutas Español
 Route::get('index-español', function(){    return view('index-español');});
 Route::get('experiencias', function(){    return view('experiencias');});
@@ -102,6 +117,7 @@ Route::get('cusco-6-dias-5-noches', function(){ return view('cusco-6-dias-5-noch
 Route::get('hiram-bingham', function(){ return view('hiram-bingham');});
 Route::get('mercado-urubamba', function(){ return view('mercado-urubamba');});
 Route::get('ciclismo', function(){ return view('ciclismo');});
+Route::get('arequipa-3-dias', function(){ return view('arequipa-3-dias');});
 Route::get('valle-sagrado', function(){ return view('puerto-maldonado-castellano');});
 Route::get('puerto-maldonado-castellano', function(){ return view('valle-sagrado');});
 Route::get('puno-3-dias-tour', function(){ return view('puno-3-dias-tour');});

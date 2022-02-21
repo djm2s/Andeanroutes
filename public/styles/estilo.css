@@ -755,6 +755,50 @@ alto {
     background-size: cover !important;
 }
 
+.adventures {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/atv-cusco-tours-exclusive.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.canotaje {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/canotaje-tour-cusco.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.container .card {
+    border-style: none;
+}
+
+.palomino-islands {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/palomino-islands-swim.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.humantay {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/laguna-lake-humantya.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
+.vinicunca {
+    margin-bottom: 0px !important;
+    background: #0f0030 url("../img/tours/rainbow-mountain-vinicunca.jpg");
+    background-position: center !important;
+    background-repeat: no-repeat !important;
+    background-size: cover !important;
+}
+
 .tours-varios-dias {
     margin-bottom: 0px !important;
     background: #0f0030 url("../img/tours/cusco-maravilloso.jpg");

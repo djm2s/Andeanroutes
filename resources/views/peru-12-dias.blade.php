@@ -120,41 +120,32 @@
     <div class="container">
         <div class="row">
             <div class="col-lg-3" id="display2">
-                <div data-onepage-title="Services" data-onepage-slug="services"
-                    class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
-                    <div id="similares">
-                        <h1>Tours Similares</h1>
-                        <div id="separador"></div>
-                        <a href="peru-8-dias-7-noches"><img src="img/thumbnail/destino-per.JPG"
-                                alt="Cusco Tours magestic"></a><br><br>
-                        <h2>Perú por 8 días</h2>
-                        <a href="peru-8-dias-7-noches" class="button">Más info</a>
+                <div class="sticky-top" style="padding-top: 75px; z-index: 40">
+                    <div class="card">
+                        <div class="card-body">
+                            <div data-onepage-title="Services" data-onepage-slug="services"
+                                class="vc_row wpb_row vc_row-fluid vc_custom_1461248392126">
+                                <h4 class="text-center">Tours Similares</h4>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-5-dias-4-noches" class="button">Perú por 5 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="cusco-6-dias-5-noches" class="button">Cusco por 6 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-8-dias-7-noches" class="button">Perú por 8 días</a>
+                                </div>
+                                <div id="similares">
+                                    <div id="separador"></div>
+                                    <a href="peru-15-dias-" class="button">Perú por 15 días</a>
+                                </div>
+                                <div id="separador"></div>
+                            </div>
+                        </div>
                     </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-5-dias-4-noches"><img src="img/thumbnail/Machupicchu_AET.jpg"
-                                alt="Machu Picchu - Cusco Tour"></a>
-                        <br><br>
-                        <h2>Perú 5 días</h2>
-                        <a href="peru-5-dias-4-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="cusco-6-dias-5-noches"><img src='img/thumbnail/cusco-01.JPG'
-                                alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Cusco Autentico</h2>
-                        <p>Duración: 6 Días</p>
-                        <a href="cusco-6-dias-5-noches" class="button">Más info</a>
-                    </div>
-                    <div id="similares">
-                        <div id="separador"></div>
-                        <a href="peru-7-dias-6-noches"><img src='img/thumbnail/llamas.jpg' alt="Luxury Cusco Tours"></a>
-                        <br><br>
-                        <h2>Perú 7 días</h2>
-                        <a href="peru-7-dias-6-noches" class="button">Más info</a>
-                    </div>
-                    <div id="separador"></div>
                 </div>
             </div>
             <div class="col-lg-6">
@@ -298,8 +289,7 @@
                         Juanita, un espectacular hallazgo de una niña perteneciente a la nobleza Inca que fue
                         descubierta en las frías faldas del nevado Ampato. Por la tarde tomaremos el bus de turismo que
                         nos llevara a la ciudad de Puno, donde pasaremos la noche en un Hotel.</p>
-                        <img src="img/tours/puno-peru-islands.jpg" class="img-fluid"
-                        alt="Responsive image"><br><br>
+                    <img src="img/tours/puno-peru-islands.jpg" class="img-fluid" alt="Responsive image"><br><br>
 
                     <p><strong>Día 07: Tour en el Lago Titicaca, Isla Flotante de los Uros y Taquile.</strong></p>
                     <p>Pasaremos a recogerle a su hotel a las 7:00 a.m; aproximadamente para trasladarle al Puerto e

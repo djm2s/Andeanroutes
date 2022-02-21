@@ -8,7 +8,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no">
     <meta name="keywords" content="Tour de 6 días,Cusco de lujo, Peru tours, Machu Picchu exclusivo" />
     <meta property="og:description" content="Le presentamos un tour detallado por 4 días en Cusco para disfrutar su estadía en Perú." />
-    <meta property="og:url" content="https://andeanexclusive.com/cusco-4-dias-3-noches.php">
+    <meta property="og:url" content="https://andeanexclusive.com/cusco-4-dias-3-noches">
     <meta property="og:title" content="Cusco 4 days - Machu Picchu - Sacred Valley!">
     <meta property="og:type" content="article">
     <meta property="og:image" content="https://www.andeanexclusive.com/img/llama2.jpg" />
@@ -51,7 +51,7 @@
                                     </li>
                                     <li id="wasanum" class='menu-item'><a href='https://bit.ly/3kYXpXr' target="_blank">+51 979 721 194</a></li>
                                     <li id="display2" class="menu-has-children">
-                                        <a href="#">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
+                                        <a href="">Es</a>&nbsp;&nbsp;&nbsp;&nbsp;
                                         <a href="cusco-4-days-3-nights">En</a>
                                     </li>
                                 </ul>
@@ -101,27 +101,26 @@
                                     <div class="row" id="rowdjm">
                                         <div id="separador"></div>
                                         <div class="col-lg-3" id="display2">
+                                            <h1>Tours Similares</h1>
                                             <div id="similares">
-                                                <h1>Tours Similares</h1>
                                                 <div id="separador"></div>
-                                                <a href="cusco-5-dias-4-noches"><img src="img/thumbnail/llama-peru.JPG" alt="Cusco Tours magestuosos"></a>
-                                                <h2>Cusco Magestuoso</h2>
-                                                <p>Duración: 5 Días</p>
-                                                <a href="cusco-5-dias-4-noches" class="button">Leer más</a>
+                                                <a href="cusco-5-dias-4-noches" class="button">Cusco 5 días</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="machupicchu-acelerado"><img src="img/thumbnail/Machupicchu_AET.jpg" alt="Machu Picchu - Cusco Tour"></a>
-                                                <h2>Machu Picchu Acelerado</h2>
-                                                <p>Duración: 1 Día</p>
-                                                <a href="machupicchu-acelerado" class="button">Leer más</a>
+                                                <a href="machupicchu-acelerado" class="button">Machu Picchu full day</a>
                                             </div>
                                             <div id="similares">
                                                 <div id="separador"></div>
-                                                <a href="cusco-6-dias-5-noches"><img src='img/thumbnail/cusco-01.JPG' alt="Cusco Tours de lujo"></a>
-                                                <h2>Cusco auténtico</h2>
-                                                <p>Duracíon: 6 Días</p>
-                                                <a href="cusco-6-dias-5-noches" class="button">Leer más</a>
+                                                <a href="cusco-6-dias-5-noches" class="button">Cusco 6 dias</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-15-dias" class="button">Perú por 15 días</a>
+                                            </div>
+                                            <div id="similares">
+                                                <div id="separador"></div>
+                                                <a href="peru-20-dias-tour" class="button">Perú por 20 días</a>
                                             </div>
                                             <div id="separador"></div>
                                         </div>

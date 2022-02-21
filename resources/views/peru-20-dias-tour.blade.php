@@ -644,7 +644,7 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="cusco-5-dias-4-noches">
+                                        <a class='entry-link text-center' href="cusco-5-dias-4-noches">
                                             <img src='img/thumbnail/llama-peru.JPG' alt=" cusco en los andes" />
                                         </a>
                                     </div>
@@ -666,7 +666,7 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="cusco-6-dias-5-noches">
+                                        <a class='entry-link text-center' href="cusco-6-dias-5-noches">
                                             <img width="400" height="400" src='img/thumbnail/cusco-01.JPG'
                                                 class="attachment-post-grid-s size-post-grid-s"
                                                 alt="Cusco tours de 6 días" />
@@ -690,7 +690,7 @@
                             <div class="wpb_wrapper">
                                 <div class='travel-item'>
                                     <div class='entry-img'>
-                                        <a class='entry-link' href="peru-9-dias-8-noches">
+                                        <a class='entry-link text-center' href="peru-9-dias-8-noches">
                                             <img width="400" height="400" src="img/thumbnail/chincheros.jpg"
                                                 class="attachment-post-grid-s size-post-grid-s"
                                                 alt="Tour en el Valle sagrado de los incas"
